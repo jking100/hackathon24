@@ -5,7 +5,7 @@
 #
 # AUTOMATIC INSTALLATION VIA REQUIREMENTS.TXT
 # 
-# { INSTALL PYTHON 3.11 IF NOT FOUND. CHECK BY ls -l /usr/bin/ | grep "python"
+# { INSTALL PYTHON 3.11 IF NOT FOUND. CHECK BY ls -l /usr/bin/ | grep "python" (if found you will see "python3.11")
 # $ sudo zypper install python311 //installs as /usr/bin/python3.11
 # $ cd /path/to/this/project/
 # $ python3.11 -m venv hackathon24venv //create venv(hackathon24venv) in project folder

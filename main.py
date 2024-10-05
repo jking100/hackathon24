@@ -12,6 +12,7 @@ def main():
     '''
     main is here
     '''
+    exit("Exiting succesfully from main() within main.py")
     return None
 
 if __name__ == "__main__":
