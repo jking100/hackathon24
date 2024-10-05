@@ -1,5 +1,6 @@
 hackathon24venv/
 __pycache__/
+.vscode/
 OUR_SECRETS/
 
 hackathon24.code-workspace
