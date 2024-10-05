@@ -15,9 +15,9 @@
 # }
 #
 # $ source hackathon24venv/bin/activate //to enter venv
-# $ cat ./requirements.txt | wc -l //67
+# $ cat ./requirements.txt | wc -l //71
 # $ pip install -r ./requirements.txt
-# $ pip freeze | wc -l //67
+# $ pip freeze | wc -l //71
 # $ pip check //"No broken requirements found."
 #
 # AUTO INSTALL SHOULD BE COMPLETE, MAKE SURE SCRIPT PASSES NOW: execute main.py
@@ -44,7 +44,7 @@
 # $ pip install --upgrade matplotlib // 3.9.2
 # $ pip install --upgrade torch // 2.4.1
 # $ pip install --upgrade tensorflow // 2.17.0
-# $ pip freeze | wc -l //67
+# $ pip freeze | wc -l //71
 # $ pip check //"No broken requirements found."
 #
 # MANUAL INSTALL SHOULD BE COMPLETE, MAKE SURE SCRIPT PASSES NOW: execute main.py
@@ -68,9 +68,9 @@ def check_package_versions(verbose=True):
         print("-" * 80)
         print("\t\tChecking main package versions")
 
-    curr_python_version = f"{sys.version_info.major}.{sys.version_info.minor}.{sys.version_info.micro}"
+    curr_python_version = f"{sys.version_info.major}.{sys.version_info.minor}"
     required_versions = {
-            "python": "3.11.10",
+            "python": "3.11",
             "numpy": "1.26.4",
             "pandas": "2.2.3",
             "matplotlib": "3.9.2",
