@@ -11,7 +11,7 @@ from my_check_packages import check_package_versions
 
 def main():
     '''
-    main is here
+    main is here, and ive made changes to test on github workflow
     '''
     exit("Exiting succesfully from main() within main.py")
     return None
