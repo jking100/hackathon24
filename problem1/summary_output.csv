@@ -1,0 +1,4228 @@
+STATE,Pesticide Code,Pesticide Name,Total_Concentration
+AL,026,"2,4-D",2972.7
+AL,028,Dieldrin,0.0192
+AL,032,Diuron,216.4
+AL,058,MGK-264,0.015
+AL,070,Piperonyl butoxide,0.0075
+AL,102,Carbaryl,0.001
+AL,149,Simazine,4091.82
+AL,153,Bromacil,1021.1
+AL,155,Dicamba,68.0
+AL,204,Acephate,0.1121
+AL,249,Prometryn,2.02
+AL,283,Metolachlor,578.5
+AL,305,Atrazine,7446.45
+AL,318,MCPA,313.9
+AL,329,Picloram,74.0
+AL,333,Propazine,22.0
+AL,701,Fluometuron,479.7
+AL,731,Triclopyr,235.6
+AL,758,Bentazon,13.16
+AL,780,Tebuthiuron,1209.3
+AL,785,Desisopropyl atrazine,1079.1
+AL,930,Bifenthrin,0.009128
+AL,942,Prometon,381.38
+AL,964,Desethyl atrazine,1354.3
+AL,967,Imidacloprid,30.900000000000002
+AL,ABN,Acetochlor ethanesulfonic acid (ESA),27.0
+AL,ABO,Acetochlor oxanilic acid (OA),9.16
+AL,ABP,Alachlor ethanesulfonic acid (ESA),20.0
+AL,ABQ,Alachlor oxanilic acid (OA),2.04
+AL,ACB,Imazapyr,1019.9
+AL,ACG,Metolachlor ethanesulfonic acid (ESA),490.5
+AL,ACH,Metolachlor oxanilic acid (OA),245.7
+AL,ACP,Sulfometuron methyl,22.400000000000002
+AL,ACT,Siduron,4.0
+AL,ACZ,Imazapic,4.5
+AL,AED,Hydroxy atrazine,1253.7
+AL,AEE,Imazamethabenz acid,1.0
+AL,B46,Clopyralid,13.0
+AR,028,Dieldrin,0.0096
+AR,058,MGK-264,0.01
+AR,102,Carbaryl,0.0055
+AR,382,1-Naphthol,0.0025
+AZ,026,"2,4-D",526.102
+AZ,028,Dieldrin,0.0022
+AZ,032,Diuron,1756.0
+AZ,125,Diphenylamine (DPA),0.0028
+AZ,134,DCPA,7.800000000000001
+AZ,149,Simazine,1.18
+AZ,151,Trifluralin,2.5
+AZ,153,Bromacil,4.2
+AZ,178,Omethoate,0.5
+AZ,180,Carbofuran,3.0
+AZ,200,EPTC,224.0
+AZ,230,Pendimethalin,7.5
+AZ,249,Prometryn,1.9600000000000002
+AZ,283,Metolachlor,20.0
+AZ,305,Atrazine,141.25
+AZ,333,Propazine,13.0
+AZ,596,Norflurazon,462.9
+AZ,717,Chlorimuron ethyl,50.0
+AZ,780,Tebuthiuron,126.46
+AZ,781,Cyfluthrin,0.0198
+AZ,902,Endosulfan sulfate,0.0456
+AZ,906,"DDT p,p'",0.0091
+AZ,910,"DDE p,p'",1.4274
+AZ,942,Prometon,177.383
+AZ,964,Desethyl atrazine,35.275999999999996
+AZ,967,Imidacloprid,2.5
+AZ,ABN,Acetochlor ethanesulfonic acid (ESA),20.0
+AZ,ABO,Acetochlor oxanilic acid (OA),22.3
+AZ,ABP,Alachlor ethanesulfonic acid (ESA),781.7
+AZ,ABQ,Alachlor oxanilic acid (OA),33.660000000000004
+AZ,ACB,Imazapyr,39.2
+AZ,ACD,Imazethapyr,2.0
+AZ,ACG,Metolachlor ethanesulfonic acid (ESA),301.1
+AZ,ACH,Metolachlor oxanilic acid (OA),100.0
+AZ,AED,Hydroxy atrazine,2.0
+CA,002,Allethrin,0.017
+CA,011,Captan,424.0937
+CA,022,DDT,0.85
+CA,024,Diazinon,170.457
+CA,026,"2,4-D",175.963
+CA,028,Dieldrin,4.4385
+CA,031,Dinoseb,1.3
+CA,032,Diuron,1365.5544
+CA,033,Anilazine,2.68
+CA,034,Endrin,0.3871
+CA,042,Azinphos methyl,111.3695
+CA,047,Dicofol Total,4.795
+CA,050,Lindane (BHC gamma),0.018000000000000002
+CA,052,Malathion,42.4731
+CA,055,Methoxychlor Total,18.407
+CA,057,Parathion methyl,8.36
+CA,058,MGK-264,1.9716
+CA,065,Parathion ethyl,0.168
+CA,069,Mevinphos Total,1.482
+CA,070,Piperonyl butoxide,70.5756
+CA,075,Pyrethrins,0.32699999999999996
+CA,083,O-Phenylphenol,344.4304
+CA,087,DDD (TDE),0.053
+CA,090,Toxaphene,6.4689000000000005
+CA,102,Carbaryl,215.7724
+CA,104,Dodine,0.11270000000000001
+CA,107,Ethion,0.43
+CA,108,Tetradifon,0.01
+CA,111,Ethoxyquin,16.3635
+CA,114,Chlorpropham,2573.3434
+CA,115,Endosulfans Total,9.404
+CA,124,Coumaphos,0.0712
+CA,125,Diphenylamine (DPA),701.7148
+CA,126,Folpet,1.926
+CA,129,Linuron,38.1237
+CA,130,Trichlorfon,0.0044
+CA,134,DCPA,32.4312
+CA,143,Heptachlor epoxide,0.1074
+CA,144,Dicloran,311.1195
+CA,149,Simazine,3184.988
+CA,151,Trifluralin,29.792
+CA,153,Bromacil,1349.8
+CA,157,Thiabendazole,1906.0608
+CA,159,Methomyl,147.8651
+CA,160,Chlorpyrifos,51.361
+CA,163,Fonofos,7.492
+CA,164,Chlorothalonil,66.6143
+CA,165,Phosmet,124.6444
+CA,166,Phosalone,0.222
+CA,168,Aldicarb sulfone,0.35800000000000004
+CA,169,Aldicarb sulfoxide,1.455
+CA,170,Methamidophos,52.7057
+CA,171,Dimethoate,41.2692
+CA,172,Chlordane trans,0.1377
+CA,173,Chlordane cis,0.2842
+CA,175,Ethoprop,0.0617
+CA,178,Omethoate,23.6309
+CA,180,Carbofuran,210.5632
+CA,181,Metribuzin,42.4944
+CA,189,Phorate sulfone,0.1975
+CA,190,Phorate sulfoxide,0.0261
+CA,192,Benomyl,51.5842
+CA,197,Methidathion,0.2576
+CA,200,EPTC,1.3969
+CA,203,Phosphamidon,0.24000000000000002
+CA,204,Acephate,84.1385
+CA,206,Nonachlor trans,0.0059
+CA,207,Nonachlor cis,0.0025
+CA,208,Malathion oxygen analog,15.534999999999998
+CA,210,Carboxin,0.017
+CA,216,Disulfoton sulfone,0.08
+CA,217,DEF (Tribufos),0.0058
+CA,219,Oxydemeton methyl,1.2499
+CA,222,Permethrin cis,515.3684
+CA,223,Permethrin trans,589.3159
+CA,224,Profenofos,0.018000000000000002
+CA,226,Demeton-S sulfone,0.126
+CA,227,Alachlor,1.07
+CA,230,Pendimethalin,2.057
+CA,231,Iprodione metabolite isomer,61.905
+CA,235,Chlorpyrifos methyl,3.4785
+CA,236,Fenamiphos,0.007
+CA,237,Phosmet oxygen analog,0.3428
+CA,239,Bensulide,0.07780000000000001
+CA,245,Oxydemeton methyl sulfone,0.3986
+CA,249,Prometryn,4.4863
+CA,253,"Dicofol o,p'",1.6836
+CA,254,"Dicofol p,p'",33.2495
+CA,255,Cyromazine,2.1285
+CA,264,Propiconazole,72.0066
+CA,271,Fenarimol,0.17900000000000002
+CA,275,"Methoxychlor p,p'",1.1578
+CA,283,Metolachlor,1296.6491
+CA,297,Fluvalinate,0.060899999999999996
+CA,300,DDE,9.028
+CA,304,Quintozene (PCNB),0.7037
+CA,305,Atrazine,378.7314
+CA,318,MCPA,8.5
+CA,321,Hexachlorobenzene (HCB),0.0307
+CA,338,Dichlorvos (DDVP),3.3473
+CA,341,Propanil,595.075
+CA,343,Monocrotophos,0.641
+CA,351,Pentachloroaniline (PCA),0.6875
+CA,352,Mirex,0.0017
+CA,382,1-Naphthol,55.6547
+CA,387,Pentachlorobenzene (PCB),0.2544
+CA,388,Pentachlorophenyl methyl sulfide,0.0069
+CA,395,Diazinon oxygen analog,166.98499999999999
+CA,512,3-Hydroxycarbofuran,0.44580000000000003
+CA,529,Vinclozolin,26.311600000000002
+CA,536,Triazophos,0.057600000000000005
+CA,537,Oxamyl,31.2436
+CA,539,Permethrin Total,1109.0764
+CA,540,Pronamide,0.5537
+CA,546,Fenvalerate,1.2423
+CA,556,Resmethrin,0.116
+CA,562,Pirimiphos methyl,0.0581
+CA,580,Pirimicarb,0.1252
+CA,593,Procymidone,0.24
+CA,594,Napropamide,0.1774
+CA,596,Norflurazon,443.6109
+CA,597,Cypermethrin,367.0327
+CA,604,Imazalil,263.7574
+CA,607,Metalaxyl/Mefenoxam,51.7208
+CA,608,Triadimefon,0.367
+CA,611,Thiophanate methyl,1.87
+CA,612,Deltamethrin  (includes parent Tralomethrin),4.6917
+CA,623,Propargite,103.185
+CA,624,Tetrahydrophthalimide (THPI),354.3965
+CA,625,Oxadiazon,0.0147
+CA,626,Iprodione,1400.3638
+CA,633,Hexazinone,104.0
+CA,638,Triadimenol,2.3770000000000002
+CA,639,Fenbutatin oxide,9.7333
+CA,651,Diflubenzuron,2.4577999999999998
+CA,658,Bendiocarb,0.22100000000000003
+CA,661,Quinalphos,0.0014
+CA,666,Carbendazim (MBC),22.95
+CA,678,Terbuthylazine,0.011
+CA,679,Myclobutanil,65.8759
+CA,699,Clofentezine,0.4759
+CA,713,Oxyfluorfen,0.1298
+CA,714,Esfenvalerate,3.3243
+CA,720,Norflurazon desmethyl,0.1936
+CA,722,Etridiazole,0.017
+CA,723,Formetanate hydrochloride,16.5717
+CA,726,Thiobencarb,127.0017
+CA,730,Ethephon,11.399
+CA,731,Triclopyr,145.1
+CA,736,Fluridone,0.0319
+CA,737,Oryzalin,0.021
+CA,738,Terbutryn,0.0258
+CA,740,Bensulide oxygen analog,0.1732
+CA,745,Fenamiphos sulfone,0.052
+CA,746,Fenamiphos sulfoxide,0.083
+CA,758,Bentazon,1.49
+CA,769,Azinphos methyl oxygen analog,0.06
+CA,772,Chlorpyrifos oxygen analog,0.0022
+CA,780,Tebuthiuron,33.561
+CA,781,Cyfluthrin,57.9261
+CA,784,Desethyl-desisopropyl atrazine,6603.55
+CA,785,Desisopropyl atrazine,2204.2
+CA,804,Tricyclazole,0.4602
+CA,807,Acetochlor,17.0
+CA,808,Fenpropathrin,66.5129
+CA,833,Prochloraz,0.11
+CA,855,Isoprothiolane,0.23179999999999998
+CA,872,Bupirimate,0.0024
+CA,877,Cymoxanil,0.6232
+CA,886,Fenpropimorph,0.0986
+CA,900,Endosulfan I,33.971000000000004
+CA,901,Endosulfan II,32.8083
+CA,902,Endosulfan sulfate,66.8012
+CA,903,BHC alpha,0.001
+CA,906,"DDT p,p'",1.3135000000000001
+CA,907,"DDT o,p'",0.4321
+CA,908,"DDD p,p'",2.3716
+CA,909,"DDD o,p'",0.2998
+CA,910,"DDE p,p'",35.9136
+CA,911,"DDE o,p'",0.0433
+CA,915,Triforine,0.098
+CA,930,Bifenthrin,38.0018
+CA,942,Prometon,5.116
+CA,947,Tetramethrin,0.55
+CA,948,Abamectin,0.136
+CA,954,Hexaconazole,0.5322
+CA,956,Penconazole,0.033
+CA,964,Desethyl atrazine,412.43
+CA,967,Imidacloprid,137.0285
+CA,A30,Fenbuconazole,6.3916
+CA,A39,Lambda cyhalothrin total,2.56
+CA,A46,Oxadixyl,0.806
+CA,A47,Oxamyl oxime,31.7418
+CA,A48,Paclobutrazol,0.053
+CA,A54,RH 9129 (fenbuconazole metab.),0.041
+CA,A55,RH 9130 (fenbuconazole metab.),0.01
+CA,A58,Tebuconazole,86.4229
+CA,A61,Triflumizole,8.2676
+CA,A68,"1,2,4-Triazole",0.005
+CA,A82,Fipronil,0.006
+CA,AAB,Ivermectin,0.002
+CA,AAD,SD-31723,0.048
+CA,AAE,SD-33608,0.01
+CA,ABB,Spinosad,20.3846
+CA,ABC,Spinosad A,11.2576
+CA,ABD,Spinosad D,2.2513
+CA,ABF,Pymetrozine,0.395
+CA,ABG,Tebufenozide,1.7775
+CA,ABH,Propiconazole I,2.177
+CA,ABI,Propiconazole II,4.33
+CA,ABN,Acetochlor ethanesulfonic acid (ESA),2.7
+CA,ABO,Acetochlor oxanilic acid (OA),2.3
+CA,ABP,Alachlor ethanesulfonic acid (ESA),5.6
+CA,ABQ,Alachlor oxanilic acid (OA),1.02
+CA,ACB,Imazapyr,47.2
+CA,ACG,Metolachlor ethanesulfonic acid (ESA),202.8
+CA,ACH,Metolachlor oxanilic acid (OA),49.0
+CA,ACP,Sulfometuron methyl,72.14
+CA,ACV,Methoprene,0.1039
+CA,ADC,Prallethrin,4.377
+CA,ADE,Esfenvalerate+Fenvalerate Total,4.1654
+CA,ADG,Indoxacarb,27.241
+CA,ADH,Cyphenothrin,0.0387
+CA,ADI,Etofenprox,0.19949999999999998
+CA,ADK,Imiprothrin,0.3076
+CA,ADR,Triticonazole,0.029
+CA,ADW,Triazole alanine (TA),4.6577
+CA,ADX,Triazole acetic acid (TAA),3.1131
+CA,AEC,Hydroprene,0.01
+CA,AED,Hydroxy atrazine,42.5
+CA,AEL,"Cyhalothrin, Total (Cyhalothrin-L + R157836 epimer)",21.0861
+CA,AEM,"Cyhalothrin, Lambda",5.8622
+CA,AEN,"Cyhalothrin, Lambda epimer R157836",0.2223
+CA,AEP,Clothianidin,22.2939
+CA,AES,Methoxyfenozide,247.9717
+CA,AEW,Famoxadone,43.1238
+CA,AFF,Flumioxazin,0.006
+CA,AFM,Flutriafol,7.7012
+CA,AFO,Dinotefuran,13.2773
+CA,AFS,Fenpyroximate,6.0056
+CA,AFU,Propamocarb hydrochloride,247.6927
+CA,AFW,Spiromesifen Total (parent + enol metabolite),0.1636
+CA,AFX,Novaluron,10.5336
+CA,AFZ,"2,6-DIPN",0.013
+CA,AGA,Cyazofamid,48.6757
+CA,AGG,Flonicamid,140.6725
+CA,AGH,Emamectin benzoate,0.163
+CA,AGJ,Fluoxastrobin,0.3564
+CA,AGR,"2,4-dimethylphenyl formamide (2,4-DMPF)",1.1093
+CA,AGT,Spiromesifen,4.761
+CA,AGW,Chlorantraniliprole,135.9371
+CA,AGX,Mandipropamid,348.429
+CA,AGY,Spinetoram,19.4889
+CA,AHB,Azadirachtin A,0.08099999999999999
+CA,AHF,Imidacloprid urea,0.0971
+CA,AHM,Spirotetramat,10.2745
+CA,AHN,Disulfoton oxygen analog,0.005
+CA,AHS,Flubendiamide,8.472
+CA,AHT,Fluopicolide,95.4219
+CA,AHW,Disulfoton sulfoxide oxygen analog,0.0347
+CA,AHY,Ipconazole,0.055
+CA,AJN,Clethodim sulfone,0.268
+CA,AJO,Clethodim sulfoxide,0.33399999999999996
+CA,AJR,Sethoxydim sulfoxide,0.028
+CA,AJY,Spiroxamine,0.0439
+CA,AJZ,Tebufenpyrad,0.01
+CA,AKC,Ametoctradin,432.1282
+CA,AKD,Penthiopyrad,38.6733
+CA,AKG,Fluopyram,46.0571
+CA,AKS,Acequinocyl,7.709
+CA,AKU,Cyflufenamid,1.0964
+CA,AKW,Fluxapyroxad,14.2244
+CA,ALG,Thymol,0.329
+CA,ALS,Sulfoxaflor,5.2383
+CA,ALT,Terbufos sulfoxide,0.0024
+CA,ALV,Spiromesifen alcohol,0.9747
+CA,AMB,Cyantraniliprole,16.2336
+CA,AMC,Cyflumetofen,2.7367
+CA,AMF,Fenpropidin,0.0074
+CA,AMG,Fenpyrazamine,0.0048000000000000004
+CA,AMM,Proquinazid,0.0114
+CA,ANC,Tolfenpyrad,3.171
+CA,AND,Propamocarb,10.6359
+CA,ANE,Flupyradifurone,31.5794
+CA,ANF,Metrafenone,1.484
+CA,ANH,Isofetamid,0.8608
+CA,AOG,Imidacloprid desnitro,0.3867
+CA,AOH,Hydroxy Acequinocyl,0.0028
+CA,AOK,Imidacloprid olefin,0.0104
+CA,B10,Hexythiazox,8.2468
+CA,B13,Chlorfenapyr,5.606
+CA,B16,Pyrimethanil,843.4717
+CA,B21,Carfentrazone ethyl,0.005
+CA,B22,Cyprodinil,191.3615
+CA,B23,Fludioxonil,1138.4051
+CA,B24,Pyriproxyfen,1.7237
+CA,B28,5-Hydroxythiabendazole,0.5367
+CA,B32,Forchlorfenuron,0.0353
+CA,B41,Fenhexamid,85.157
+CA,B42,Kresoxim-methyl,0.3534
+CA,B43,Thiamethoxam,26.61
+CA,B45,Benalaxyl,0.0096
+CA,B46,Clopyralid,3.493
+CA,B48,Azoxystrobin,277.4617
+CA,B51,Acibenzolar S methyl,0.1215
+CA,B52,Buprofezin,9.6682
+CA,B53,Epoxiconazole,0.0244
+CA,B56,Pyridaben,0.7266
+CA,B57,Quinoxyfen,8.2257
+CA,B58,Difenoconazole,19.4347
+CA,B61,Pyraclostrobin,171.6306
+CA,B63,Flutolanil,0.1038
+CA,B64,Fenamidone,113.8846
+CA,B68,Thiacloprid,5.5236
+CA,B72,Tetraconazole,102.6272
+CA,B73,Fenazaquin,0.3308
+CA,B75,Boscalid,218.6471
+CA,B77,Dimethomorph,146.1485
+CA,B79,Trifloxystrobin,18.4813
+CA,B80,Acetamiprid,64.0116
+CA,B82,Bifenazate,25.7014
+CA,B84,Etoxazole,3.5695
+CA,B85,Spirodiclofen,10.5712
+CA,F12,Pyriofenone,0.2221
+CA,F53,Benzovindiflupyr,0.0039
+CA,F56,Oxathiapiprolin,0.3244
+CA,F96,Flutianil,0.024
+CA,G03,Pydiflumetofen,1.8385
+CA,G21,Mefentrifluconazole,0.28300000000000003
+CO,011,Captan,66.1478
+CO,022,DDT,0.091
+CO,024,Diazinon,0.4512
+CO,026,"2,4-D",0.069
+CO,028,Dieldrin,1.033
+CO,032,Diuron,1.2066999999999999
+CO,033,Anilazine,0.19
+CO,034,Endrin,0.007
+CO,042,Azinphos methyl,17.1545
+CO,046,Monuron,14.984
+CO,047,Dicofol Total,0.64
+CO,052,Malathion,5.5344
+CO,055,Methoxychlor Total,3.5269999999999997
+CO,057,Parathion methyl,1.028
+CO,058,MGK-264,0.1708
+CO,065,Parathion ethyl,0.036000000000000004
+CO,069,Mevinphos Total,0.03
+CO,070,Piperonyl butoxide,5.7940000000000005
+CO,075,Pyrethrins,0.27
+CO,083,O-Phenylphenol,6.8172
+CO,090,Toxaphene,0.4449
+CO,102,Carbaryl,19.6178
+CO,104,Dodine,0.0333
+CO,107,Ethion,0.015
+CO,108,Tetradifon,0.054
+CO,111,Ethoxyquin,4.5098
+CO,114,Chlorpropham,468.3549
+CO,115,Endosulfans Total,0.931
+CO,124,Coumaphos,0.0055
+CO,125,Diphenylamine (DPA),115.1663
+CO,126,Folpet,0.025
+CO,129,Linuron,2.4491
+CO,134,DCPA,3.9676
+CO,143,Heptachlor epoxide,0.0041
+CO,144,Dicloran,57.0048
+CO,149,Simazine,0.41319999999999996
+CO,151,Trifluralin,3.8276
+CO,153,Bromacil,0.002
+CO,157,Thiabendazole,217.9762
+CO,159,Methomyl,21.0655
+CO,160,Chlorpyrifos,5.4337
+CO,164,Chlorothalonil,10.862400000000001
+CO,165,Phosmet,16.709
+CO,166,Phosalone,0.017
+CO,168,Aldicarb sulfone,0.008
+CO,169,Aldicarb sulfoxide,0.068
+CO,170,Methamidophos,8.7669
+CO,171,Dimethoate,10.5869
+CO,172,Chlordane trans,0.0066
+CO,173,Chlordane cis,0.0147
+CO,175,Ethoprop,0.002
+CO,178,Omethoate,7.1835
+CO,180,Carbofuran,0.3226
+CO,181,Metribuzin,0.0409
+CO,192,Benomyl,10.7232
+CO,197,Methidathion,0.025
+CO,200,EPTC,0.16849999999999998
+CO,203,Phosphamidon,0.006
+CO,204,Acephate,17.3125
+CO,208,Malathion oxygen analog,0.039099999999999996
+CO,216,Disulfoton sulfone,0.015
+CO,219,Oxydemeton methyl,0.0493
+CO,222,Permethrin cis,63.2376
+CO,223,Permethrin trans,65.7209
+CO,224,Profenofos,0.0053
+CO,227,Alachlor,0.46
+CO,230,Pendimethalin,0.1773
+CO,231,Iprodione metabolite isomer,8.637
+CO,235,Chlorpyrifos methyl,0.4289
+CO,237,Phosmet oxygen analog,0.028
+CO,239,Bensulide,0.046
+CO,245,Oxydemeton methyl sulfone,0.025
+CO,249,Prometryn,0.4794
+CO,253,"Dicofol o,p'",0.2288
+CO,254,"Dicofol p,p'",3.1559
+CO,255,Cyromazine,4.0582
+CO,264,Propiconazole,13.1022
+CO,271,Fenarimol,0.005
+CO,283,Metolachlor,24.0085
+CO,297,Fluvalinate,0.0040999999999999995
+CO,300,DDE,1.82
+CO,304,Quintozene (PCNB),0.0633
+CO,305,Atrazine,33.0049
+CO,321,Hexachlorobenzene (HCB),0.0019
+CO,324,Dichlobenil,11.2
+CO,338,Dichlorvos (DDVP),0.2094
+CO,351,Pentachloroaniline (PCA),0.0436
+CO,370,Parathion oxygen analog,0.003
+CO,382,1-Naphthol,1.5310000000000001
+CO,512,3-Hydroxycarbofuran,0.1833
+CO,529,Vinclozolin,7.9958
+CO,536,Triazophos,0.0419
+CO,537,Oxamyl,4.0535000000000005
+CO,539,Permethrin Total,226.4317
+CO,540,Pronamide,0.0615
+CO,546,Fenvalerate,0.159
+CO,556,Resmethrin,0.07500000000000001
+CO,562,Pirimiphos methyl,0.0221
+CO,593,Procymidone,0.021
+CO,597,Cypermethrin,68.4449
+CO,604,Imazalil,32.8492
+CO,607,Metalaxyl/Mefenoxam,4.6316
+CO,608,Triadimefon,0.046400000000000004
+CO,611,Thiophanate methyl,0.8916999999999999
+CO,612,Deltamethrin  (includes parent Tralomethrin),0.4188
+CO,623,Propargite,11.012
+CO,624,Tetrahydrophthalimide (THPI),24.168
+CO,626,Iprodione,205.556
+CO,638,Triadimenol,0.06509999999999999
+CO,639,Fenbutatin oxide,1.2238
+CO,651,Diflubenzuron,0.09609999999999999
+CO,666,Carbendazim (MBC),6.802300000000001
+CO,679,Myclobutanil,10.4601
+CO,706,Disulfoton sulfoxide,0.008
+CO,714,Esfenvalerate,0.281
+CO,720,Norflurazon desmethyl,0.0337
+CO,723,Formetanate hydrochloride,1.6199000000000001
+CO,726,Thiobencarb,0.037000000000000005
+CO,730,Ethephon,2.055
+CO,740,Bensulide oxygen analog,0.031
+CO,781,Cyfluthrin,9.2323
+CO,804,Tricyclazole,0.1099
+CO,808,Fenpropathrin,11.6823
+CO,855,Isoprothiolane,0.1279
+CO,877,Cymoxanil,0.098
+CO,886,Fenpropimorph,0.015
+CO,900,Endosulfan I,4.488
+CO,901,Endosulfan II,3.7301
+CO,902,Endosulfan sulfate,8.7081
+CO,903,BHC alpha,0.0013
+CO,906,"DDT p,p'",0.0503
+CO,907,"DDT o,p'",0.0611
+CO,908,"DDD p,p'",0.3489
+CO,909,"DDD o,p'",0.0284
+CO,910,"DDE p,p'",4.2571
+CO,911,"DDE o,p'",0.013600000000000001
+CO,915,Triforine,0.017
+CO,930,Bifenthrin,6.2847
+CO,964,Desethyl atrazine,50.0
+CO,967,Imidacloprid,60.7979
+CO,A30,Fenbuconazole,2.288
+CO,A46,Oxadixyl,0.025
+CO,A47,Oxamyl oxime,1.928
+CO,A58,Tebuconazole,14.5338
+CO,A61,Triflumizole,1.8827
+CO,A82,Fipronil,0.028
+CO,A84,Fipronil sulfone (MB46136),0.0077
+CO,AAD,SD-31723,0.012
+CO,ABB,Spinosad,3.4627
+CO,ABC,Spinosad A,1.5124
+CO,ABD,Spinosad D,0.2367
+CO,ABF,Pymetrozine,0.1131
+CO,ABG,Tebufenozide,0.745
+CO,ACV,Methoprene,0.025
+CO,ADC,Prallethrin,0.332
+CO,ADE,Esfenvalerate+Fenvalerate Total,0.4687
+CO,ADG,Indoxacarb,5.604
+CO,ADI,Etofenprox,0.0025
+CO,ADW,Triazole alanine (TA),0.9359
+CO,ADX,Triazole acetic acid (TAA),0.2939
+CO,AED,Hydroxy atrazine,72.7
+CO,AEL,"Cyhalothrin, Total (Cyhalothrin-L + R157836 epimer)",4.4047
+CO,AEM,"Cyhalothrin, Lambda",0.3799
+CO,AEP,Clothianidin,2.8935999999999997
+CO,AES,Methoxyfenozide,37.6222
+CO,AEW,Famoxadone,17.614
+CO,AFF,Flumioxazin,0.0186
+CO,AFM,Flutriafol,1.5954
+CO,AFO,Dinotefuran,2.6953
+CO,AFS,Fenpyroximate,1.3774
+CO,AFU,Propamocarb hydrochloride,16.8892
+CO,AFW,Spiromesifen Total (parent + enol metabolite),0.26580000000000004
+CO,AFX,Novaluron,1.4998
+CO,AGA,Cyazofamid,12.246
+CO,AGG,Flonicamid,19.8861
+CO,AGH,Emamectin benzoate,0.0033
+CO,AGJ,Fluoxastrobin,0.0879
+CO,AGR,"2,4-dimethylphenyl formamide (2,4-DMPF)",0.1362
+CO,AGT,Spiromesifen,0.8977
+CO,AGW,Chlorantraniliprole,26.8597
+CO,AGX,Mandipropamid,59.0602
+CO,AGY,Spinetoram,4.1982
+CO,AHB,Azadirachtin A,0.032
+CO,AHF,Imidacloprid urea,0.0135
+CO,AHM,Spirotetramat,1.7881
+CO,AHS,Flubendiamide,0.45439999999999997
+CO,AHT,Fluopicolide,10.2623
+CO,AJJ,Uniconazole,0.0033
+CO,AJY,Spiroxamine,0.0036
+CO,AKC,Ametoctradin,14.4951
+CO,AKD,Penthiopyrad,2.1121
+CO,AKG,Fluopyram,3.0683
+CO,AKS,Acequinocyl,1.515
+CO,AKU,Cyflufenamid,0.2211
+CO,AKW,Fluxapyroxad,0.9754999999999999
+CO,ALG,Thymol,0.08900000000000001
+CO,ALS,Sulfoxaflor,0.9084
+CO,ALV,Spiromesifen alcohol,0.5791
+CO,AMB,Cyantraniliprole,1.6415
+CO,AMC,Cyflumetofen,0.6696
+CO,ANC,Tolfenpyrad,0.34450000000000003
+CO,AND,Propamocarb,2.547
+CO,ANE,Flupyradifurone,3.835
+CO,ANF,Metrafenone,0.3534
+CO,ANH,Isofetamid,0.11069999999999999
+CO,AOG,Imidacloprid desnitro,0.047599999999999996
+CO,AOK,Imidacloprid olefin,0.043
+CO,B10,Hexythiazox,1.9606000000000001
+CO,B13,Chlorfenapyr,0.5687
+CO,B16,Pyrimethanil,139.9799
+CO,B22,Cyprodinil,25.6901
+CO,B23,Fludioxonil,147.7674
+CO,B24,Pyriproxyfen,0.39849999999999997
+CO,B41,Fenhexamid,20.909
+CO,B42,Kresoxim-methyl,0.1496
+CO,B43,Thiamethoxam,3.3052
+CO,B44,Zoxamide,0.073
+CO,B46,Clopyralid,0.656
+CO,B48,Azoxystrobin,39.6983
+CO,B52,Buprofezin,2.9159
+CO,B53,Epoxiconazole,0.0017
+CO,B56,Pyridaben,0.0521
+CO,B57,Quinoxyfen,0.8929
+CO,B58,Difenoconazole,2.4543
+CO,B61,Pyraclostrobin,19.3341
+CO,B63,Flutolanil,0.033
+CO,B64,Fenamidone,12.7541
+CO,B68,Thiacloprid,0.41400000000000003
+CO,B72,Tetraconazole,0.7005
+CO,B73,Fenazaquin,0.1978
+CO,B75,Boscalid,32.679
+CO,B77,Dimethomorph,22.838
+CO,B79,Trifloxystrobin,1.8716
+CO,B80,Acetamiprid,10.4518
+CO,B82,Bifenazate,2.3597
+CO,B84,Etoxazole,0.2908
+CO,B85,Spirodiclofen,1.7791
+CO,G03,Pydiflumetofen,0.24359999999999998
+CT,967,Imidacloprid,10.0
+CT,ACB,Imazapyr,4.2
+DC,026,"2,4-D",3821.2
+DC,032,Diuron,61.7
+DC,102,Carbaryl,20.0
+DC,149,Simazine,2148.68
+DC,153,Bromacil,21.1
+DC,180,Carbofuran,1.0
+DC,264,Propiconazole,5.7
+DC,283,Metolachlor,2102.3
+DC,305,Atrazine,6702.45
+DC,318,MCPA,236.9
+DC,666,Carbendazim (MBC),41.0
+DC,731,Triclopyr,307.7
+DC,758,Bentazon,7.1
+DC,780,Tebuthiuron,83.1
+DC,785,Desisopropyl atrazine,2780.5
+DC,942,Prometon,511.0
+DC,964,Desethyl atrazine,6989.7
+DC,967,Imidacloprid,347.6
+DC,A25,Dichlorprop,7.5
+DC,A42,Mecoprop (MCPP),71.0
+DC,A58,Tebuconazole,10.6
+DC,A82,Fipronil,5.800000000000001
+DC,ABN,Acetochlor ethanesulfonic acid (ESA),152.0
+DC,ABO,Acetochlor oxanilic acid (OA),60.0
+DC,ABP,Alachlor ethanesulfonic acid (ESA),849.8
+DC,ABQ,Alachlor oxanilic acid (OA),1.02
+DC,ACB,Imazapyr,52.0
+DC,ACD,Imazethapyr,12.0
+DC,ACG,Metolachlor ethanesulfonic acid (ESA),17150.0
+DC,ACH,Metolachlor oxanilic acid (OA),2264.2
+DC,ACT,Siduron,8.6
+DC,ADD,Dimethenamid,3.0
+DC,AED,Hydroxy atrazine,25.2
+DE,165,Phosmet,0.0807
+DE,964,Desethyl atrazine,17.0
+DE,AAX,Ethion mono oxon,0.0072
+DE,ACB,Imazapyr,4.2
+DE,ACG,Metolachlor ethanesulfonic acid (ESA),26.3
+FL,002,Allethrin,0.167
+FL,011,Captan,378.3172
+FL,014,Chlordanes Total,0.0501
+FL,022,DDT,0.135
+FL,024,Diazinon,53.058099999999996
+FL,026,"2,4-D",6687.548
+FL,028,Dieldrin,3.4954
+FL,032,Diuron,398.5885
+FL,034,Endrin,0.0244
+FL,042,Azinphos methyl,60.1117
+FL,047,Dicofol Total,4.5416
+FL,050,Lindane (BHC gamma),0.018000000000000002
+FL,052,Malathion,65.0155
+FL,055,Methoxychlor Total,9.981
+FL,057,Parathion methyl,2.0088
+FL,058,MGK-264,1.1029
+FL,065,Parathion ethyl,0.058499999999999996
+FL,069,Mevinphos Total,0.19
+FL,070,Piperonyl butoxide,23.3072
+FL,083,O-Phenylphenol,165.9767
+FL,087,DDD (TDE),0.01
+FL,090,Toxaphene,1.0548
+FL,102,Carbaryl,143.8396
+FL,104,Dodine,0.08080000000000001
+FL,107,Ethion,0.8618
+FL,111,Ethoxyquin,13.7916
+FL,114,Chlorpropham,1097.4575
+FL,115,Endosulfans Total,9.142
+FL,124,Coumaphos,0.0472
+FL,125,Diphenylamine (DPA),378.0508
+FL,126,Folpet,0.157
+FL,129,Linuron,6.9563
+FL,134,DCPA,11.5214
+FL,143,Heptachlor epoxide,0.0366
+FL,144,Dicloran,332.9263
+FL,149,Simazine,34.5151
+FL,151,Trifluralin,12.5487
+FL,153,Bromacil,44830.806
+FL,157,Thiabendazole,770.6433
+FL,159,Methomyl,88.63550000000001
+FL,160,Chlorpyrifos,19.073900000000002
+FL,164,Chlorothalonil,74.0146
+FL,165,Phosmet,76.0573
+FL,166,Phosalone,0.002
+FL,168,Aldicarb sulfone,0.43200000000000005
+FL,169,Aldicarb sulfoxide,3.3101000000000003
+FL,170,Methamidophos,46.1635
+FL,171,Dimethoate,37.6614
+FL,172,Chlordane trans,0.0885
+FL,173,Chlordane cis,0.3059
+FL,175,Ethoprop,0.0343
+FL,176,Tetrachlorvinphos,0.0067
+FL,178,Omethoate,12.8316
+FL,180,Carbofuran,120.2388
+FL,181,Metribuzin,0.2775
+FL,189,Phorate sulfone,0.36600000000000005
+FL,190,Phorate sulfoxide,0.421
+FL,192,Benomyl,25.4415
+FL,197,Methidathion,0.189
+FL,200,EPTC,0.06939999999999999
+FL,203,Phosphamidon,0.055
+FL,204,Acephate,150.3115
+FL,206,Nonachlor trans,0.0014
+FL,207,Nonachlor cis,0.0014
+FL,208,Malathion oxygen analog,0.2492
+FL,216,Disulfoton sulfone,0.0035
+FL,217,DEF (Tribufos),0.0036
+FL,219,Oxydemeton methyl,0.3368
+FL,222,Permethrin cis,186.3697
+FL,223,Permethrin trans,183.2689
+FL,224,Profenofos,6.6699
+FL,227,Alachlor,17.48
+FL,230,Pendimethalin,0.4442
+FL,231,Iprodione metabolite isomer,41.6848
+FL,232,Cycloate,0.001
+FL,235,Chlorpyrifos methyl,1.0447
+FL,237,Phosmet oxygen analog,1.0529000000000002
+FL,239,Bensulide,0.0045
+FL,245,Oxydemeton methyl sulfone,0.056999999999999995
+FL,249,Prometryn,0.4299
+FL,253,"Dicofol o,p'",2.2096
+FL,254,"Dicofol p,p'",14.0564
+FL,255,Cyromazine,10.3478
+FL,264,Propiconazole,39.3936
+FL,271,Fenarimol,0.777
+FL,275,"Methoxychlor p,p'",0.1603
+FL,276,Methoxychlor olefin,0.0259
+FL,283,Metolachlor,52.6865
+FL,297,Fluvalinate,0.0583
+FL,299,Diclofop methyl,0.0011
+FL,300,DDE,5.224
+FL,304,Quintozene (PCNB),0.2474
+FL,305,Atrazine,1888.025
+FL,318,MCPA,1.3
+FL,321,Hexachlorobenzene (HCB),1.3048
+FL,338,Dichlorvos (DDVP),1.5625
+FL,343,Monocrotophos,0.023
+FL,349,Oxychlordane,0.011
+FL,351,Pentachloroaniline (PCA),0.3537
+FL,382,1-Naphthol,11.0137
+FL,387,Pentachlorobenzene (PCB),0.2264
+FL,388,Pentachlorophenyl methyl sulfide,0.0828
+FL,512,3-Hydroxycarbofuran,0.0862
+FL,529,Vinclozolin,10.9332
+FL,536,Triazophos,0.004
+FL,537,Oxamyl,19.0046
+FL,539,Permethrin Total,1373.5912
+FL,540,Pronamide,0.0852
+FL,546,Fenvalerate,2.1021
+FL,556,Resmethrin,0.039
+FL,562,Pirimiphos methyl,0.0848
+FL,593,Procymidone,0.165
+FL,594,Napropamide,0.1515
+FL,597,Cypermethrin,182.9463
+FL,604,Imazalil,102.35940000000001
+FL,607,Metalaxyl/Mefenoxam,5076.7186
+FL,608,Triadimefon,0.2971
+FL,611,Thiophanate methyl,0.8015
+FL,612,Deltamethrin  (includes parent Tralomethrin),2.2585
+FL,620,MCPB,5.0
+FL,623,Propargite,45.7703
+FL,624,Tetrahydrophthalimide (THPI),124.86670000000001
+FL,625,Oxadiazon,0.0060999999999999995
+FL,626,Iprodione,917.895
+FL,633,Hexazinone,44.8
+FL,636,Propetamphos,0.0523
+FL,638,Triadimenol,0.1828
+FL,639,Fenbutatin oxide,3.302
+FL,651,Diflubenzuron,1.8104
+FL,658,Bendiocarb,0.017
+FL,666,Carbendazim (MBC),37.1464
+FL,679,Myclobutanil,115.0763
+FL,699,Clofentezine,0.0809
+FL,713,Oxyfluorfen,0.0068
+FL,714,Esfenvalerate,2.2955
+FL,719,Clomazone,0.0014
+FL,720,Norflurazon desmethyl,3.054
+FL,722,Etridiazole,0.0063
+FL,723,Formetanate hydrochloride,7.5361
+FL,730,Ethephon,11.897
+FL,731,Triclopyr,476.1
+FL,736,Fluridone,0.0178
+FL,740,Bensulide oxygen analog,0.025
+FL,745,Fenamiphos sulfone,0.006
+FL,746,Fenamiphos sulfoxide,0.0351
+FL,758,Bentazon,2468.34
+FL,769,Azinphos methyl oxygen analog,0.0027
+FL,779,Parathion methyl oxygen analog,0.01
+FL,780,Tebuthiuron,193.60999999999999
+FL,781,Cyfluthrin,27.8503
+FL,784,Desethyl-desisopropyl atrazine,205.0
+FL,785,Desisopropyl atrazine,129.79999999999998
+FL,791,Phenmedipham,0.3336
+FL,804,Tricyclazole,0.8773000000000001
+FL,808,Fenpropathrin,32.1497
+FL,848,Phenothrin,0.029
+FL,855,Isoprothiolane,0.34249999999999997
+FL,856,Fenobucarb (BPMC),0.0118
+FL,877,Cymoxanil,0.459
+FL,886,Fenpropimorph,0.2015
+FL,900,Endosulfan I,12.2136
+FL,901,Endosulfan II,10.6121
+FL,902,Endosulfan sulfate,38.5183
+FL,903,BHC alpha,0.0012
+FL,904,BHC beta,0.0157
+FL,906,"DDT p,p'",0.251
+FL,907,"DDT o,p'",0.1761
+FL,908,"DDD p,p'",1.4737
+FL,909,"DDD o,p'",0.1023
+FL,910,"DDE p,p'",11.3061
+FL,911,"DDE o,p'",0.0156
+FL,930,Bifenthrin,42.4054
+FL,942,Prometon,122.09
+FL,943,Thiodicarb,0.003
+FL,950,Flusilazole,0.0017
+FL,954,Hexaconazole,0.01
+FL,956,Penconazole,0.0067
+FL,964,Desethyl atrazine,859.6
+FL,967,Imidacloprid,78.5166
+FL,A22,Cyproconazole,0.017
+FL,A25,Dichlorprop,2.8
+FL,A30,Fenbuconazole,3.8035
+FL,A42,Mecoprop (MCPP),0.52
+FL,A47,Oxamyl oxime,25.6024
+FL,A58,Tebuconazole,85.8936
+FL,A61,Triflumizole,2.34
+FL,A68,"1,2,4-Triazole",0.005
+FL,A82,Fipronil,3.4793
+FL,ABB,Spinosad,5.3481
+FL,ABC,Spinosad A,10.2278
+FL,ABD,Spinosad D,1.3751
+FL,ABF,Pymetrozine,0.0637
+FL,ABG,Tebufenozide,1.9353
+FL,ABN,Acetochlor ethanesulfonic acid (ESA),102.3
+FL,ABP,Alachlor ethanesulfonic acid (ESA),13315.7
+FL,ABQ,Alachlor oxanilic acid (OA),7570.780000000001
+FL,ACB,Imazapyr,6304.23
+FL,ACC,Imazaquin,17.8
+FL,ACG,Metolachlor ethanesulfonic acid (ESA),1393.821
+FL,ACH,Metolachlor oxanilic acid (OA),1292.4
+FL,ACI,Metsulfuron methyl,2.5
+FL,ACP,Sulfometuron methyl,44.1
+FL,ACV,Methoprene,0.172
+FL,ACZ,Imazapic,37.1
+FL,ADC,Prallethrin,1.1025
+FL,ADE,Esfenvalerate+Fenvalerate Total,5.6601
+FL,ADG,Indoxacarb,11.8005
+FL,ADH,Cyphenothrin,0.102
+FL,ADI,Etofenprox,0.14150000000000001
+FL,ADK,Imiprothrin,0.0893
+FL,ADW,Triazole alanine (TA),5.1272
+FL,ADX,Triazole acetic acid (TAA),3.1272
+FL,AEC,Hydroprene,0.0218
+FL,AED,Hydroxy atrazine,3710.868
+FL,AEL,"Cyhalothrin, Total (Cyhalothrin-L + R157836 epimer)",10.7673
+FL,AEM,"Cyhalothrin, Lambda",2.3832
+FL,AEN,"Cyhalothrin, Lambda epimer R157836",0.01
+FL,AEP,Clothianidin,9.5665
+FL,AES,Methoxyfenozide,110.6346
+FL,AEW,Famoxadone,39.9794
+FL,AFC,Heptachlor epoxide cis,0.007
+FL,AFF,Flumioxazin,0.0253
+FL,AFM,Flutriafol,3.0972
+FL,AFO,Dinotefuran,20.1266
+FL,AFS,Fenpyroximate,5.24
+FL,AFU,Propamocarb hydrochloride,54.651
+FL,AFW,Spiromesifen Total (parent + enol metabolite),0.1828
+FL,AFX,Novaluron,8.8573
+FL,AFZ,"2,6-DIPN",0.716
+FL,AGA,Cyazofamid,14.005500000000001
+FL,AGG,Flonicamid,45.629
+FL,AGH,Emamectin benzoate,0.225
+FL,AGJ,Fluoxastrobin,0.1323
+FL,AGR,"2,4-dimethylphenyl formamide (2,4-DMPF)",0.6925
+FL,AGT,Spiromesifen,1.8712
+FL,AGW,Chlorantraniliprole,56.6395
+FL,AGX,Mandipropamid,240.785
+FL,AGY,Spinetoram,10.780100000000001
+FL,AHF,Imidacloprid urea,0.0571
+FL,AHM,Spirotetramat,4.07
+FL,AHS,Flubendiamide,10.2041
+FL,AHT,Fluopicolide,86.4595
+FL,AHU,Pyridalyl,0.64
+FL,AHW,Disulfoton sulfoxide oxygen analog,0.0034
+FL,AJO,Clethodim sulfoxide,0.0973
+FL,AJP,Indaziflam,0.003
+FL,AJY,Spiroxamine,0.0313
+FL,AKC,Ametoctradin,50.9406
+FL,AKD,Penthiopyrad,15.4961
+FL,AKG,Fluopyram,9.1933
+FL,AKS,Acequinocyl,9.162
+FL,AKU,Cyflufenamid,0.816
+FL,AKW,Fluxapyroxad,5.2008
+FL,ALG,Thymol,0.332
+FL,ALS,Sulfoxaflor,6.935499999999999
+FL,ALV,Spiromesifen alcohol,0.5749
+FL,AMB,Cyantraniliprole,3.5058
+FL,AMC,Cyflumetofen,1.2255
+FL,AMF,Fenpropidin,0.0017
+FL,ANC,Tolfenpyrad,4.4827
+FL,AND,Propamocarb,7.6583
+FL,ANE,Flupyradifurone,24.5001
+FL,ANF,Metrafenone,1.0048
+FL,ANH,Isofetamid,0.0723
+FL,AOG,Imidacloprid desnitro,0.0644
+FL,AOK,Imidacloprid olefin,0.0016
+FL,B10,Hexythiazox,3.8304
+FL,B13,Chlorfenapyr,2.8506
+FL,B16,Pyrimethanil,429.7825
+FL,B21,Carfentrazone ethyl,0.028499999999999998
+FL,B22,Cyprodinil,93.3721
+FL,B23,Fludioxonil,661.7298
+FL,B24,Pyriproxyfen,1.8498
+FL,B28,5-Hydroxythiabendazole,0.11800000000000001
+FL,B32,Forchlorfenuron,0.0066
+FL,B41,Fenhexamid,82.5641
+FL,B42,Kresoxim-methyl,0.25980000000000003
+FL,B43,Thiamethoxam,12.274000000000001
+FL,B44,Zoxamide,0.1352
+FL,B46,Clopyralid,11.879
+FL,B48,Azoxystrobin,196.2831
+FL,B52,Buprofezin,15.8372
+FL,B53,Epoxiconazole,0.022199999999999998
+FL,B56,Pyridaben,0.5692
+FL,B57,Quinoxyfen,2.5409
+FL,B58,Difenoconazole,15.9008
+FL,B61,Pyraclostrobin,91.4481
+FL,B63,Flutolanil,0.111
+FL,B64,Fenamidone,67.1659
+FL,B68,Thiacloprid,3.8771
+FL,B72,Tetraconazole,1.6097
+FL,B73,Fenazaquin,1.0514999999999999
+FL,B75,Boscalid,158.9651
+FL,B77,Dimethomorph,50.1562
+FL,B79,Trifloxystrobin,5.3019
+FL,B80,Acetamiprid,75.3668
+FL,B82,Bifenazate,10.5828
+FL,B84,Etoxazole,1.2627
+FL,B85,Spirodiclofen,7.339
+FL,C90,Ethaboxam,0.0703
+FL,F00,Prothioconazole desthio,0.010100000000000001
+FL,F12,Pyriofenone,0.1934
+FL,F40,Cyclaniliprole,0.0498
+FL,F53,Benzovindiflupyr,0.0332
+FL,F56,Oxathiapiprolin,0.0162
+FL,F87,Afidopyropen ,0.0017
+FL,F96,Flutianil,0.0051
+FL,G03,Pydiflumetofen,1.2928
+FL,G21,Mefentrifluconazole,0.0017
+GA,024,Diazinon,0.11264
+GA,026,"2,4-D",467.94
+GA,028,Dieldrin,0.0192
+GA,032,Diuron,1196.6
+GA,058,MGK-264,0.005
+GA,070,Piperonyl butoxide,0.015
+GA,102,Carbaryl,20.0036
+GA,149,Simazine,11619.78
+GA,153,Bromacil,13.5
+GA,168,Aldicarb sulfone,0.0043
+GA,195,Methiocarb,0.0059
+GA,227,Alachlor,161.0
+GA,283,Metolachlor,180.0
+GA,305,Atrazine,4093.7
+GA,318,MCPA,41.999
+GA,596,Norflurazon,1045.8
+GA,607,Metalaxyl/Mefenoxam,42.495
+GA,701,Fluometuron,7.0
+GA,731,Triclopyr,193.0
+GA,758,Bentazon,12.6
+GA,780,Tebuthiuron,401.57
+GA,785,Desisopropyl atrazine,2389.7
+GA,910,"DDE p,p'",0.0387
+GA,942,Prometon,285.2
+GA,964,Desethyl atrazine,548.82
+GA,967,Imidacloprid,17.5
+GA,A42,Mecoprop (MCPP),1.082
+GA,A82,Fipronil,0.001
+GA,ABN,Acetochlor ethanesulfonic acid (ESA),16.0
+GA,ABO,Acetochlor oxanilic acid (OA),15.0
+GA,ABP,Alachlor ethanesulfonic acid (ESA),1917.6
+GA,ABQ,Alachlor oxanilic acid (OA),670.02
+GA,ACB,Imazapyr,1240.1
+GA,ACG,Metolachlor ethanesulfonic acid (ESA),4343.7
+GA,ACH,Metolachlor oxanilic acid (OA),670.3
+GA,ACM,Nicosulfuron,2.8
+GA,ACP,Sulfometuron methyl,37.6
+GA,ACZ,Imazapic,30.0
+GA,AED,Hydroxy atrazine,658.6
+GA,AEY,Dimethenamid oxanilic acid (OA),1.05
+GA,AEZ,Flufenacet oxanilic acid (OA),21.3
+GA,AFA,Propachlor oxanilic acid (OA),5.0
+GA,B23,Fludioxonil,62.4
+GA,B46,Clopyralid,18.7
+HI,305,Atrazine,6.0
+HI,964,Desethyl atrazine,28.0
+IA,026,"2,4-D",2267.046
+IA,028,Dieldrin,0.0081
+IA,032,Diuron,183.0
+IA,070,Piperonyl butoxide,0.0075
+IA,102,Carbaryl,0.0095
+IA,143,Heptachlor epoxide,0.0052
+IA,149,Simazine,192.282
+IA,153,Bromacil,16.0
+IA,164,Chlorothalonil,0.0075
+IA,227,Alachlor,16.3
+IA,283,Metolachlor,2835.198
+IA,305,Atrazine,8767.699
+IA,318,MCPA,12.0
+IA,329,Picloram,250.0
+IA,333,Propazine,22.5
+IA,382,1-Naphthol,0.005
+IA,731,Triclopyr,30.0
+IA,758,Bentazon,116.2
+IA,780,Tebuthiuron,17.65
+IA,785,Desisopropyl atrazine,1356.186
+IA,807,Acetochlor,1125.918
+IA,910,"DDE p,p'",0.0126
+IA,942,Prometon,229.303
+IA,964,Desethyl atrazine,1771.5
+IA,967,Imidacloprid,6.1
+IA,A42,Mecoprop (MCPP),1.082
+IA,ABN,Acetochlor ethanesulfonic acid (ESA),3943.656
+IA,ABO,Acetochlor oxanilic acid (OA),3006.224
+IA,ABP,Alachlor ethanesulfonic acid (ESA),1664.1
+IA,ABQ,Alachlor oxanilic acid (OA),168.4
+IA,ACB,Imazapyr,18.765
+IA,ACD,Imazethapyr,61.965
+IA,ACG,Metolachlor ethanesulfonic acid (ESA),9929.8
+IA,ACH,Metolachlor oxanilic acid (OA),1550.656
+IA,ADD,Dimethenamid,165.2
+IA,AED,Hydroxy atrazine,226.998
+IA,AEY,Dimethenamid oxanilic acid (OA),5.9
+IA,B46,Clopyralid,24.0
+IA,B72,Tetraconazole,3.164
+ID,028,Dieldrin,0.0044
+ID,032,Diuron,15.0
+ID,143,Heptachlor epoxide,0.0040999999999999995
+ID,149,Simazine,7.1
+ID,153,Bromacil,1470.0
+ID,305,Atrazine,25.196
+ID,321,Hexachlorobenzene (HCB),0.0015
+ID,753,Imazamethabenz methyl,2.064
+ID,758,Bentazon,0.3
+ID,780,Tebuthiuron,0.7
+ID,784,Desethyl-desisopropyl atrazine,25.0
+ID,902,Endosulfan sulfate,0.002
+ID,910,"DDE p,p'",0.0674
+ID,942,Prometon,123.705
+ID,964,Desethyl atrazine,114.696
+ID,967,Imidacloprid,31.0
+ID,ABP,Alachlor ethanesulfonic acid (ESA),44.03
+ID,ABQ,Alachlor oxanilic acid (OA),1.016
+ID,ACB,Imazapyr,203.665
+ID,ACG,Metolachlor ethanesulfonic acid (ESA),270.699
+ID,ACH,Metolachlor oxanilic acid (OA),33.328
+ID,ACI,Metsulfuron methyl,13.0
+ID,AEE,Imazamethabenz acid,4.4
+ID,B46,Clopyralid,11.322
+IL,026,"2,4-D",5981.56
+IL,028,Dieldrin,0.0369
+IL,032,Diuron,797.0
+IL,052,Malathion,76.0
+IL,061,Neburon,61.0
+IL,102,Carbaryl,38.0
+IL,129,Linuron,64.0
+IL,143,Heptachlor epoxide,0.0013
+IL,148,Phorate,78.0
+IL,149,Simazine,5027.08
+IL,153,Bromacil,27.0
+IL,171,Dimethoate,7.5
+IL,178,Omethoate,2.1
+IL,205,Terbufos,89.0
+IL,249,Prometryn,76.84
+IL,264,Propiconazole,20.0
+IL,283,Metolachlor,9017.5
+IL,305,Atrazine,49057.1
+IL,318,MCPA,41.5
+IL,329,Picloram,78.0
+IL,333,Propazine,398.0
+IL,341,Propanil,130.0
+IL,607,Metalaxyl/Mefenoxam,10.0
+IL,621,Tri Allate,120.0
+IL,717,Chlorimuron ethyl,228.0
+IL,726,Thiobencarb,71.0
+IL,731,Triclopyr,63.2
+IL,753,Imazamethabenz methyl,19.0
+IL,758,Bentazon,236.56
+IL,780,Tebuthiuron,19.79
+IL,784,Desethyl-desisopropyl atrazine,69.0
+IL,785,Desisopropyl atrazine,5049.8
+IL,807,Acetochlor,795.7
+IL,910,"DDE p,p'",0.0465
+IL,942,Prometon,458.14
+IL,964,Desethyl atrazine,12384.58
+IL,967,Imidacloprid,67.2
+IL,A58,Tebuconazole,150.0
+IL,AAU,Flumetsulam,33.0
+IL,ABN,Acetochlor ethanesulfonic acid (ESA),64361.0
+IL,ABO,Acetochlor oxanilic acid (OA),68260.0
+IL,ABP,Alachlor ethanesulfonic acid (ESA),2003.6
+IL,ABQ,Alachlor oxanilic acid (OA),693.14
+IL,ACA,Imazamox,24.0
+IL,ACB,Imazapyr,22.5
+IL,ACC,Imazaquin,47.0
+IL,ACD,Imazethapyr,82.8
+IL,ACG,Metolachlor ethanesulfonic acid (ESA),74483.0
+IL,ACH,Metolachlor oxanilic acid (OA),24632.0
+IL,ACT,Siduron,23.0
+IL,ADD,Dimethenamid,41.6
+IL,AEB,Dimethenamid/Dimethenamid P,2852.7
+IL,AED,Hydroxy atrazine,6997.1
+IL,AEP,Clothianidin,8.0
+IL,AEY,Dimethenamid oxanilic acid (OA),1090.9
+IL,B46,Clopyralid,955.5
+IL,B72,Tetraconazole,84.0
+IN,026,"2,4-D",17029.0
+IN,032,Diuron,166.0
+IN,046,Monuron,185.0
+IN,052,Malathion,331.0
+IN,102,Carbaryl,0.0014
+IN,149,Simazine,4835.54
+IN,153,Bromacil,101.0
+IN,181,Metribuzin,112.5
+IN,227,Alachlor,16.3
+IN,249,Prometryn,231.0
+IN,264,Propiconazole,40.0
+IN,283,Metolachlor,12714.0
+IN,305,Atrazine,17714.0
+IN,318,MCPA,68.0
+IN,333,Propazine,7.5
+IN,666,Carbendazim (MBC),19.0
+IN,675,Propachlor,287.0
+IN,679,Myclobutanil,249.0
+IN,717,Chlorimuron ethyl,883.0
+IN,726,Thiobencarb,112.0
+IN,731,Triclopyr,5216.0
+IN,758,Bentazon,65.6
+IN,780,Tebuthiuron,183.8
+IN,784,Desethyl-desisopropyl atrazine,50.0
+IN,785,Desisopropyl atrazine,3520.1
+IN,807,Acetochlor,1172.2
+IN,930,Bifenthrin,8.0
+IN,942,Prometon,741.9
+IN,964,Desethyl atrazine,5153.5
+IN,967,Imidacloprid,62.9
+IN,A25,Dichlorprop,24.8
+IN,ABN,Acetochlor ethanesulfonic acid (ESA),7992.0
+IN,ABO,Acetochlor oxanilic acid (OA),15999.0
+IN,ABP,Alachlor ethanesulfonic acid (ESA),4072.4
+IN,ABQ,Alachlor oxanilic acid (OA),885.0
+IN,ACA,Imazamox,64.0
+IN,ACB,Imazapyr,105.0
+IN,ACC,Imazaquin,24.0
+IN,ACD,Imazethapyr,160.4
+IN,ACG,Metolachlor ethanesulfonic acid (ESA),46045.1
+IN,ACH,Metolachlor oxanilic acid (OA),26121.0
+IN,ACM,Nicosulfuron,21.0
+IN,ACP,Sulfometuron methyl,70.0
+IN,ADD,Dimethenamid,35.0
+IN,B30,Flufenacet,75.0
+KS,026,"2,4-D",5973.062
+KS,028,Dieldrin,0.0372
+KS,046,Monuron,7.492
+KS,149,Simazine,35.522
+KS,153,Bromacil,9.8
+KS,155,Dicamba,111.555
+KS,227,Alachlor,65.0
+KS,249,Prometryn,0.56
+KS,283,Metolachlor,7265.623
+KS,305,Atrazine,57162.2
+KS,318,MCPA,49.899
+KS,321,Hexachlorobenzene (HCB),0.0016
+KS,324,Dichlobenil,22.4
+KS,329,Picloram,610.63
+KS,333,Propazine,201.0
+KS,349,Oxychlordane,14.0
+KS,539,Permethrin Total,0.0293
+KS,607,Metalaxyl/Mefenoxam,5.0
+KS,717,Chlorimuron ethyl,178.645
+KS,731,Triclopyr,1420.764
+KS,758,Bentazon,11.25
+KS,780,Tebuthiuron,54.49
+KS,785,Desisopropyl atrazine,2291.312
+KS,807,Acetochlor,1456.2
+KS,906,"DDT p,p'",0.0161
+KS,908,"DDD p,p'",0.0046
+KS,910,"DDE p,p'",0.3349
+KS,930,Bifenthrin,0.0093
+KS,942,Prometon,163.233
+KS,964,Desethyl atrazine,20799.475
+KS,967,Imidacloprid,20.6
+KS,ABN,Acetochlor ethanesulfonic acid (ESA),2564.3
+KS,ABO,Acetochlor oxanilic acid (OA),3648.1
+KS,ABP,Alachlor ethanesulfonic acid (ESA),1141.9
+KS,ABQ,Alachlor oxanilic acid (OA),1116.8
+KS,ACB,Imazapyr,4.0
+KS,ACD,Imazethapyr,12.2
+KS,ACG,Metolachlor ethanesulfonic acid (ESA),4369.0
+KS,ACH,Metolachlor oxanilic acid (OA),3816.928
+KS,ACI,Metsulfuron methyl,89.2
+KS,ADP,Triasulfuron,5.2
+KS,AEB,Dimethenamid/Dimethenamid P,140.1
+KS,AED,Hydroxy atrazine,8469.9
+KS,AEF,Thifensulfuron,14.8
+KS,AEL,"Cyhalothrin, Total (Cyhalothrin-L + R157836 epimer)",0.0336
+KS,AEY,Dimethenamid oxanilic acid (OA),101.3
+KY,026,"2,4-D",3362.35
+KY,032,Diuron,1444.09
+KY,102,Carbaryl,0.0165
+KY,149,Simazine,350.0
+KY,283,Metolachlor,850.0
+KY,305,Atrazine,8602.8
+KY,318,MCPA,15.0
+KY,382,1-Naphthol,0.0075
+KY,607,Metalaxyl/Mefenoxam,42.0
+KY,731,Triclopyr,727.7
+KY,784,Desethyl-desisopropyl atrazine,200.0
+KY,785,Desisopropyl atrazine,830.0
+KY,910,"DDE p,p'",0.0015
+KY,964,Desethyl atrazine,3402.8
+KY,ACB,Imazapyr,88.2
+KY,ACG,Metolachlor ethanesulfonic acid (ESA),2224.3
+KY,ACH,Metolachlor oxanilic acid (OA),1061.4
+KY,AED,Hydroxy atrazine,2702.0
+KY,AEP,Clothianidin,12.5
+KY,AEQ,Thifensulfuron methyl,24.0
+KY,B48,Azoxystrobin,15.0
+LA,026,"2,4-D",10654.662
+LA,028,Dieldrin,0.0048
+LA,032,Diuron,11304.74
+LA,070,Piperonyl butoxide,157.0075
+LA,149,Simazine,5453.082
+LA,153,Bromacil,2415.772
+LA,155,Dicamba,112.0
+LA,181,Metribuzin,63913.31
+LA,227,Alachlor,32.634
+LA,230,Pendimethalin,241.476
+LA,249,Prometryn,1671.28
+LA,264,Propiconazole,92.9
+LA,283,Metolachlor,13837.16
+LA,305,Atrazine,136292.0
+LA,318,MCPA,2.6
+LA,324,Dichlobenil,22.4
+LA,333,Propazine,182.96
+LA,607,Metalaxyl/Mefenoxam,40.0
+LA,633,Hexazinone,214.5
+LA,701,Fluometuron,114.39
+LA,717,Chlorimuron ethyl,44.0
+LA,718,Chlorsulfuron,2.8
+LA,720,Norflurazon desmethyl,6.0
+LA,726,Thiobencarb,29.0
+LA,731,Triclopyr,3390.0
+LA,758,Bentazon,95.794
+LA,780,Tebuthiuron,384.732
+LA,785,Desisopropyl atrazine,4029.106
+LA,807,Acetochlor,643.0
+LA,910,"DDE p,p'",0.004
+LA,942,Prometon,494.80400000000003
+LA,964,Desethyl atrazine,33040.288
+LA,967,Imidacloprid,111.46600000000001
+LA,A42,Mecoprop (MCPP),1.04
+LA,A58,Tebuconazole,14.0
+LA,AAU,Flumetsulam,33.0
+LA,ABN,Acetochlor ethanesulfonic acid (ESA),8314.876
+LA,ABO,Acetochlor oxanilic acid (OA),6633.528
+LA,ABP,Alachlor ethanesulfonic acid (ESA),2002.58
+LA,ABQ,Alachlor oxanilic acid (OA),535.724
+LA,ABR,Bensulfuron methyl,21.0
+LA,ACB,Imazapyr,683.542
+LA,ACC,Imazaquin,21.6
+LA,ACD,Imazethapyr,140.0
+LA,ACG,Metolachlor ethanesulfonic acid (ESA),19278.88
+LA,ACH,Metolachlor oxanilic acid (OA),15249.756
+LA,ACP,Sulfometuron methyl,172.6
+LA,ACZ,Imazapic,10.5
+LA,ADD,Dimethenamid,97.791
+LA,AEB,Dimethenamid/Dimethenamid P,365.5
+LA,AED,Hydroxy atrazine,9746.0
+LA,AEP,Clothianidin,88.0
+LA,AEY,Dimethenamid oxanilic acid (OA),176.35
+LA,AEZ,Flufenacet oxanilic acid (OA),6.25
+LA,B43,Thiamethoxam,157.6
+LA,B46,Clopyralid,111.7
+LA,B48,Azoxystrobin,566.2
+MA,633,Hexazinone,2.498
+MA,964,Desethyl atrazine,2.5
+MA,ACG,Metolachlor ethanesulfonic acid (ESA),0.599
+MD,011,Captan,147.7662
+MD,014,Chlordanes Total,0.0501
+MD,022,DDT,0.013
+MD,024,Diazinon,17.936999999999998
+MD,026,"2,4-D",3801.56
+MD,028,Dieldrin,2.7988
+MD,032,Diuron,227.4718
+MD,033,Anilazine,0.32
+MD,034,Endrin,0.022500000000000003
+MD,042,Azinphos methyl,26.2707
+MD,047,Dicofol Total,0.468
+MD,050,Lindane (BHC gamma),0.0201
+MD,052,Malathion,13.6041
+MD,057,Parathion methyl,0.947
+MD,058,MGK-264,0.4307
+MD,065,Parathion ethyl,0.096
+MD,070,Piperonyl butoxide,17.7546
+MD,075,Pyrethrins,0.024
+MD,083,O-Phenylphenol,108.6732
+MD,090,Toxaphene,0.0543
+MD,102,Carbaryl,670.4679
+MD,104,Dodine,0.0073
+MD,107,Ethion,0.015
+MD,111,Ethoxyquin,10.413
+MD,114,Chlorpropham,606.1273
+MD,124,Coumaphos,0.0196
+MD,125,Diphenylamine (DPA),127.6301
+MD,129,Linuron,8.7882
+MD,130,Trichlorfon,0.0028
+MD,134,DCPA,6.888
+MD,143,Heptachlor epoxide,0.0624
+MD,144,Dicloran,145.5317
+MD,149,Simazine,5328.82
+MD,151,Trifluralin,2.9121
+MD,153,Bromacil,36.0
+MD,155,Dicamba,185.0
+MD,157,Thiabendazole,368.3402
+MD,159,Methomyl,50.760600000000004
+MD,160,Chlorpyrifos,8.3874
+MD,164,Chlorothalonil,38.8692
+MD,165,Phosmet,32.094
+MD,166,Phosalone,0.018000000000000002
+MD,168,Aldicarb sulfone,0.155
+MD,169,Aldicarb sulfoxide,0.8461
+MD,170,Methamidophos,36.8702
+MD,171,Dimethoate,25.366500000000002
+MD,172,Chlordane trans,0.0805
+MD,173,Chlordane cis,0.1169
+MD,175,Ethoprop,0.0436
+MD,178,Omethoate,9.1672
+MD,180,Carbofuran,6.1373
+MD,181,Metribuzin,0.2438
+MD,189,Phorate sulfone,0.078
+MD,190,Phorate sulfoxide,0.01
+MD,192,Benomyl,11.674
+MD,195,Methiocarb,0.001
+MD,197,Methidathion,0.026000000000000002
+MD,200,EPTC,0.027
+MD,204,Acephate,94.4806
+MD,206,Nonachlor trans,0.0019
+MD,207,Nonachlor cis,0.0011
+MD,208,Malathion oxygen analog,0.1686
+MD,219,Oxydemeton methyl,0.06860000000000001
+MD,222,Permethrin cis,161.507
+MD,223,Permethrin trans,189.0033
+MD,224,Profenofos,0.3278
+MD,227,Alachlor,30.0
+MD,230,Pendimethalin,0.3855
+MD,231,Iprodione metabolite isomer,26.757
+MD,235,Chlorpyrifos methyl,1.0514000000000001
+MD,237,Phosmet oxygen analog,0.1011
+MD,239,Bensulide,0.0926
+MD,245,Oxydemeton methyl sulfone,0.0036
+MD,249,Prometryn,0.1426
+MD,253,"Dicofol o,p'",0.5895
+MD,254,"Dicofol p,p'",6.7335
+MD,255,Cyromazine,1.2230999999999999
+MD,264,Propiconazole,58.918800000000005
+MD,271,Fenarimol,0.1
+MD,275,"Methoxychlor p,p'",0.40700000000000003
+MD,283,Metolachlor,6409.0422
+MD,292,Fluazifop butyl,0.002
+MD,297,Fluvalinate,0.0058
+MD,300,DDE,0.20900000000000002
+MD,304,Quintozene (PCNB),0.0954
+MD,305,Atrazine,12024.9954
+MD,318,MCPA,42.8
+MD,321,Hexachlorobenzene (HCB),0.0077
+MD,333,Propazine,56.0
+MD,338,Dichlorvos (DDVP),115.0688
+MD,351,Pentachloroaniline (PCA),0.1585
+MD,352,Mirex,0.004200000000000001
+MD,382,1-Naphthol,9.404
+MD,387,Pentachlorobenzene (PCB),0.0225
+MD,512,3-Hydroxycarbofuran,0.058
+MD,529,Vinclozolin,5.908
+MD,536,Triazophos,0.0013
+MD,537,Oxamyl,9.2633
+MD,539,Permethrin Total,142.545
+MD,540,Pronamide,0.1412
+MD,546,Fenvalerate,0.143
+MD,556,Resmethrin,0.35200000000000004
+MD,562,Pirimiphos methyl,0.061
+MD,578,Mevinphos Z,0.006
+MD,580,Pirimicarb,0.011
+MD,596,Norflurazon,0.049600000000000005
+MD,597,Cypermethrin,132.9755
+MD,604,Imazalil,63.7687
+MD,607,Metalaxyl/Mefenoxam,12.2221
+MD,608,Triadimefon,0.092
+MD,611,Thiophanate methyl,0.8528
+MD,612,Deltamethrin  (includes parent Tralomethrin),1.4364000000000001
+MD,623,Propargite,11.5025
+MD,624,Tetrahydrophthalimide (THPI),133.3316
+MD,626,Iprodione,388.3449
+MD,638,Triadimenol,66.217
+MD,639,Fenbutatin oxide,0.3073
+MD,651,Diflubenzuron,0.5737
+MD,658,Bendiocarb,0.017
+MD,666,Carbendazim (MBC),24.1959
+MD,679,Myclobutanil,19.7719
+MD,699,Clofentezine,0.196
+MD,713,Oxyfluorfen,0.009899999999999999
+MD,714,Esfenvalerate,1.429
+MD,719,Clomazone,0.005
+MD,720,Norflurazon desmethyl,0.1447
+MD,723,Formetanate hydrochloride,1.6174
+MD,726,Thiobencarb,0.017
+MD,730,Ethephon,6.8100000000000005
+MD,731,Triclopyr,866.6999999999999
+MD,736,Fluridone,0.0098
+MD,737,Oryzalin,0.021
+MD,740,Bensulide oxygen analog,0.055
+MD,745,Fenamiphos sulfone,0.022
+MD,746,Fenamiphos sulfoxide,0.1211
+MD,758,Bentazon,16.22
+MD,780,Tebuthiuron,66.99
+MD,781,Cyfluthrin,29.869
+MD,784,Desethyl-desisopropyl atrazine,50.0
+MD,785,Desisopropyl atrazine,2337.8
+MD,791,Phenmedipham,0.0055
+MD,804,Tricyclazole,0.0013
+MD,807,Acetochlor,635.0
+MD,808,Fenpropathrin,17.9545
+MD,855,Isoprothiolane,0.0132
+MD,877,Cymoxanil,0.14500000000000002
+MD,886,Fenpropimorph,0.1827
+MD,900,Endosulfan I,5.9263
+MD,901,Endosulfan II,5.1073
+MD,902,Endosulfan sulfate,17.403
+MD,903,BHC alpha,0.011099999999999999
+MD,906,"DDT p,p'",0.271
+MD,907,"DDT o,p'",0.066
+MD,908,"DDD p,p'",0.0879
+MD,909,"DDD o,p'",0.020399999999999998
+MD,910,"DDE p,p'",4.0797
+MD,911,"DDE o,p'",0.0096
+MD,930,Bifenthrin,42.0124
+MD,942,Prometon,526.5017
+MD,943,Thiodicarb,0.021
+MD,947,Tetramethrin,0.0017
+MD,948,Abamectin,0.002
+MD,964,Desethyl atrazine,8353.032
+MD,967,Imidacloprid,98.9703
+MD,A25,Dichlorprop,5.6
+MD,A30,Fenbuconazole,7.9425
+MD,A39,Lambda cyhalothrin total,1.24
+MD,A46,Oxadixyl,0.025
+MD,A47,Oxamyl oxime,13.5379
+MD,A58,Tebuconazole,35.0985
+MD,A61,Triflumizole,1.1703999999999999
+MD,A68,"1,2,4-Triazole",0.005
+MD,A82,Fipronil,1.6202
+MD,AAD,SD-31723,0.012
+MD,AAY,Sulfentrazone,0.0061
+MD,ABB,Spinosad,2.7364
+MD,ABC,Spinosad A,2.6315
+MD,ABD,Spinosad D,0.5842
+MD,ABF,Pymetrozine,0.07980000000000001
+MD,ABG,Tebufenozide,1.7235
+MD,ABH,Propiconazole I,0.871
+MD,ABI,Propiconazole II,1.736
+MD,ABN,Acetochlor ethanesulfonic acid (ESA),1423.1
+MD,ABO,Acetochlor oxanilic acid (OA),1094.8
+MD,ABP,Alachlor ethanesulfonic acid (ESA),9963.01
+MD,ABQ,Alachlor oxanilic acid (OA),466.68
+MD,ACA,Imazamox,10.4
+MD,ACB,Imazapyr,107.9
+MD,ACD,Imazethapyr,38.5
+MD,ACG,Metolachlor ethanesulfonic acid (ESA),108571.432
+MD,ACH,Metolachlor oxanilic acid (OA),19724.051
+MD,ACM,Nicosulfuron,8.3
+MD,ACP,Sulfometuron methyl,100.8
+MD,ACV,Methoprene,0.023
+MD,ADC,Prallethrin,0.604
+MD,ADD,Dimethenamid,1.0
+MD,ADE,Esfenvalerate+Fenvalerate Total,2.7906
+MD,ADG,Indoxacarb,12.0054
+MD,ADH,Cyphenothrin,0.037
+MD,ADI,Etofenprox,0.0667
+MD,ADW,Triazole alanine (TA),2.1671
+MD,ADX,Triazole acetic acid (TAA),1.4403
+MD,AED,Hydroxy atrazine,1636.0
+MD,AEF,Thifensulfuron,14.8
+MD,AEL,"Cyhalothrin, Total (Cyhalothrin-L + R157836 epimer)",8.6854
+MD,AEM,"Cyhalothrin, Lambda",2.7922000000000002
+MD,AEN,"Cyhalothrin, Lambda epimer R157836",0.108
+MD,AEP,Clothianidin,5.795
+MD,AES,Methoxyfenozide,42.394
+MD,AEW,Famoxadone,17.6899
+MD,AFC,Heptachlor epoxide cis,0.0228
+MD,AFM,Flutriafol,4.3544
+MD,AFO,Dinotefuran,7.6761
+MD,AFS,Fenpyroximate,1.8257
+MD,AFU,Propamocarb hydrochloride,44.0729
+MD,AFW,Spiromesifen Total (parent + enol metabolite),0.1768
+MD,AFX,Novaluron,6.8142000000000005
+MD,AGA,Cyazofamid,41.2234
+MD,AGG,Flonicamid,25.5934
+MD,AGH,Emamectin benzoate,0.2212
+MD,AGJ,Fluoxastrobin,0.162
+MD,AGR,"2,4-dimethylphenyl formamide (2,4-DMPF)",0.2752
+MD,AGT,Spiromesifen,1.9597
+MD,AGW,Chlorantraniliprole,55.7296
+MD,AGX,Mandipropamid,117.1402
+MD,AGY,Spinetoram,5.1101
+MD,AHB,Azadirachtin A,0.127
+MD,AHC,Azadirachtin B,0.039
+MD,AHF,Imidacloprid urea,0.0046
+MD,AHM,Spirotetramat,2.0283
+MD,AHS,Flubendiamide,3.7554
+MD,AHT,Fluopicolide,27.281
+MD,AJV,Lufenuron,0.028
+MD,AJY,Spiroxamine,0.0167
+MD,AKC,Ametoctradin,17.086399999999998
+MD,AKD,Penthiopyrad,28.4727
+MD,AKG,Fluopyram,4.8083
+MD,AKS,Acequinocyl,1.042
+MD,AKU,Cyflufenamid,0.2972
+MD,AKW,Fluxapyroxad,3.7365
+MD,ALG,Thymol,0.545
+MD,ALS,Sulfoxaflor,0.6771
+MD,ALV,Spiromesifen alcohol,0.4213
+MD,AMB,Cyantraniliprole,5.9718
+MD,AMC,Cyflumetofen,0.5192
+MD,AMF,Fenpropidin,0.0076
+MD,AMG,Fenpyrazamine,0.005
+MD,ANC,Tolfenpyrad,1.2450999999999999
+MD,AND,Propamocarb,3.5524
+MD,ANE,Flupyradifurone,3.8138
+MD,ANF,Metrafenone,0.6884
+MD,ANH,Isofetamid,0.0697
+MD,AOG,Imidacloprid desnitro,0.0857
+MD,B10,Hexythiazox,1.3651
+MD,B13,Chlorfenapyr,1.1305
+MD,B16,Pyrimethanil,252.7946
+MD,B22,Cyprodinil,44.8966
+MD,B23,Fludioxonil,345.4458
+MD,B24,Pyriproxyfen,0.4799
+MD,B28,5-Hydroxythiabendazole,0.2011
+MD,B32,Forchlorfenuron,0.006
+MD,B41,Fenhexamid,29.8106
+MD,B42,Kresoxim-methyl,0.23049999999999998
+MD,B43,Thiamethoxam,6.1541
+MD,B44,Zoxamide,0.0859
+MD,B46,Clopyralid,15.758000000000001
+MD,B48,Azoxystrobin,178.2345
+MD,B52,Buprofezin,5.147
+MD,B53,Epoxiconazole,0.0034
+MD,B54,Fluazinam,0.0167
+MD,B56,Pyridaben,0.1845
+MD,B57,Quinoxyfen,1.4106
+MD,B58,Difenoconazole,13.270199999999999
+MD,B61,Pyraclostrobin,59.8172
+MD,B63,Flutolanil,0.028499999999999998
+MD,B64,Fenamidone,39.0096
+MD,B68,Thiacloprid,2.2207
+MD,B72,Tetraconazole,0.7056
+MD,B73,Fenazaquin,0.0721
+MD,B75,Boscalid,67.3854
+MD,B77,Dimethomorph,17.1447
+MD,B79,Trifloxystrobin,4.0023
+MD,B80,Acetamiprid,24.0085
+MD,B82,Bifenazate,5.154
+MD,B84,Etoxazole,0.4235
+MD,B85,Spirodiclofen,3.143
+MD,C90,Ethaboxam,0.0371
+MD,F12,Pyriofenone,0.0209
+MD,F53,Benzovindiflupyr,0.0376
+MD,G03,Pydiflumetofen,0.4834
+ME,046,Monuron,10.0
+ME,607,Metalaxyl/Mefenoxam,73.8
+ME,964,Desethyl atrazine,41.3
+ME,ABP,Alachlor ethanesulfonic acid (ESA),22.0
+ME,ACB,Imazapyr,15.0
+ME,ACG,Metolachlor ethanesulfonic acid (ESA),84.0
+ME,ACH,Metolachlor oxanilic acid (OA),8.0
+MI,002,Allethrin,0.14100000000000001
+MI,011,Captan,311.5791
+MI,022,DDT,0.444
+MI,024,Diazinon,3.6187
+MI,026,"2,4-D",8964.065
+MI,028,Dieldrin,4.8075
+MI,031,Dinoseb,1.0
+MI,032,Diuron,0.3238
+MI,033,Anilazine,0.138
+MI,034,Endrin,0.091
+MI,042,Azinphos methyl,42.9982
+MI,047,Dicofol Total,6.761
+MI,050,Lindane (BHC gamma),0.71
+MI,052,Malathion,10.1733
+MI,055,Methoxychlor Total,3.741
+MI,057,Parathion methyl,3.065
+MI,058,MGK-264,1.1931
+MI,065,Parathion ethyl,0.759
+MI,069,Mevinphos Total,0.761
+MI,070,Piperonyl butoxide,17.6001
+MI,083,O-Phenylphenol,61.3238
+MI,087,DDD (TDE),0.02
+MI,090,Toxaphene,0.0804
+MI,102,Carbaryl,73.6629
+MI,104,Dodine,0.1176
+MI,107,Ethion,0.1382
+MI,111,Ethoxyquin,12.5066
+MI,114,Chlorpropham,1036.1143
+MI,115,Endosulfans Total,7.784
+MI,117,Disulfoton,0.0135
+MI,124,Coumaphos,0.053399999999999996
+MI,125,Diphenylamine (DPA),317.9467
+MI,126,Folpet,0.23800000000000002
+MI,129,Linuron,6.6046000000000005
+MI,134,DCPA,6.3929
+MI,143,Heptachlor epoxide,0.6505
+MI,144,Dicloran,255.7481
+MI,149,Simazine,3396.488
+MI,151,Trifluralin,7.201
+MI,152,Terbacil,2.664
+MI,153,Bromacil,77.01
+MI,157,Thiabendazole,572.8782
+MI,159,Methomyl,73.1696
+MI,160,Chlorpyrifos,15.8861
+MI,164,Chlorothalonil,3236.7534
+MI,165,Phosmet,61.1519
+MI,166,Phosalone,0.11
+MI,168,Aldicarb sulfone,0.145
+MI,169,Aldicarb sulfoxide,1.1524
+MI,170,Methamidophos,48.6346
+MI,171,Dimethoate,31.463
+MI,172,Chlordane trans,0.1189
+MI,173,Chlordane cis,0.2321
+MI,175,Ethoprop,0.0277
+MI,177,Fenthion,0.004
+MI,178,Omethoate,14.2942
+MI,180,Carbofuran,0.4152
+MI,181,Metribuzin,75.1658
+MI,189,Phorate sulfone,0.083
+MI,190,Phorate sulfoxide,0.1011
+MI,192,Benomyl,25.1824
+MI,197,Methidathion,0.2343
+MI,200,EPTC,360.0
+MI,203,Phosphamidon,0.16
+MI,204,Acephate,141.0142
+MI,208,Malathion oxygen analog,0.1034
+MI,216,Disulfoton sulfone,0.057999999999999996
+MI,219,Oxydemeton methyl,0.2804
+MI,222,Permethrin cis,268.3739
+MI,223,Permethrin trans,279.3443
+MI,224,Profenofos,0.4744
+MI,227,Alachlor,66.6
+MI,230,Pendimethalin,0.4347
+MI,231,Iprodione metabolite isomer,46.2308
+MI,235,Chlorpyrifos methyl,0.7063
+MI,236,Fenamiphos,0.005
+MI,237,Phosmet oxygen analog,1.3418999999999999
+MI,239,Bensulide,0.044
+MI,245,Oxydemeton methyl sulfone,0.019100000000000002
+MI,249,Prometryn,0.867
+MI,253,"Dicofol o,p'",1.0404
+MI,254,"Dicofol p,p'",13.7975
+MI,255,Cyromazine,7.9149
+MI,264,Propiconazole,98.4224
+MI,271,Fenarimol,0.053
+MI,275,"Methoxychlor p,p'",0.1077
+MI,283,Metolachlor,6354.5063
+MI,292,Fluazifop butyl,0.0017
+MI,297,Fluvalinate,0.0127
+MI,300,DDE,4.214
+MI,304,Quintozene (PCNB),0.2547
+MI,305,Atrazine,37397.0087
+MI,312,"2,4,5-T",9.0
+MI,321,Hexachlorobenzene (HCB),0.0188
+MI,338,Dichlorvos (DDVP),1.0329
+MI,343,Monocrotophos,0.18
+MI,351,Pentachloroaniline (PCA),0.3402
+MI,370,Parathion oxygen analog,0.005
+MI,377,Phenthoate,0.01
+MI,382,1-Naphthol,20.7531
+MI,387,Pentachlorobenzene (PCB),0.1275
+MI,388,Pentachlorophenyl methyl sulfide,0.018799999999999997
+MI,395,Diazinon oxygen analog,0.0078
+MI,512,3-Hydroxycarbofuran,0.2375
+MI,529,Vinclozolin,13.343399999999999
+MI,536,Triazophos,0.0018
+MI,537,Oxamyl,13.924
+MI,539,Permethrin Total,641.4977
+MI,540,Pronamide,0.0837
+MI,546,Fenvalerate,1.325
+MI,556,Resmethrin,0.333
+MI,562,Pirimiphos methyl,0.0446
+MI,579,Mevinphos E,0.01
+MI,580,Pirimicarb,0.049
+MI,593,Procymidone,1.0
+MI,597,Cypermethrin,219.6714
+MI,604,Imazalil,106.1235
+MI,607,Metalaxyl/Mefenoxam,19.9087
+MI,608,Triadimefon,22.033
+MI,611,Thiophanate methyl,1.7026
+MI,612,Deltamethrin  (includes parent Tralomethrin),3.1982
+MI,623,Propargite,55.8215
+MI,624,Tetrahydrophthalimide (THPI),99.6322
+MI,626,Iprodione,856.356
+MI,633,Hexazinone,7.698
+MI,636,Propetamphos,0.0113
+MI,638,Triadimenol,0.2287
+MI,639,Fenbutatin oxide,6.1482
+MI,651,Diflubenzuron,0.5263
+MI,658,Bendiocarb,0.017
+MI,666,Carbendazim (MBC),33.8145
+MI,678,Terbuthylazine,0.007
+MI,679,Myclobutanil,32.8316
+MI,699,Clofentezine,0.2133
+MI,713,Oxyfluorfen,0.0161
+MI,714,Esfenvalerate,1.6448
+MI,717,Chlorimuron ethyl,113.0
+MI,720,Norflurazon desmethyl,0.0189
+MI,723,Formetanate hydrochloride,13.114
+MI,726,Thiobencarb,0.025
+MI,730,Ethephon,9.483
+MI,731,Triclopyr,1845.328
+MI,736,Fluridone,0.0075
+MI,740,Bensulide oxygen analog,0.19
+MI,745,Fenamiphos sulfone,0.131
+MI,746,Fenamiphos sulfoxide,0.4451
+MI,758,Bentazon,422.21000000000004
+MI,769,Azinphos methyl oxygen analog,0.0063999999999999994
+MI,780,Tebuthiuron,76.95
+MI,781,Cyfluthrin,31.6888
+MI,784,Desethyl-desisopropyl atrazine,115.0
+MI,785,Desisopropyl atrazine,3541.7
+MI,791,Phenmedipham,0.0523
+MI,804,Tricyclazole,0.07050000000000001
+MI,807,Acetochlor,3943.7
+MI,808,Fenpropathrin,32.2853
+MI,850,Bitertanol,0.011
+MI,855,Isoprothiolane,0.081
+MI,877,Cymoxanil,0.334
+MI,886,Fenpropimorph,0.1118
+MI,900,Endosulfan I,13.5107
+MI,901,Endosulfan II,11.0128
+MI,902,Endosulfan sulfate,35.8829
+MI,903,BHC alpha,0.0055
+MI,904,BHC beta,0.0017
+MI,906,"DDT p,p'",0.2765
+MI,907,"DDT o,p'",0.1591
+MI,908,"DDD p,p'",0.4455
+MI,909,"DDD o,p'",0.0336
+MI,910,"DDE p,p'",6.8178
+MI,911,"DDE o,p'",0.005
+MI,930,Bifenthrin,36.8997
+MI,942,Prometon,797.8167
+MI,947,Tetramethrin,0.017
+MI,948,Abamectin,0.06559999999999999
+MI,963,Terbufos sulfone,0.006
+MI,964,Desethyl atrazine,8120.632
+MI,967,Imidacloprid,118.2589
+MI,A25,Dichlorprop,9.0
+MI,A30,Fenbuconazole,16.6256
+MI,A42,Mecoprop (MCPP),3.6820000000000004
+MI,A46,Oxadixyl,0.033
+MI,A47,Oxamyl oxime,13.536
+MI,A58,Tebuconazole,120.1271
+MI,A61,Triflumizole,1.7292
+MI,A82,Fipronil,1.8486999999999998
+MI,AAU,Flumetsulam,54.0
+MI,ABB,Spinosad,5.813
+MI,ABC,Spinosad A,7.9063
+MI,ABD,Spinosad D,1.9073
+MI,ABF,Pymetrozine,0.0674
+MI,ABG,Tebufenozide,2.6069999999999998
+MI,ABN,Acetochlor ethanesulfonic acid (ESA),23436.192
+MI,ABO,Acetochlor oxanilic acid (OA),19125.662
+MI,ABP,Alachlor ethanesulfonic acid (ESA),15040.09
+MI,ABQ,Alachlor oxanilic acid (OA),1973.22
+MI,ACA,Imazamox,8.0
+MI,ACB,Imazapyr,440.76
+MI,ACC,Imazaquin,118.0
+MI,ACD,Imazethapyr,1453.2
+MI,ACG,Metolachlor ethanesulfonic acid (ESA),24937.066
+MI,ACH,Metolachlor oxanilic acid (OA),10078.284
+MI,ACM,Nicosulfuron,241.5
+MI,ACV,Methoprene,0.05
+MI,ACZ,Imazapic,27.5
+MI,ADC,Prallethrin,0.764
+MI,ADD,Dimethenamid,20.5034
+MI,ADE,Esfenvalerate+Fenvalerate Total,6.4142
+MI,ADG,Indoxacarb,16.9511
+MI,ADH,Cyphenothrin,0.059
+MI,ADI,Etofenprox,0.218
+MI,ADR,Triticonazole,50.0
+MI,ADW,Triazole alanine (TA),3.6401
+MI,ADX,Triazole acetic acid (TAA),1.6914
+MI,AEB,Dimethenamid/Dimethenamid P,18.7
+MI,AED,Hydroxy atrazine,6800.394
+MI,AEL,"Cyhalothrin, Total (Cyhalothrin-L + R157836 epimer)",12.0082
+MI,AEM,"Cyhalothrin, Lambda",1.2819
+MI,AEP,Clothianidin,8.864
+MI,AES,Methoxyfenozide,77.1784
+MI,AEW,Famoxadone,24.2456
+MI,AEY,Dimethenamid oxanilic acid (OA),13.350000000000001
+MI,AFM,Flutriafol,3.9963
+MI,AFO,Dinotefuran,10.3038
+MI,AFS,Fenpyroximate,5.1610000000000005
+MI,AFU,Propamocarb hydrochloride,77.1584
+MI,AFW,Spiromesifen Total (parent + enol metabolite),0.0112
+MI,AFX,Novaluron,6.4517
+MI,AFZ,"2,6-DIPN",0.79
+MI,AGA,Cyazofamid,23.1404
+MI,AGG,Flonicamid,45.3439
+MI,AGH,Emamectin benzoate,0.1233
+MI,AGJ,Fluoxastrobin,0.0854
+MI,AGR,"2,4-dimethylphenyl formamide (2,4-DMPF)",0.3826
+MI,AGT,Spiromesifen,1.9295
+MI,AGW,Chlorantraniliprole,59.2904
+MI,AGX,Mandipropamid,232.1636
+MI,AGY,Spinetoram,12.2299
+MI,AHF,Imidacloprid urea,0.23129999999999998
+MI,AHM,Spirotetramat,5.5896
+MI,AHS,Flubendiamide,3.7306
+MI,AHT,Fluopicolide,84.2763
+MI,AJO,Clethodim sulfoxide,0.07730000000000001
+MI,AJP,Indaziflam,0.0015
+MI,AJY,Spiroxamine,0.026
+MI,AKC,Ametoctradin,45.3511
+MI,AKD,Penthiopyrad,63.2597
+MI,AKG,Fluopyram,13.0944
+MI,AKS,Acequinocyl,0.861
+MI,AKU,Cyflufenamid,0.6129
+MI,AKW,Fluxapyroxad,11.0045
+MI,ALG,Thymol,0.17
+MI,ALS,Sulfoxaflor,0.9773000000000001
+MI,ALV,Spiromesifen alcohol,0.43679999999999997
+MI,AMB,Cyantraniliprole,10.9471
+MI,AMC,Cyflumetofen,1.2099
+MI,ANC,Tolfenpyrad,7.4043
+MI,AND,Propamocarb,6.6959
+MI,ANE,Flupyradifurone,13.428700000000001
+MI,ANF,Metrafenone,2.06
+MI,ANH,Isofetamid,0.019100000000000002
+MI,AOG,Imidacloprid desnitro,0.0966
+MI,B10,Hexythiazox,1.561
+MI,B13,Chlorfenapyr,2.8591
+MI,B16,Pyrimethanil,433.1468
+MI,B22,Cyprodinil,79.0734
+MI,B23,Fludioxonil,602.8084
+MI,B24,Pyriproxyfen,1.2879
+MI,B28,5-Hydroxythiabendazole,0.2282
+MI,B32,Forchlorfenuron,0.012
+MI,B38,Clodinafop propargyl,0.005
+MI,B41,Fenhexamid,74.5704
+MI,B42,Kresoxim-methyl,1.0466
+MI,B43,Thiamethoxam,12.1227
+MI,B44,Zoxamide,0.0414
+MI,B46,Clopyralid,1392.644
+MI,B48,Azoxystrobin,122.8403
+MI,B52,Buprofezin,9.926
+MI,B53,Epoxiconazole,0.0297
+MI,B56,Pyridaben,0.3105
+MI,B57,Quinoxyfen,2.1303
+MI,B58,Difenoconazole,11.4077
+MI,B61,Pyraclostrobin,190.2504
+MI,B63,Flutolanil,0.18
+MI,B64,Fenamidone,55.4075
+MI,B68,Thiacloprid,2.0111
+MI,B72,Tetraconazole,1.4728999999999999
+MI,B73,Fenazaquin,0.2454
+MI,B75,Boscalid,146.7195
+MI,B77,Dimethomorph,67.1063
+MI,B79,Trifloxystrobin,9.1183
+MI,B80,Acetamiprid,45.8932
+MI,B82,Bifenazate,7.2565
+MI,B84,Etoxazole,1.0694
+MI,B85,Spirodiclofen,5.2802
+MI,C90,Ethaboxam,0.0868
+MI,F12,Pyriofenone,0.0448
+MI,F53,Benzovindiflupyr,0.0294
+MI,G03,Pydiflumetofen,0.4776
+MN,024,Diazinon,59.0
+MN,026,"2,4-D",6414.178
+MN,028,Dieldrin,0.0161
+MN,032,Diuron,359.8
+MN,042,Azinphos methyl,45.0
+MN,050,Lindane (BHC gamma),0.0033
+MN,052,Malathion,50.0
+MN,070,Piperonyl butoxide,0.0075
+MN,108,Tetradifon,56.0
+MN,143,Heptachlor epoxide,0.0013
+MN,149,Simazine,63.879999999999995
+MN,153,Bromacil,64.4
+MN,155,Dicamba,210.0
+MN,175,Ethoprop,27.0
+MN,176,Tetrachlorvinphos,28.0
+MN,180,Carbofuran,4.0
+MN,200,EPTC,8.0
+MN,216,Disulfoton sulfone,6.8
+MN,227,Alachlor,42.0
+MN,264,Propiconazole,157.98
+MN,283,Metolachlor,598.3
+MN,305,Atrazine,7478.536
+MN,318,MCPA,2612.664
+MN,321,Hexachlorobenzene (HCB),0.0086
+MN,329,Picloram,37.0
+MN,333,Propazine,23.0
+MN,607,Metalaxyl/Mefenoxam,5.0
+MN,675,Propachlor,3.21
+MN,731,Triclopyr,475.0
+MN,753,Imazamethabenz methyl,9.52
+MN,758,Bentazon,1032.0
+MN,780,Tebuthiuron,7.35
+MN,784,Desethyl-desisopropyl atrazine,348.0
+MN,785,Desisopropyl atrazine,1132.902
+MN,807,Acetochlor,1689.9
+MN,902,Endosulfan sulfate,0.0302
+MN,906,"DDT p,p'",0.0089
+MN,910,"DDE p,p'",1.1152
+MN,930,Bifenthrin,36.0032
+MN,942,Prometon,192.88
+MN,964,Desethyl atrazine,4657.792
+MN,967,Imidacloprid,10.3
+MN,A30,Fenbuconazole,57.0
+MN,A58,Tebuconazole,271.584
+MN,ABN,Acetochlor ethanesulfonic acid (ESA),8142.784
+MN,ABO,Acetochlor oxanilic acid (OA),10120.184
+MN,ABP,Alachlor ethanesulfonic acid (ESA),5948.1
+MN,ABQ,Alachlor oxanilic acid (OA),481.12
+MN,ACA,Imazamox,18.392
+MN,ACB,Imazapyr,143.8
+MN,ACD,Imazethapyr,124.496
+MN,ACG,Metolachlor ethanesulfonic acid (ESA),9654.7
+MN,ACH,Metolachlor oxanilic acid (OA),3531.4
+MN,ACM,Nicosulfuron,450.5
+MN,ACP,Sulfometuron methyl,39.8
+MN,ACZ,Imazapic,1.5
+MN,AEB,Dimethenamid/Dimethenamid P,566.1
+MN,AED,Hydroxy atrazine,4038.4
+MN,AEE,Imazamethabenz acid,45.5
+MN,AEL,"Cyhalothrin, Total (Cyhalothrin-L + R157836 epimer)",0.0019
+MN,AEY,Dimethenamid oxanilic acid (OA),343.25
+MN,B46,Clopyralid,3974.8
+MN,B53,Epoxiconazole,11.5
+MN,B72,Tetraconazole,418.7
+MO,024,Diazinon,0.416
+MO,026,"2,4-D",3409.86
+MO,028,Dieldrin,0.224
+MO,032,Diuron,119.80000000000001
+MO,042,Azinphos methyl,0.066
+MO,050,Lindane (BHC gamma),0.041
+MO,052,Malathion,716.6255
+MO,055,Methoxychlor Total,1.583
+MO,057,Parathion methyl,0.041
+MO,065,Parathion ethyl,0.022
+MO,070,Piperonyl butoxide,0.859
+MO,087,DDD (TDE),0.008
+MO,102,Carbaryl,88.29060000000001
+MO,117,Disulfoton,0.005
+MO,143,Heptachlor epoxide,0.008
+MO,148,Phorate,0.078
+MO,149,Simazine,24901.2
+MO,151,Trifluralin,0.438
+MO,153,Bromacil,115.3
+MO,156,Ametryn,0.011
+MO,157,Thiabendazole,0.10300000000000001
+MO,160,Chlorpyrifos,7.1957
+MO,175,Ethoprop,0.003
+MO,180,Carbofuran,0.231
+MO,185,Metribuzin DA,37.8
+MO,189,Phorate sulfone,0.024
+MO,195,Methiocarb,0.0119
+MO,208,Malathion oxygen analog,0.045
+MO,210,Carboxin,0.006999999999999999
+MO,216,Disulfoton sulfone,0.025
+MO,227,Alachlor,75.066
+MO,228,Cyanazine,0.011
+MO,230,Pendimethalin,0.023
+MO,235,Chlorpyrifos methyl,126.26
+MO,249,Prometryn,22.55
+MO,275,"Methoxychlor p,p'",1.032
+MO,283,Metolachlor,25150.946
+MO,299,Diclofop methyl,0.019
+MO,305,Atrazine,69787.653
+MO,318,MCPA,15.05
+MO,333,Propazine,454.4
+MO,341,Propanil,0.152
+MO,539,Permethrin Total,1.227
+MO,562,Pirimiphos methyl,1.167
+MO,597,Cypermethrin,0.033
+MO,604,Imazalil,0.308
+MO,607,Metalaxyl/Mefenoxam,478.332
+MO,612,Deltamethrin  (includes parent Tralomethrin),0.5483
+MO,636,Propetamphos,0.01
+MO,653,Glyphosate,1024.112
+MO,717,Chlorimuron ethyl,2588.2
+MO,720,Norflurazon desmethyl,0.09
+MO,731,Triclopyr,55.400000000000006
+MO,736,Fluridone,0.0012
+MO,745,Fenamiphos sulfone,0.094
+MO,750,Quizalofop ethyl,0.0045000000000000005
+MO,758,Bentazon,82.87
+MO,780,Tebuthiuron,172.29
+MO,781,Cyfluthrin,4.986
+MO,784,Desethyl-desisopropyl atrazine,1745.0
+MO,785,Desisopropyl atrazine,28783.6
+MO,807,Acetochlor,1346.613
+MO,904,BHC beta,0.007
+MO,908,"DDD p,p'",0.018000000000000002
+MO,910,"DDE p,p'",0.0071
+MO,942,Prometon,818.4
+MO,957,Aminomethylphosphonic acid (AMPA),1036.27
+MO,964,Desethyl atrazine,44978.9
+MO,967,Imidacloprid,56.0
+MO,A25,Dichlorprop,12.2
+MO,A42,Mecoprop (MCPP),183.06
+MO,A54,RH 9129 (fenbuconazole metab.),0.10500000000000001
+MO,A82,Fipronil,0.58
+MO,AAY,Sulfentrazone,0.025
+MO,ABN,Acetochlor ethanesulfonic acid (ESA),26557.7
+MO,ABO,Acetochlor oxanilic acid (OA),56036.0
+MO,ABP,Alachlor ethanesulfonic acid (ESA),2377.3
+MO,ABQ,Alachlor oxanilic acid (OA),1164.9
+MO,ACB,Imazapyr,86.5
+MO,ACD,Imazethapyr,33.9
+MO,ACG,Metolachlor ethanesulfonic acid (ESA),59151.0
+MO,ACH,Metolachlor oxanilic acid (OA),77077.0
+MO,ACI,Metsulfuron methyl,93.5
+MO,ACV,Methoprene,2.833
+MO,ACZ,Imazapic,123.5
+MO,ADD,Dimethenamid,4.0329999999999995
+MO,ADR,Triticonazole,140.0
+MO,AEB,Dimethenamid/Dimethenamid P,2053.46
+MO,AEC,Hydroprene,0.035
+MO,AED,Hydroxy atrazine,49525.0
+MO,AEL,"Cyhalothrin, Total (Cyhalothrin-L + R157836 epimer)",0.0663
+MO,AEM,"Cyhalothrin, Lambda",0.003
+MO,AEN,"Cyhalothrin, Lambda epimer R157836",0.011
+MO,AEP,Clothianidin,146.0
+MO,AES,Methoxyfenozide,0.0748
+MO,AEY,Dimethenamid oxanilic acid (OA),1336.15
+MO,AHX,Metconazole,0.0074
+MO,AJD,Isoxaflutole degradate,51.0
+MO,B30,Flufenacet,0.059
+MO,B43,Thiamethoxam,61.199999999999996
+MO,B48,Azoxystrobin,74.4499
+MO,B58,Difenoconazole,0.007
+MO,B61,Pyraclostrobin,0.0584
+MO,B72,Tetraconazole,0.0083
+MO,B75,Boscalid,0.014199999999999999
+MO,B79,Trifloxystrobin,0.0045
+MS,028,Dieldrin,0.023999999999999997
+MS,058,MGK-264,0.3291
+MS,070,Piperonyl butoxide,0.3256
+MS,075,Pyrethrins,0.1
+MS,758,Bentazon,8.7
+MS,910,"DDE p,p'",0.029500000000000002
+MS,ACG,Metolachlor ethanesulfonic acid (ESA),5.0
+MS,ACH,Metolachlor oxanilic acid (OA),5.0
+MT,026,"2,4-D",1001.526
+MT,032,Diuron,75.39999999999999
+MT,180,Carbofuran,17.9
+MT,216,Disulfoton sulfone,6.8
+MT,249,Prometryn,0.28
+MT,264,Propiconazole,5.7
+MT,283,Metolachlor,104.8
+MT,305,Atrazine,178.49800000000002
+MT,318,MCPA,303.9
+MT,329,Picloram,258.63
+MT,701,Fluometuron,7.0
+MT,731,Triclopyr,659.4
+MT,758,Bentazon,160.93
+MT,780,Tebuthiuron,358.39
+MT,942,Prometon,198.555
+MT,964,Desethyl atrazine,121.336
+MT,967,Imidacloprid,10.323
+MT,A22,Cyproconazole,2.7
+MT,ABN,Acetochlor ethanesulfonic acid (ESA),2.7
+MT,ABP,Alachlor ethanesulfonic acid (ESA),343.2
+MT,ACB,Imazapyr,160.0
+MT,ACG,Metolachlor ethanesulfonic acid (ESA),832.298
+MT,ACH,Metolachlor oxanilic acid (OA),106.056
+MT,AEB,Dimethenamid/Dimethenamid P,190.8
+MT,AED,Hydroxy atrazine,68.0
+MT,AEE,Imazamethabenz acid,10.0
+MT,AEY,Dimethenamid oxanilic acid (OA),145.8
+MT,B46,Clopyralid,1709.1
+MT,B53,Epoxiconazole,11.5
+MT,B72,Tetraconazole,51.800000000000004
+NC,011,Captan,15.548
+NC,022,DDT,0.072
+NC,024,Diazinon,0.5915
+NC,026,"2,4-D",10720.848
+NC,028,Dieldrin,0.1292
+NC,031,Dinoseb,312.0
+NC,032,Diuron,733.3
+NC,042,Azinphos methyl,4.147
+NC,044,Heptachlor,0.0027
+NC,047,Dicofol Total,4.683
+NC,050,Lindane (BHC gamma),166.047
+NC,052,Malathion,0.3546
+NC,055,Methoxychlor Total,0.92
+NC,057,Parathion methyl,1.789
+NC,058,MGK-264,0.2965
+NC,061,Neburon,100.0
+NC,065,Parathion ethyl,0.02
+NC,069,Mevinphos Total,0.09
+NC,070,Piperonyl butoxide,2.762
+NC,083,O-Phenylphenol,5.7432
+NC,102,Carbaryl,261.692
+NC,107,Ethion,0.062
+NC,114,Chlorpropham,167.1082
+NC,115,Endosulfans Total,6.445
+NC,117,Disulfoton,0.11
+NC,125,Diphenylamine (DPA),83.7244
+NC,126,Folpet,0.047
+NC,129,Linuron,0.6825
+NC,134,DCPA,0.3274
+NC,144,Dicloran,43.487
+NC,149,Simazine,7488.08
+NC,151,Trifluralin,2.0303
+NC,153,Bromacil,137.8
+NC,157,Thiabendazole,116.6257
+NC,159,Methomyl,9.2984
+NC,160,Chlorpyrifos,0.9861
+NC,164,Chlorothalonil,3.8345
+NC,165,Phosmet,1.371
+NC,166,Phosalone,0.01
+NC,168,Aldicarb sulfone,110.013
+NC,169,Aldicarb sulfoxide,0.079
+NC,170,Methamidophos,7.1629000000000005
+NC,171,Dimethoate,84.5831
+NC,172,Chlordane trans,0.0191
+NC,173,Chlordane cis,0.0021
+NC,178,Omethoate,4.546600000000001
+NC,180,Carbofuran,36.012
+NC,181,Metribuzin,0.07600000000000001
+NC,192,Benomyl,8.522
+NC,200,EPTC,28.0
+NC,203,Phosphamidon,0.13
+NC,204,Acephate,19.8892
+NC,208,Malathion oxygen analog,0.002
+NC,209,Dicrotophos,12.4
+NC,216,Disulfoton sulfone,6.3
+NC,219,Oxydemeton methyl,0.0375
+NC,222,Permethrin cis,0.6605
+NC,223,Permethrin trans,0.6391
+NC,224,Profenofos,0.0049
+NC,227,Alachlor,327.987
+NC,230,Pendimethalin,0.025099999999999997
+NC,235,Chlorpyrifos methyl,0.6351
+NC,249,Prometryn,345.02
+NC,254,"Dicofol p,p'",0.048
+NC,255,Cyromazine,0.0088
+NC,264,Propiconazole,1.5217
+NC,283,Metolachlor,5749.2934
+NC,300,DDE,1.49
+NC,304,Quintozene (PCNB),0.019
+NC,305,Atrazine,16214.3135
+NC,318,MCPA,363.6
+NC,321,Hexachlorobenzene (HCB),0.0018
+NC,329,Picloram,84.0
+NC,333,Propazine,114.1
+NC,338,Dichlorvos (DDVP),0.03900000000000001
+NC,341,Propanil,170.0
+NC,351,Pentachloroaniline (PCA),0.0218
+NC,382,1-Naphthol,1.62
+NC,512,3-Hydroxycarbofuran,0.002
+NC,529,Vinclozolin,2.26
+NC,537,Oxamyl,0.549
+NC,539,Permethrin Total,115.4331
+NC,596,Norflurazon,99.992
+NC,597,Cypermethrin,69.2846
+NC,604,Imazalil,3.8533
+NC,607,Metalaxyl/Mefenoxam,1409.2894
+NC,611,Thiophanate methyl,0.020999999999999998
+NC,612,Deltamethrin  (includes parent Tralomethrin),1.2831
+NC,623,Propargite,20.276
+NC,624,Tetrahydrophthalimide (THPI),10.4422
+NC,626,Iprodione,71.659
+NC,639,Fenbutatin oxide,0.646
+NC,651,Diflubenzuron,0.0837
+NC,666,Carbendazim (MBC),2.1108
+NC,675,Propachlor,2.1
+NC,679,Myclobutanil,7.893400000000001
+NC,701,Fluometuron,851.393
+NC,713,Oxyfluorfen,0.0068
+NC,714,Esfenvalerate,0.0106
+NC,717,Chlorimuron ethyl,9.5
+NC,723,Formetanate hydrochloride,5.331
+NC,726,Thiobencarb,190.0
+NC,731,Triclopyr,3289.0
+NC,736,Fluridone,0.0062
+NC,740,Bensulide oxygen analog,0.003
+NC,753,Imazamethabenz methyl,34.2
+NC,758,Bentazon,566.5500000000001
+NC,780,Tebuthiuron,313.39
+NC,781,Cyfluthrin,18.2674
+NC,785,Desisopropyl atrazine,1813.662
+NC,791,Phenmedipham,0.1456
+NC,804,Tricyclazole,0.002
+NC,808,Fenpropathrin,2.1589
+NC,900,Endosulfan I,0.0298
+NC,901,Endosulfan II,0.0217
+NC,902,Endosulfan sulfate,1.9149
+NC,906,"DDT p,p'",0.0115
+NC,910,"DDE p,p'",0.2885
+NC,930,Bifenthrin,12.3431
+NC,942,Prometon,4006.89
+NC,964,Desethyl atrazine,2846.894
+NC,967,Imidacloprid,132.6532
+NC,A25,Dichlorprop,20.1
+NC,A30,Fenbuconazole,0.273
+NC,A42,Mecoprop (MCPP),299.02
+NC,A47,Oxamyl oxime,0.41500000000000004
+NC,A58,Tebuconazole,436.6656
+NC,A61,Triflumizole,0.0203
+NC,A82,Fipronil,4.1
+NC,ABB,Spinosad,1.0894000000000001
+NC,ABC,Spinosad A,0.035500000000000004
+NC,ABD,Spinosad D,0.0075
+NC,ABF,Pymetrozine,0.033
+NC,ABG,Tebufenozide,0.0026
+NC,ABN,Acetochlor ethanesulfonic acid (ESA),622.928
+NC,ABO,Acetochlor oxanilic acid (OA),341.63
+NC,ABP,Alachlor ethanesulfonic acid (ESA),4117.8
+NC,ABQ,Alachlor oxanilic acid (OA),959.348
+NC,ACB,Imazapyr,4025.0
+NC,ACD,Imazethapyr,14.0
+NC,ACG,Metolachlor ethanesulfonic acid (ESA),47794.507
+NC,ACH,Metolachlor oxanilic acid (OA),9316.756
+NC,ACI,Metsulfuron methyl,42.2
+NC,ACM,Nicosulfuron,11.0
+NC,ACP,Sulfometuron methyl,540.9
+NC,ACT,Siduron,90.2
+NC,ACV,Methoprene,0.07500000000000001
+NC,ACZ,Imazapic,74.1
+NC,ADE,Esfenvalerate+Fenvalerate Total,0.7751
+NC,ADG,Indoxacarb,3.484
+NC,ADX,Triazole acetic acid (TAA),50.0
+NC,AEB,Dimethenamid/Dimethenamid P,11.402000000000001
+NC,AED,Hydroxy atrazine,10385.898
+NC,AEE,Imazamethabenz acid,4.2
+NC,AEF,Thifensulfuron,13.8
+NC,AEL,"Cyhalothrin, Total (Cyhalothrin-L + R157836 epimer)",1.0401
+NC,AEM,"Cyhalothrin, Lambda",0.0207
+NC,AEP,Clothianidin,0.4303
+NC,AES,Methoxyfenozide,16.6765
+NC,AEW,Famoxadone,0.0287
+NC,AEY,Dimethenamid oxanilic acid (OA),2.099
+NC,AFM,Flutriafol,3.2972
+NC,AFO,Dinotefuran,1.1572
+NC,AFS,Fenpyroximate,1.0208
+NC,AFU,Propamocarb hydrochloride,11.639999999999999
+NC,AFX,Novaluron,0.3666
+NC,AFY,Diflufenzopyr,0.057
+NC,AGG,Flonicamid,3.2139
+NC,AGR,"2,4-dimethylphenyl formamide (2,4-DMPF)",0.103
+NC,AGT,Spiromesifen,0.030699999999999998
+NC,AGW,Chlorantraniliprole,97.7068
+NC,AGX,Mandipropamid,5.8797
+NC,AGY,Spinetoram,0.5809
+NC,AHF,Imidacloprid urea,0.0043
+NC,AHM,Spirotetramat,0.4574
+NC,AHS,Flubendiamide,3.1921
+NC,AHT,Fluopicolide,1.4165
+NC,AKC,Ametoctradin,0.1477
+NC,AKD,Penthiopyrad,2.4031000000000002
+NC,AKG,Fluopyram,0.954
+NC,AKU,Cyflufenamid,0.0068
+NC,AKW,Fluxapyroxad,2.2342
+NC,ALG,Thymol,0.023
+NC,ANC,Tolfenpyrad,4.186
+NC,AND,Propamocarb,1.8906
+NC,ANE,Flupyradifurone,6.2733
+NC,AOG,Imidacloprid desnitro,0.0060999999999999995
+NC,B10,Hexythiazox,0.134
+NC,B13,Chlorfenapyr,0.1583
+NC,B16,Pyrimethanil,5.467
+NC,B22,Cyprodinil,2.4903
+NC,B23,Fludioxonil,22.916600000000003
+NC,B24,Pyriproxyfen,0.0343
+NC,B28,5-Hydroxythiabendazole,0.0047
+NC,B41,Fenhexamid,0.276
+NC,B42,Kresoxim-methyl,0.0636
+NC,B43,Thiamethoxam,0.8308
+NC,B46,Clopyralid,1209.915
+NC,B48,Azoxystrobin,819.3923
+NC,B52,Buprofezin,0.3413
+NC,B56,Pyridaben,0.004
+NC,B57,Quinoxyfen,0.2158
+NC,B58,Difenoconazole,6.3879
+NC,B61,Pyraclostrobin,7.2805
+NC,B64,Fenamidone,2.1925
+NC,B68,Thiacloprid,0.09
+NC,B72,Tetraconazole,14.1413
+NC,B73,Fenazaquin,0.0064
+NC,B75,Boscalid,4.1537
+NC,B77,Dimethomorph,0.7333
+NC,B79,Trifloxystrobin,0.2631
+NC,B80,Acetamiprid,2.1128
+NC,B82,Bifenazate,0.02
+NC,B84,Etoxazole,0.0407
+NC,B85,Spirodiclofen,0.5075000000000001
+NC,G03,Pydiflumetofen,0.0185
+ND,026,"2,4-D",5583.18
+ND,031,Dinoseb,0.58
+ND,032,Diuron,208.9
+ND,042,Azinphos methyl,17.0
+ND,102,Carbaryl,38.0
+ND,129,Linuron,7.5
+ND,149,Simazine,27.34
+ND,153,Bromacil,22.0
+ND,180,Carbofuran,11.7
+ND,208,Malathion oxygen analog,1.2
+ND,216,Disulfoton sulfone,6.8
+ND,222,Permethrin cis,68.0
+ND,227,Alachlor,13.0
+ND,264,Propiconazole,221.1
+ND,283,Metolachlor,984.7
+ND,305,Atrazine,7094.6
+ND,317,"2,4-DB",23.0
+ND,318,MCPA,886.2
+ND,324,Dichlobenil,25.0
+ND,329,Picloram,17.0
+ND,333,Propazine,31.2
+ND,607,Metalaxyl/Mefenoxam,138.7
+ND,666,Carbendazim (MBC),5.0
+ND,675,Propachlor,1.07
+ND,729,Bromoxynil,65.0
+ND,731,Triclopyr,525.7
+ND,753,Imazamethabenz methyl,24.96
+ND,758,Bentazon,1131.8
+ND,780,Tebuthiuron,47.089999999999996
+ND,785,Desisopropyl atrazine,647.2
+ND,807,Acetochlor,2272.6
+ND,930,Bifenthrin,5.3
+ND,942,Prometon,438.92
+ND,945,Ethofumesate,68.0
+ND,963,Terbufos sulfone,2.7
+ND,964,Desethyl atrazine,2626.86
+ND,A22,Cyproconazole,2.7
+ND,A42,Mecoprop (MCPP),185.94
+ND,A58,Tebuconazole,296.3
+ND,ABN,Acetochlor ethanesulfonic acid (ESA),4432.3
+ND,ABO,Acetochlor oxanilic acid (OA),4777.2
+ND,ABP,Alachlor ethanesulfonic acid (ESA),1719.6
+ND,ABQ,Alachlor oxanilic acid (OA),155.7
+ND,ACA,Imazamox,5.6
+ND,ACB,Imazapyr,162.2
+ND,ACD,Imazethapyr,157.1
+ND,ACG,Metolachlor ethanesulfonic acid (ESA),4033.4
+ND,ACH,Metolachlor oxanilic acid (OA),809.5
+ND,ACM,Nicosulfuron,120.4
+ND,ACP,Sulfometuron methyl,132.39000000000001
+ND,ACZ,Imazapic,1.5
+ND,ADR,Triticonazole,15.6
+ND,AEB,Dimethenamid/Dimethenamid P,930.72
+ND,AED,Hydroxy atrazine,2746.02
+ND,AEE,Imazamethabenz acid,241.6
+ND,AEP,Clothianidin,134.0
+ND,AEY,Dimethenamid oxanilic acid (OA),120.8
+ND,AHK,Pyrasulfotole,37.6
+ND,AJB,Tembotrione,27.2
+ND,B43,Thiamethoxam,10.2
+ND,B46,Clopyralid,980.9
+ND,B48,Azoxystrobin,622.3
+ND,B53,Epoxiconazole,33.0
+ND,B58,Difenoconazole,5.3
+ND,B72,Tetraconazole,275.9
+NE,026,"2,4-D",2514.422
+NE,028,Dieldrin,0.0684
+NE,032,Diuron,95.35
+NE,050,Lindane (BHC gamma),0.0033
+NE,070,Piperonyl butoxide,0.0075
+NE,143,Heptachlor epoxide,0.0052
+NE,149,Simazine,50.0
+NE,153,Bromacil,50.2
+NE,155,Dicamba,33.0
+NE,283,Metolachlor,17395.296
+NE,305,Atrazine,11192.4
+NE,318,MCPA,1.5
+NE,329,Picloram,41.6
+NE,539,Permethrin Total,0.0122
+NE,717,Chlorimuron ethyl,10.0
+NE,731,Triclopyr,2.664
+NE,758,Bentazon,7.37
+NE,780,Tebuthiuron,458.1
+NE,784,Desethyl-desisopropyl atrazine,12384.5
+NE,785,Desisopropyl atrazine,4272.224
+NE,807,Acetochlor,755.5
+NE,902,Endosulfan sulfate,0.0049
+NE,910,"DDE p,p'",0.1371
+NE,942,Prometon,4.89
+NE,964,Desethyl atrazine,19941.8
+NE,ABN,Acetochlor ethanesulfonic acid (ESA),11716.8
+NE,ABO,Acetochlor oxanilic acid (OA),5349.6
+NE,ABP,Alachlor ethanesulfonic acid (ESA),34396.9
+NE,ABQ,Alachlor oxanilic acid (OA),2814.9
+NE,ACB,Imazapyr,4043.89
+NE,ACC,Imazaquin,9.832
+NE,ACD,Imazethapyr,96.46
+NE,ACG,Metolachlor ethanesulfonic acid (ESA),229029.4
+NE,ACH,Metolachlor oxanilic acid (OA),29979.028
+NE,AED,Hydroxy atrazine,4445.898
+NE,AEL,"Cyhalothrin, Total (Cyhalothrin-L + R157836 epimer)",0.0368
+NE,AEY,Dimethenamid oxanilic acid (OA),40.769999999999996
+NE,AFB,Dimethenamid ethanesulfonic acid (ESA),543.47
+NE,B46,Clopyralid,20.8
+NH,032,Diuron,134.0
+NH,162,Propoxur,5.0
+NH,305,Atrazine,407.1
+NH,596,Norflurazon,10.0
+NH,785,Desisopropyl atrazine,249.0
+NH,964,Desethyl atrazine,93.6
+NH,967,Imidacloprid,124.0
+NH,ABP,Alachlor ethanesulfonic acid (ESA),597.5
+NH,ABQ,Alachlor oxanilic acid (OA),17.0
+NH,ACB,Imazapyr,882.0
+NH,ACG,Metolachlor ethanesulfonic acid (ESA),232.1
+NH,ACH,Metolachlor oxanilic acid (OA),79.3
+NH,ACP,Sulfometuron methyl,35.0
+NH,ACT,Siduron,3.0
+NH,AED,Hydroxy atrazine,42.3
+NJ,026,"2,4-D",2490.74
+NJ,032,Diuron,327.1
+NJ,102,Carbaryl,12.4
+NJ,149,Simazine,490.54
+NJ,152,Terbacil,1.18
+NJ,153,Bromacil,2.0
+NJ,208,Malathion oxygen analog,1.8
+NJ,264,Propiconazole,11.4
+NJ,283,Metolachlor,379.3
+NJ,305,Atrazine,2178.9
+NJ,318,MCPA,164.85
+NJ,333,Propazine,13.799999999999999
+NJ,607,Metalaxyl/Mefenoxam,103.0
+NJ,633,Hexazinone,16.7
+NJ,679,Myclobutanil,33.4
+NJ,731,Triclopyr,93.0
+NJ,758,Bentazon,100.09
+NJ,780,Tebuthiuron,14.95
+NJ,785,Desisopropyl atrazine,101.8
+NJ,807,Acetochlor,87.6
+NJ,848,Phenothrin,45.0
+NJ,942,Prometon,89.29
+NJ,963,Terbufos sulfone,2.7
+NJ,964,Desethyl atrazine,663.82
+NJ,967,Imidacloprid,55.0
+NJ,A25,Dichlorprop,3.66
+NJ,A42,Mecoprop (MCPP),649.24
+NJ,A82,Fipronil,1.16
+NJ,ABN,Acetochlor ethanesulfonic acid (ESA),496.4
+NJ,ABO,Acetochlor oxanilic acid (OA),47.1
+NJ,ABP,Alachlor ethanesulfonic acid (ESA),520.3
+NJ,ABQ,Alachlor oxanilic acid (OA),24.42
+NJ,ACB,Imazapyr,498.8
+NJ,ACD,Imazethapyr,8.6
+NJ,ACG,Metolachlor ethanesulfonic acid (ESA),4814.1
+NJ,ACH,Metolachlor oxanilic acid (OA),376.2
+NJ,ACI,Metsulfuron methyl,2.5
+NJ,ACP,Sulfometuron methyl,55.730000000000004
+NJ,ACT,Siduron,35.0
+NJ,ACZ,Imazapic,1.5
+NJ,AEB,Dimethenamid/Dimethenamid P,96.28
+NJ,AED,Hydroxy atrazine,556.19
+NJ,AEE,Imazamethabenz acid,1.0
+NJ,AEY,Dimethenamid oxanilic acid (OA),4.4
+NJ,AFO,Dinotefuran,12.5
+NJ,B43,Thiamethoxam,10.2
+NJ,B48,Azoxystrobin,81.3
+NJ,B72,Tetraconazole,2.0
+NY,001,Aldrin,0.003
+NY,002,Allethrin,0.018
+NY,011,Captan,531.222
+NY,022,DDT,1.778
+NY,024,Diazinon,87.1078
+NY,026,"2,4-D",1395.206
+NY,028,Dieldrin,7.8217
+NY,031,Dinoseb,7.995
+NY,032,Diuron,0.36260000000000003
+NY,034,Endrin,0.1369
+NY,042,Azinphos methyl,70.2742
+NY,047,Dicofol Total,14.184000000000001
+NY,050,Lindane (BHC gamma),0.012
+NY,052,Malathion,36.4391
+NY,055,Methoxychlor Total,5.321
+NY,057,Parathion methyl,3.9488
+NY,058,MGK-264,2.3199
+NY,065,Parathion ethyl,1.325
+NY,069,Mevinphos Total,1.1845
+NY,070,Piperonyl butoxide,36.9335
+NY,075,Pyrethrins,0.164
+NY,083,O-Phenylphenol,198.1953
+NY,087,DDD (TDE),0.054
+NY,090,Toxaphene,0.411
+NY,102,Carbaryl,117.1635
+NY,104,Dodine,0.5057
+NY,107,Ethion,0.5326
+NY,108,Tetradifon,0.02
+NY,111,Ethoxyquin,19.6282
+NY,114,Chlorpropham,1225.2917
+NY,115,Endosulfans Total,10.861
+NY,124,Coumaphos,0.1362
+NY,125,Diphenylamine (DPA),420.1384
+NY,126,Folpet,1.1516
+NY,129,Linuron,14.2343
+NY,134,DCPA,20.4796
+NY,143,Heptachlor epoxide,0.2682
+NY,144,Dicloran,366.3199
+NY,147,Tecnazene,0.0617
+NY,149,Simazine,2122.8454
+NY,151,Trifluralin,10.5585
+NY,153,Bromacil,0.0194
+NY,157,Thiabendazole,879.1664
+NY,159,Methomyl,104.2368
+NY,160,Chlorpyrifos,26.2891
+NY,162,Propoxur,0.01
+NY,164,Chlorothalonil,85.2594
+NY,165,Phosmet,83.5099
+NY,166,Phosalone,0.23800000000000002
+NY,168,Aldicarb sulfone,0.459
+NY,169,Aldicarb sulfoxide,1.6537
+NY,170,Methamidophos,75.4272
+NY,171,Dimethoate,48.1386
+NY,172,Chlordane trans,0.222
+NY,173,Chlordane cis,0.3693
+NY,175,Ethoprop,0.0402
+NY,178,Omethoate,20.4035
+NY,180,Carbofuran,7.6370000000000005
+NY,181,Metribuzin,1.807
+NY,189,Phorate sulfone,0.28
+NY,190,Phorate sulfoxide,0.3293
+NY,192,Benomyl,55.6602
+NY,195,Methiocarb,0.054
+NY,197,Methidathion,0.398
+NY,200,EPTC,0.27430000000000004
+NY,203,Phosphamidon,0.272
+NY,204,Acephate,211.1881
+NY,206,Nonachlor trans,0.0109
+NY,207,Nonachlor cis,0.0051
+NY,208,Malathion oxygen analog,0.3651
+NY,216,Disulfoton sulfone,0.0233
+NY,217,DEF (Tribufos),0.003
+NY,219,Oxydemeton methyl,0.36819999999999997
+NY,222,Permethrin cis,328.5876
+NY,223,Permethrin trans,332.503
+NY,224,Profenofos,0.0521
+NY,226,Demeton-S sulfone,60.298
+NY,227,Alachlor,81.5
+NY,228,Cyanazine,2.6
+NY,230,Pendimethalin,0.8504
+NY,231,Iprodione metabolite isomer,58.056
+NY,232,Cycloate,0.002
+NY,235,Chlorpyrifos methyl,1.3855
+NY,236,Fenamiphos,0.0035
+NY,237,Phosmet oxygen analog,0.37070000000000003
+NY,239,Bensulide,0.0968
+NY,245,Oxydemeton methyl sulfone,0.36450000000000005
+NY,249,Prometryn,0.9547
+NY,253,"Dicofol o,p'",2.8022
+NY,254,"Dicofol p,p'",32.2944
+NY,255,Cyromazine,6.7469
+NY,264,Propiconazole,49.6078
+NY,271,Fenarimol,0.5347000000000001
+NY,272,"2,6-dichlorobenzamide",0.074
+NY,275,"Methoxychlor p,p'",0.0902
+NY,283,Metolachlor,10684.4265
+NY,297,Fluvalinate,0.0248
+NY,300,DDE,4.722
+NY,303,Naled,0.012
+NY,304,Quintozene (PCNB),39.747
+NY,305,Atrazine,35381.1829
+NY,318,MCPA,47.952
+NY,321,Hexachlorobenzene (HCB),0.0145
+NY,329,Picloram,52.8
+NY,330,Diphenamid,0.03
+NY,333,Propazine,2.8
+NY,338,Dichlorvos (DDVP),2.1618
+NY,349,Oxychlordane,0.013000000000000001
+NY,351,Pentachloroaniline (PCA),0.7215
+NY,370,Parathion oxygen analog,0.05
+NY,382,1-Naphthol,10.4904
+NY,387,Pentachlorobenzene (PCB),0.1348
+NY,388,Pentachlorophenyl methyl sulfide,0.041299999999999996
+NY,395,Diazinon oxygen analog,0.18000000000000002
+NY,512,3-Hydroxycarbofuran,1.5904
+NY,529,Vinclozolin,40.4602
+NY,536,Triazophos,0.022
+NY,537,Oxamyl,21.1038
+NY,539,Permethrin Total,762.1432
+NY,540,Pronamide,0.1543
+NY,546,Fenvalerate,3.4913000000000003
+NY,556,Resmethrin,0.8160000000000001
+NY,562,Pirimiphos methyl,0.0257
+NY,578,Mevinphos Z,0.012
+NY,579,Mevinphos E,0.01
+NY,580,Pirimicarb,0.2089
+NY,593,Procymidone,0.2569
+NY,594,Napropamide,0.0091
+NY,596,Norflurazon,0.008
+NY,597,Cypermethrin,257.7468
+NY,604,Imazalil,148.3282
+NY,607,Metalaxyl/Mefenoxam,30.0536
+NY,608,Triadimefon,0.2888
+NY,611,Thiophanate methyl,1.387
+NY,612,Deltamethrin  (includes parent Tralomethrin),5.6984
+NY,623,Propargite,75.5474
+NY,624,Tetrahydrophthalimide (THPI),191.99790000000002
+NY,626,Iprodione,1400.2134
+NY,633,Hexazinone,5.8
+NY,638,Triadimenol,2.4960999999999998
+NY,639,Fenbutatin oxide,4.9841
+NY,649,Tolylfluanid,0.0151
+NY,651,Diflubenzuron,1.2232
+NY,658,Bendiocarb,0.11900000000000001
+NY,666,Carbendazim (MBC),59.9114
+NY,675,Propachlor,0.002
+NY,679,Myclobutanil,51.2008
+NY,699,Clofentezine,0.12040000000000001
+NY,713,Oxyfluorfen,0.0451
+NY,714,Esfenvalerate,3.8463000000000003
+NY,719,Clomazone,0.010499999999999999
+NY,720,Norflurazon desmethyl,0.040400000000000005
+NY,721,Ethalfluralin,0.0037
+NY,723,Formetanate hydrochloride,12.0978
+NY,726,Thiobencarb,0.016
+NY,730,Ethephon,19.9
+NY,736,Fluridone,0.0125
+NY,740,Bensulide oxygen analog,0.043000000000000003
+NY,745,Fenamiphos sulfone,0.0623
+NY,746,Fenamiphos sulfoxide,0.3332
+NY,758,Bentazon,250.139
+NY,769,Azinphos methyl oxygen analog,0.0025
+NY,780,Tebuthiuron,126.737
+NY,781,Cyfluthrin,54.3088
+NY,784,Desethyl-desisopropyl atrazine,285.9
+NY,785,Desisopropyl atrazine,8721.738
+NY,786,Desmedipham,0.092
+NY,791,Phenmedipham,0.5116
+NY,804,Tricyclazole,1.0798
+NY,807,Acetochlor,0.0174
+NY,808,Fenpropathrin,64.4016
+NY,833,Prochloraz,0.0281
+NY,855,Isoprothiolane,0.3109
+NY,856,Fenobucarb (BPMC),0.0047
+NY,867,Iprobenfos  (IBP),0.0014
+NY,877,Cymoxanil,0.27699999999999997
+NY,886,Fenpropimorph,0.1739
+NY,900,Endosulfan I,18.7726
+NY,901,Endosulfan II,17.5168
+NY,902,Endosulfan sulfate,52.8129
+NY,903,BHC alpha,0.0031
+NY,904,BHC beta,0.0251
+NY,906,"DDT p,p'",0.7625
+NY,907,"DDT o,p'",0.4082
+NY,908,"DDD p,p'",0.3456
+NY,909,"DDD o,p'",0.0775
+NY,910,"DDE p,p'",10.116
+NY,911,"DDE o,p'",0.01
+NY,930,Bifenthrin,57.7785
+NY,942,Prometon,329.29970000000003
+NY,945,Ethofumesate,0.025
+NY,948,Abamectin,0.224
+NY,954,Hexaconazole,0.0051
+NY,963,Terbufos sulfone,0.017
+NY,964,Desethyl atrazine,25247.795
+NY,966,Phorate oxygen analog sulfone,0.015
+NY,967,Imidacloprid,232.0341
+NY,A22,Cyproconazole,0.0221
+NY,A30,Fenbuconazole,21.6339
+NY,A39,Lambda cyhalothrin total,1.957
+NY,A42,Mecoprop (MCPP),2.52
+NY,A46,Oxadixyl,0.118
+NY,A47,Oxamyl oxime,25.6033
+NY,A54,RH 9129 (fenbuconazole metab.),0.015
+NY,A58,Tebuconazole,90.1643
+NY,A61,Triflumizole,5.139399999999999
+NY,A66,Vinclozolin metabolite E,0.111
+NY,A68,"1,2,4-Triazole",0.005
+NY,A82,Fipronil,5.5683
+NY,AAA,Doramectin,0.01
+NY,AAD,SD-31723,0.082
+NY,AAE,SD-33608,0.059000000000000004
+NY,AAF,Lambda cyhalothrin R ester,0.017
+NY,AAG,Lambda cyhalothrin S ester,0.435
+NY,AAU,Flumetsulam,119.97
+NY,ABB,Spinosad,6.9138
+NY,ABC,Spinosad A,8.7236
+NY,ABD,Spinosad D,2.2515
+NY,ABF,Pymetrozine,0.2303
+NY,ABG,Tebufenozide,2.4682
+NY,ABN,Acetochlor ethanesulfonic acid (ESA),850.7
+NY,ABO,Acetochlor oxanilic acid (OA),699.9
+NY,ABP,Alachlor ethanesulfonic acid (ESA),33180.922
+NY,ABQ,Alachlor oxanilic acid (OA),8986.856
+NY,ACB,Imazapyr,15.49
+NY,ACG,Metolachlor ethanesulfonic acid (ESA),120683.183
+NY,ACH,Metolachlor oxanilic acid (OA),49467.828
+NY,ACV,Methoprene,0.17
+NY,ADC,Prallethrin,2.315
+NY,ADD,Dimethenamid,0.0034
+NY,ADE,Esfenvalerate+Fenvalerate Total,7.68
+NY,ADG,Indoxacarb,19.244
+NY,ADI,Etofenprox,0.7779
+NY,ADW,Triazole alanine (TA),6.268
+NY,ADX,Triazole acetic acid (TAA),2.7992
+NY,AEC,Hydroprene,0.0436
+NY,AED,Hydroxy atrazine,158.448
+NY,AEL,"Cyhalothrin, Total (Cyhalothrin-L + R157836 epimer)",23.999
+NY,AEM,"Cyhalothrin, Lambda",4.9878
+NY,AEN,"Cyhalothrin, Lambda epimer R157836",0.134
+NY,AEP,Clothianidin,16.3133
+NY,AER,Clethodim,0.0076
+NY,AES,Methoxyfenozide,121.0139
+NY,AEW,Famoxadone,41.1882
+NY,AEY,Dimethenamid oxanilic acid (OA),1.05
+NY,AFC,Heptachlor epoxide cis,0.007
+NY,AFF,Flumioxazin,0.0051
+NY,AFM,Flutriafol,11.6878
+NY,AFO,Dinotefuran,14.8604
+NY,AFS,Fenpyroximate,6.471
+NY,AFU,Propamocarb hydrochloride,118.9367
+NY,AFW,Spiromesifen Total (parent + enol metabolite),0.4338
+NY,AFX,Novaluron,12.9577
+NY,AFZ,"2,6-DIPN",0.526
+NY,AGA,Cyazofamid,30.9788
+NY,AGG,Flonicamid,58.7298
+NY,AGH,Emamectin benzoate,0.0684
+NY,AGJ,Fluoxastrobin,0.1701
+NY,AGR,"2,4-dimethylphenyl formamide (2,4-DMPF)",0.5202
+NY,AGT,Spiromesifen,3.0552
+NY,AGW,Chlorantraniliprole,111.59270000000001
+NY,AGX,Mandipropamid,310.9197
+NY,AGY,Spinetoram,13.4145
+NY,AHF,Imidacloprid urea,0.1049
+NY,AHM,Spirotetramat,6.5716
+NY,AHS,Flubendiamide,14.6825
+NY,AHT,Fluopicolide,64.7048
+NY,AHX,Metconazole,0.22000000000000003
+NY,AJJ,Uniconazole,0.0033
+NY,AJQ,Sethoxydim sulfone,0.0521
+NY,AJR,Sethoxydim sulfoxide,0.2144
+NY,AJY,Spiroxamine,0.08889999999999999
+NY,AJZ,Tebufenpyrad,0.0065
+NY,AKC,Ametoctradin,287.8481
+NY,AKD,Penthiopyrad,39.6956
+NY,AKG,Fluopyram,13.3164
+NY,AKS,Acequinocyl,4.323
+NY,AKU,Cyflufenamid,0.8963
+NY,AKW,Fluxapyroxad,15.288
+NY,AKX,Isopyrazam,0.0055
+NY,ALG,Thymol,0.394
+NY,ALS,Sulfoxaflor,2.6422
+NY,ALV,Spiromesifen alcohol,1.3165
+NY,AMB,Cyantraniliprole,20.1215
+NY,AMC,Cyflumetofen,1.902
+NY,AMF,Fenpropidin,0.0053
+NY,AMG,Fenpyrazamine,0.0359
+NY,ANC,Tolfenpyrad,11.2836
+NY,AND,Propamocarb,11.7018
+NY,ANE,Flupyradifurone,25.9725
+NY,ANF,Metrafenone,3.1914
+NY,ANG,Asulam,0.0058
+NY,ANH,Isofetamid,0.3191
+NY,AOG,Imidacloprid desnitro,0.338
+NY,AOK,Imidacloprid olefin,0.0216
+NY,B07,Metaldehyde,0.18
+NY,B10,Hexythiazox,3.8192
+NY,B13,Chlorfenapyr,2.3653
+NY,B16,Pyrimethanil,516.6561
+NY,B19,4-Hydroxydiphenylamine,11.887
+NY,B22,Cyprodinil,114.6677
+NY,B23,Fludioxonil,795.8653
+NY,B24,Pyriproxyfen,1.356
+NY,B28,5-Hydroxythiabendazole,0.6109
+NY,B32,Forchlorfenuron,0.0291
+NY,B41,Fenhexamid,88.3364
+NY,B42,Kresoxim-methyl,0.3874
+NY,B43,Thiamethoxam,18.3303
+NY,B44,Zoxamide,0.09509999999999999
+NY,B46,Clopyralid,2.935
+NY,B48,Azoxystrobin,274.2377
+NY,B52,Buprofezin,8.4335
+NY,B53,Epoxiconazole,0.0126
+NY,B54,Fluazinam,0.017
+NY,B56,Pyridaben,1.0111
+NY,B57,Quinoxyfen,3.9833
+NY,B58,Difenoconazole,28.1256
+NY,B61,Pyraclostrobin,186.3726
+NY,B63,Flutolanil,0.2107
+NY,B64,Fenamidone,84.9972
+NY,B68,Thiacloprid,5.4439
+NY,B72,Tetraconazole,1.9244
+NY,B73,Fenazaquin,0.2298
+NY,B75,Boscalid,206.5589
+NY,B77,Dimethomorph,103.7713
+NY,B79,Trifloxystrobin,10.8215
+NY,B80,Acetamiprid,64.6067
+NY,B82,Bifenazate,11.9081
+NY,B84,Etoxazole,1.6558
+NY,B85,Spirodiclofen,6.9527
+NY,C90,Ethaboxam,0.1296
+NY,F00,Prothioconazole desthio,0.0019
+NY,F08,Pyrifluquinazon,0.0053
+NY,F12,Pyriofenone,0.266
+NY,F40,Cyclaniliprole,0.0773
+NY,F53,Benzovindiflupyr,0.0659
+NY,F56,Oxathiapiprolin,0.0081
+NY,F87,Afidopyropen ,0.0105
+NY,G03,Pydiflumetofen,1.2255
+OH,002,Allethrin,0.036000000000000004
+OH,011,Captan,429.6884
+OH,014,Chlordanes Total,0.1801
+OH,022,DDT,0.274
+OH,024,Diazinon,2.7064
+OH,026,"2,4-D",17343.253
+OH,028,Dieldrin,5.2081
+OH,031,Dinoseb,57.7
+OH,032,Diuron,670.0551
+OH,033,Anilazine,0.398
+OH,034,Endrin,0.009600000000000001
+OH,042,Azinphos methyl,59.3011
+OH,047,Dicofol Total,4.4879999999999995
+OH,050,Lindane (BHC gamma),0.087
+OH,052,Malathion,11.9889
+OH,055,Methoxychlor Total,4.304
+OH,057,Parathion methyl,2.3746
+OH,058,MGK-264,0.9399
+OH,065,Parathion ethyl,0.076
+OH,069,Mevinphos Total,0.53
+OH,070,Piperonyl butoxide,21.7227
+OH,075,Pyrethrins,0.037
+OH,083,O-Phenylphenol,43.1578
+OH,090,Toxaphene,0.3168
+OH,102,Carbaryl,96.73310000000001
+OH,104,Dodine,0.0958
+OH,107,Ethion,0.865
+OH,111,Ethoxyquin,11.663
+OH,114,Chlorpropham,1016.1024
+OH,115,Endosulfans Total,9.087
+OH,117,Disulfoton,0.005
+OH,124,Coumaphos,0.063
+OH,125,Diphenylamine (DPA),259.661
+OH,126,Folpet,0.501
+OH,129,Linuron,22.0157
+OH,134,DCPA,7.0205
+OH,143,Heptachlor epoxide,0.6378
+OH,144,Dicloran,229.4046
+OH,149,Simazine,35332.9484
+OH,151,Trifluralin,8.8253
+OH,153,Bromacil,230.308
+OH,157,Thiabendazole,680.582
+OH,159,Methomyl,58.7416
+OH,160,Chlorpyrifos,14.779
+OH,162,Propoxur,0.008
+OH,163,Fonofos,0.0075
+OH,164,Chlorothalonil,46.796
+OH,165,Phosmet,47.3422
+OH,167,Aldicarb,0.068
+OH,168,Aldicarb sulfone,0.234
+OH,169,Aldicarb sulfoxide,0.993
+OH,170,Methamidophos,53.6839
+OH,171,Dimethoate,56.5032
+OH,172,Chlordane trans,0.06570000000000001
+OH,173,Chlordane cis,0.1439
+OH,175,Ethoprop,0.0245
+OH,176,Tetrachlorvinphos,0.0003
+OH,177,Fenthion,0.0125
+OH,178,Omethoate,13.984
+OH,180,Carbofuran,2.4919000000000002
+OH,181,Metribuzin,505.978
+OH,185,Metribuzin DA,55.8
+OH,189,Phorate sulfone,0.107
+OH,190,Phorate sulfoxide,0.09469999999999999
+OH,192,Benomyl,32.226
+OH,195,Methiocarb,0.0741
+OH,197,Methidathion,0.134
+OH,200,EPTC,0.0017
+OH,203,Phosphamidon,0.23700000000000002
+OH,204,Acephate,150.6786
+OH,208,Malathion oxygen analog,0.1249
+OH,209,Dicrotophos,0.0027
+OH,216,Disulfoton sulfone,6.8149999999999995
+OH,217,DEF (Tribufos),0.0028
+OH,219,Oxydemeton methyl,0.138
+OH,222,Permethrin cis,208.9594
+OH,223,Permethrin trans,210.6307
+OH,224,Profenofos,0.1953
+OH,226,Demeton-S sulfone,0.06
+OH,227,Alachlor,102.3
+OH,228,Cyanazine,51.2
+OH,230,Pendimethalin,0.2849
+OH,231,Iprodione metabolite isomer,19.1778
+OH,232,Cycloate,0.0089
+OH,235,Chlorpyrifos methyl,0.658
+OH,237,Phosmet oxygen analog,0.7188
+OH,239,Bensulide,0.0218
+OH,245,Oxydemeton methyl sulfone,0.24530000000000002
+OH,249,Prometryn,13.662400000000002
+OH,253,"Dicofol o,p'",1.1535
+OH,254,"Dicofol p,p'",14.823
+OH,255,Cyromazine,5.8082
+OH,264,Propiconazole,65.46340000000001
+OH,271,Fenarimol,0.353
+OH,275,"Methoxychlor p,p'",0.05
+OH,276,Methoxychlor olefin,0.002
+OH,283,Metolachlor,18392.7836
+OH,297,Fluvalinate,0.014199999999999999
+OH,300,DDE,4.32
+OH,304,Quintozene (PCNB),0.3391
+OH,305,Atrazine,200065.9917
+OH,318,MCPA,1.3
+OH,321,Hexachlorobenzene (HCB),0.006200000000000001
+OH,329,Picloram,148.0
+OH,333,Propazine,999.494
+OH,338,Dichlorvos (DDVP),1.7692
+OH,349,Oxychlordane,0.0058
+OH,351,Pentachloroaniline (PCA),0.2168
+OH,382,1-Naphthol,11.981
+OH,387,Pentachlorobenzene (PCB),0.0525
+OH,388,Pentachlorophenyl methyl sulfide,0.0155
+OH,395,Diazinon oxygen analog,0.005
+OH,512,3-Hydroxycarbofuran,0.5757000000000001
+OH,529,Vinclozolin,12.2642
+OH,536,Triazophos,0.013600000000000001
+OH,537,Oxamyl,15.9276
+OH,539,Permethrin Total,675.0103
+OH,540,Pronamide,0.14250000000000002
+OH,546,Fenvalerate,1.0190000000000001
+OH,556,Resmethrin,0.158
+OH,562,Pirimiphos methyl,0.01
+OH,580,Pirimicarb,0.24
+OH,593,Procymidone,0.191
+OH,594,Napropamide,0.006
+OH,597,Cypermethrin,185.0147
+OH,604,Imazalil,99.0402
+OH,607,Metalaxyl/Mefenoxam,135.2423
+OH,608,Triadimefon,2.366
+OH,611,Thiophanate methyl,1.5816000000000001
+OH,612,Deltamethrin  (includes parent Tralomethrin),1.2346
+OH,623,Propargite,59.8781
+OH,624,Tetrahydrophthalimide (THPI),101.7238
+OH,626,Iprodione,593.1384
+OH,638,Triadimenol,0.39590000000000003
+OH,639,Fenbutatin oxide,5.7882
+OH,651,Diflubenzuron,5.4136
+OH,658,Bendiocarb,0.017
+OH,666,Carbendazim (MBC),23.9597
+OH,675,Propachlor,1.07
+OH,679,Myclobutanil,143.77360000000002
+OH,713,Oxyfluorfen,0.0167
+OH,714,Esfenvalerate,1.531
+OH,717,Chlorimuron ethyl,2842.3
+OH,720,Norflurazon desmethyl,0.052700000000000004
+OH,722,Etridiazole,0.011
+OH,723,Formetanate hydrochloride,7.841
+OH,730,Ethephon,4.56
+OH,731,Triclopyr,3996.7
+OH,736,Fluridone,0.0017
+OH,737,Oryzalin,0.0167
+OH,740,Bensulide oxygen analog,0.026
+OH,745,Fenamiphos sulfone,0.0376
+OH,746,Fenamiphos sulfoxide,0.14780000000000001
+OH,758,Bentazon,2698.5
+OH,769,Azinphos methyl oxygen analog,0.01
+OH,779,Parathion methyl oxygen analog,0.02
+OH,780,Tebuthiuron,1289.78
+OH,781,Cyfluthrin,37.048
+OH,784,Desethyl-desisopropyl atrazine,452.0
+OH,785,Desisopropyl atrazine,36911.222
+OH,804,Tricyclazole,0.126
+OH,807,Acetochlor,4160.7077
+OH,808,Fenpropathrin,45.051
+OH,850,Bitertanol,0.032
+OH,855,Isoprothiolane,0.2592
+OH,877,Cymoxanil,0.1
+OH,886,Fenpropimorph,0.1698
+OH,900,Endosulfan I,12.9548
+OH,901,Endosulfan II,11.9785
+OH,902,Endosulfan sulfate,37.4032
+OH,903,BHC alpha,0.0411
+OH,904,BHC beta,0.012199999999999999
+OH,905,BHC delta,0.023
+OH,906,"DDT p,p'",0.3657
+OH,907,"DDT o,p'",0.1508
+OH,908,"DDD p,p'",0.3208
+OH,909,"DDD o,p'",0.042499999999999996
+OH,910,"DDE p,p'",6.729
+OH,911,"DDE o,p'",0.0022
+OH,930,Bifenthrin,46.2029
+OH,942,Prometon,3488.97
+OH,945,Ethofumesate,0.025
+OH,948,Abamectin,0.054
+OH,950,Flusilazole,0.003
+OH,954,Hexaconazole,0.005
+OH,956,Penconazole,0.0067
+OH,963,Terbufos sulfone,0.004
+OH,964,Desethyl atrazine,80117.488
+OH,966,Phorate oxygen analog sulfone,0.005
+OH,967,Imidacloprid,196.3121
+OH,A22,Cyproconazole,2.7069
+OH,A25,Dichlorprop,26.0
+OH,A30,Fenbuconazole,18.9595
+OH,A39,Lambda cyhalothrin total,0.020999999999999998
+OH,A42,Mecoprop (MCPP),61.3
+OH,A46,Oxadixyl,0.237
+OH,A47,Oxamyl oxime,14.3812
+OH,A54,RH 9129 (fenbuconazole metab.),0.015
+OH,A58,Tebuconazole,45.9972
+OH,A61,Triflumizole,2.1572
+OH,A68,"1,2,4-Triazole",0.065
+OH,A82,Fipronil,0.0069
+OH,A84,Fipronil sulfone (MB46136),0.003
+OH,AAF,Lambda cyhalothrin R ester,0.017
+OH,AAG,Lambda cyhalothrin S ester,0.018
+OH,AAU,Flumetsulam,95.5
+OH,AAX,Ethion mono oxon,0.014
+OH,ABB,Spinosad,4.6961
+OH,ABC,Spinosad A,6.5786
+OH,ABD,Spinosad D,1.3819
+OH,ABF,Pymetrozine,0.2792
+OH,ABG,Tebufenozide,2.634
+OH,ABN,Acetochlor ethanesulfonic acid (ESA),188578.99
+OH,ABO,Acetochlor oxanilic acid (OA),184372.2
+OH,ABP,Alachlor ethanesulfonic acid (ESA),43697.896
+OH,ABQ,Alachlor oxanilic acid (OA),27265.316
+OH,ABR,Bensulfuron methyl,2.0
+OH,ACA,Imazamox,17.0
+OH,ACB,Imazapyr,451.105
+OH,ACC,Imazaquin,952.5799999999999
+OH,ACD,Imazethapyr,1395.08
+OH,ACG,Metolachlor ethanesulfonic acid (ESA),206525.022
+OH,ACH,Metolachlor oxanilic acid (OA),118370.963
+OH,ACI,Metsulfuron methyl,17.5
+OH,ACM,Nicosulfuron,1238.3
+OH,ACP,Sulfometuron methyl,42.2
+OH,ACT,Siduron,14.0
+OH,ACV,Methoprene,0.216
+OH,ACZ,Imazapic,79.3
+OH,ADC,Prallethrin,0.762
+OH,ADD,Dimethenamid,443.90000000000003
+OH,ADE,Esfenvalerate+Fenvalerate Total,3.7433
+OH,ADG,Indoxacarb,12.0591
+OH,ADI,Etofenprox,0.3346
+OH,ADK,Imiprothrin,0.2771
+OH,ADW,Triazole alanine (TA),3.4562
+OH,ADX,Triazole acetic acid (TAA),484.0555
+OH,AEB,Dimethenamid/Dimethenamid P,1450.0
+OH,AED,Hydroxy atrazine,39889.15
+OH,AEH,Halosulfuron methyl,5.5
+OH,AEL,"Cyhalothrin, Total (Cyhalothrin-L + R157836 epimer)",10.3677
+OH,AEM,"Cyhalothrin, Lambda",0.909
+OH,AEP,Clothianidin,8.7125
+OH,AES,Methoxyfenozide,80.3085
+OH,AEW,Famoxadone,20.0776
+OH,AEY,Dimethenamid oxanilic acid (OA),2782.15
+OH,AEZ,Flufenacet oxanilic acid (OA),935.15
+OH,AFA,Propachlor oxanilic acid (OA),5.0
+OH,AFB,Dimethenamid ethanesulfonic acid (ESA),154.71
+OH,AFC,Heptachlor epoxide cis,0.0067
+OH,AFM,Flutriafol,2.0193
+OH,AFO,Dinotefuran,8.4984
+OH,AFS,Fenpyroximate,4.9633
+OH,AFU,Propamocarb hydrochloride,62.9146
+OH,AFW,Spiromesifen Total (parent + enol metabolite),0.0935
+OH,AFX,Novaluron,7.0208
+OH,AFZ,"2,6-DIPN",1.85
+OH,AGA,Cyazofamid,38.0721
+OH,AGG,Flonicamid,52.5137
+OH,AGH,Emamectin benzoate,0.1449
+OH,AGJ,Fluoxastrobin,0.183
+OH,AGR,"2,4-dimethylphenyl formamide (2,4-DMPF)",0.3645
+OH,AGT,Spiromesifen,2.3647
+OH,AGW,Chlorantraniliprole,59.7226
+OH,AGX,Mandipropamid,161.0875
+OH,AGY,Spinetoram,8.1347
+OH,AHF,Imidacloprid urea,0.0354
+OH,AHM,Spirotetramat,3.9894
+OH,AHS,Flubendiamide,4.0007
+OH,AHT,Fluopicolide,52.3867
+OH,AHW,Disulfoton sulfoxide oxygen analog,0.0034
+OH,AHZ,Saflufenacil,10.350000000000001
+OH,AJO,Clethodim sulfoxide,0.04
+OH,AJQ,Sethoxydim sulfone,0.025
+OH,AJR,Sethoxydim sulfoxide,0.1759
+OH,AJY,Spiroxamine,0.0123
+OH,AKC,Ametoctradin,44.5269
+OH,AKD,Penthiopyrad,35.8554
+OH,AKG,Fluopyram,11.2159
+OH,AKS,Acequinocyl,4.234999999999999
+OH,AKU,Cyflufenamid,0.5426
+OH,AKW,Fluxapyroxad,10.665000000000001
+OH,ALG,Thymol,0.379
+OH,ALS,Sulfoxaflor,0.6517
+OH,ALT,Terbufos sulfoxide,0.027
+OH,ALV,Spiromesifen alcohol,0.3906
+OH,AMB,Cyantraniliprole,5.1175
+OH,AMC,Cyflumetofen,1.7683
+OH,AMG,Fenpyrazamine,0.0021
+OH,ANC,Tolfenpyrad,3.7209
+OH,AND,Propamocarb,7.2143
+OH,ANE,Flupyradifurone,16.8119
+OH,ANF,Metrafenone,1.8034000000000001
+OH,ANH,Isofetamid,0.0423
+OH,AOG,Imidacloprid desnitro,0.1403
+OH,AOK,Imidacloprid olefin,0.016
+OH,B07,Metaldehyde,0.213
+OH,B10,Hexythiazox,2.1822
+OH,B13,Chlorfenapyr,1.9440000000000002
+OH,B16,Pyrimethanil,448.0487
+OH,B21,Carfentrazone ethyl,0.006
+OH,B22,Cyprodinil,76.2605
+OH,B23,Fludioxonil,452.8587
+OH,B24,Pyriproxyfen,1.5725
+OH,B28,5-Hydroxythiabendazole,0.1427
+OH,B32,Forchlorfenuron,0.0033
+OH,B41,Fenhexamid,71.1155
+OH,B42,Kresoxim-methyl,0.3224
+OH,B43,Thiamethoxam,12.3956
+OH,B44,Zoxamide,0.0248
+OH,B46,Clopyralid,671.223
+OH,B48,Azoxystrobin,147.546
+OH,B51,Acibenzolar S methyl,0.0115
+OH,B52,Buprofezin,12.946900000000001
+OH,B53,Epoxiconazole,29.0175
+OH,B54,Fluazinam,0.017
+OH,B56,Pyridaben,0.7008
+OH,B57,Quinoxyfen,2.1390000000000002
+OH,B58,Difenoconazole,15.0555
+OH,B61,Pyraclostrobin,112.9645
+OH,B63,Flutolanil,0.3124
+OH,B64,Fenamidone,65.1156
+OH,B68,Thiacloprid,1.7081
+OH,B72,Tetraconazole,11.9941
+OH,B73,Fenazaquin,0.1548
+OH,B75,Boscalid,129.9925
+OH,B77,Dimethomorph,41.145
+OH,B79,Trifloxystrobin,11.369
+OH,B80,Acetamiprid,44.1953
+OH,B82,Bifenazate,7.8551
+OH,B84,Etoxazole,1.4473
+OH,B85,Spirodiclofen,6.2432
+OH,C90,Ethaboxam,0.1006
+OH,F00,Prothioconazole desthio,0.0013
+OH,F12,Pyriofenone,0.0078
+OH,F40,Cyclaniliprole,0.0166
+OH,F53,Benzovindiflupyr,0.0386
+OH,F96,Flutianil,0.004
+OH,G03,Pydiflumetofen,0.3672
+OH,G21,Mefentrifluconazole,0.0986
+OK,026,"2,4-D",20.1
+OK,032,Diuron,7.0
+OK,058,MGK-264,0.15960000000000002
+OK,070,Piperonyl butoxide,0.44179999999999997
+OK,102,Carbaryl,0.0036
+OK,329,Picloram,20.8
+OK,910,"DDE p,p'",0.003
+OR,026,"2,4-D",22.3
+OR,032,Diuron,129.0
+OR,042,Azinphos methyl,0.026
+OR,083,O-Phenylphenol,5.031
+OR,125,Diphenylamine (DPA),0.017
+OR,149,Simazine,3.7800000000000002
+OR,153,Bromacil,278.4
+OR,157,Thiabendazole,2.29
+OR,165,Phosmet,0.186
+OR,305,Atrazine,90.899
+OR,333,Propazine,13.100000000000001
+OR,596,Norflurazon,8.0
+OR,633,Hexazinone,13.0
+OR,720,Norflurazon desmethyl,39.0
+OR,758,Bentazon,290.0
+OR,784,Desethyl-desisopropyl atrazine,270.0
+OR,785,Desisopropyl atrazine,73.2
+OR,808,Fenpropathrin,0.43300000000000005
+OR,942,Prometon,0.56
+OR,964,Desethyl atrazine,535.38
+OR,967,Imidacloprid,13.06
+OR,ABG,Tebufenozide,0.316
+OR,ABP,Alachlor ethanesulfonic acid (ESA),118.6
+OR,ABQ,Alachlor oxanilic acid (OA),4.8
+OR,ACB,Imazapyr,236.665
+OR,ACG,Metolachlor ethanesulfonic acid (ESA),1659.6999999999998
+OR,ACH,Metolachlor oxanilic acid (OA),207.8
+OR,AED,Hydroxy atrazine,6.998
+PA,026,"2,4-D",1848.276
+PA,028,Dieldrin,0.0212
+PA,031,Dinoseb,13.819999999999999
+PA,032,Diuron,337.3
+PA,102,Carbaryl,22.3
+PA,125,Diphenylamine (DPA),0.0027
+PA,129,Linuron,40.8
+PA,143,Heptachlor epoxide,0.0076
+PA,149,Simazine,1455.6100000000001
+PA,152,Terbacil,1.18
+PA,153,Bromacil,6.0
+PA,172,Chlordane trans,0.0025
+PA,173,Chlordane cis,0.0007
+PA,283,Metolachlor,7359.888
+PA,305,Atrazine,17235.597
+PA,318,MCPA,50.798
+PA,324,Dichlobenil,11.2
+PA,333,Propazine,96.7
+PA,349,Oxychlordane,0.0038
+PA,607,Metalaxyl/Mefenoxam,16.0
+PA,633,Hexazinone,39.298
+PA,731,Triclopyr,327.784
+PA,758,Bentazon,16.21
+PA,780,Tebuthiuron,125.25
+PA,784,Desethyl-desisopropyl atrazine,2225.0
+PA,785,Desisopropyl atrazine,1775.162
+PA,807,Acetochlor,90.3
+PA,900,Endosulfan I,0.0021
+PA,901,Endosulfan II,0.0028
+PA,902,Endosulfan sulfate,0.1747
+PA,910,"DDE p,p'",0.0988
+PA,930,Bifenthrin,0.0025
+PA,942,Prometon,456.78499999999997
+PA,964,Desethyl atrazine,21635.016
+PA,967,Imidacloprid,12.0
+PA,A42,Mecoprop (MCPP),111.464
+PA,A58,Tebuconazole,40.5
+PA,A82,Fipronil,19.4
+PA,ABN,Acetochlor ethanesulfonic acid (ESA),2994.32
+PA,ABO,Acetochlor oxanilic acid (OA),787.562
+PA,ABP,Alachlor ethanesulfonic acid (ESA),4940.59
+PA,ABQ,Alachlor oxanilic acid (OA),163.256
+PA,ACB,Imazapyr,107.605
+PA,ACD,Imazethapyr,31.5
+PA,ACG,Metolachlor ethanesulfonic acid (ESA),264838.2
+PA,ACH,Metolachlor oxanilic acid (OA),39223.04
+PA,ACP,Sulfometuron methyl,34.16
+PA,AEB,Dimethenamid/Dimethenamid P,19.76
+PA,AED,Hydroxy atrazine,1711.888
+PA,AEG,Prosulfuron,17.5
+PA,AEP,Clothianidin,80.0
+PA,AEY,Dimethenamid oxanilic acid (OA),2.1
+PA,B48,Azoxystrobin,32.3
+RI,967,Imidacloprid,25.0
+RI,ACG,Metolachlor ethanesulfonic acid (ESA),5.0
+SC,026,"2,4-D",148.2
+SC,028,Dieldrin,0.0044
+SC,032,Diuron,32.0
+SC,052,Malathion,226.0
+SC,102,Carbaryl,0.0005
+SC,129,Linuron,315.0
+SC,149,Simazine,618.1
+SC,153,Bromacil,104.2
+SC,160,Chlorpyrifos,0.0025
+SC,283,Metolachlor,2252.0
+SC,305,Atrazine,4347.35
+SC,666,Carbendazim (MBC),6.0
+SC,701,Fluometuron,371.0
+SC,758,Bentazon,8.7
+SC,780,Tebuthiuron,34.6
+SC,784,Desethyl-desisopropyl atrazine,25.0
+SC,785,Desisopropyl atrazine,16.3
+SC,910,"DDE p,p'",0.0278
+SC,942,Prometon,74.3
+SC,964,Desethyl atrazine,269.3
+SC,967,Imidacloprid,7.5
+SC,A58,Tebuconazole,16.0
+SC,ABN,Acetochlor ethanesulfonic acid (ESA),15.0
+SC,ABP,Alachlor ethanesulfonic acid (ESA),6407.0
+SC,ABQ,Alachlor oxanilic acid (OA),2173.0
+SC,ACB,Imazapyr,35.7
+SC,ACD,Imazethapyr,12.3
+SC,ACG,Metolachlor ethanesulfonic acid (ESA),14770.7
+SC,ACH,Metolachlor oxanilic acid (OA),6441.5
+SC,AED,Hydroxy atrazine,57.6
+SD,758,Bentazon,2.22
+SD,784,Desethyl-desisopropyl atrazine,25.0
+SD,910,"DDE p,p'",0.0102
+SD,ABN,Acetochlor ethanesulfonic acid (ESA),434.0
+SD,ABO,Acetochlor oxanilic acid (OA),34.0
+SD,ABP,Alachlor ethanesulfonic acid (ESA),886.8
+SD,ABQ,Alachlor oxanilic acid (OA),34.0
+SD,ACG,Metolachlor ethanesulfonic acid (ESA),124.2
+SD,ACH,Metolachlor oxanilic acid (OA),19.9
+TN,026,"2,4-D",2764.232
+TN,028,Dieldrin,0.0048
+TN,031,Dinoseb,6.994
+TN,032,Diuron,778.996
+TN,050,Lindane (BHC gamma),0.0033
+TN,052,Malathion,9.99
+TN,149,Simazine,3384.235
+TN,153,Bromacil,152.184
+TN,159,Methomyl,12.2
+TN,181,Metribuzin,143.462
+TN,264,Propiconazole,22.4
+TN,283,Metolachlor,9281.25
+TN,305,Atrazine,51344.7
+TN,318,MCPA,1.3
+TN,329,Picloram,110.0
+TN,333,Propazine,79.96
+TN,607,Metalaxyl/Mefenoxam,225.0
+TN,633,Hexazinone,2.498
+TN,701,Fluometuron,6.993
+TN,731,Triclopyr,62.964
+TN,758,Bentazon,434.184
+TN,780,Tebuthiuron,455.411
+TN,785,Desisopropyl atrazine,5750.689
+TN,807,Acetochlor,1234.85
+TN,942,Prometon,295.113
+TN,964,Desethyl atrazine,21551.568
+TN,967,Imidacloprid,1462.228
+TN,A42,Mecoprop (MCPP),1.082
+TN,A58,Tebuconazole,294.992
+TN,AAU,Flumetsulam,67.98
+TN,ABN,Acetochlor ethanesulfonic acid (ESA),1801.232
+TN,ABO,Acetochlor oxanilic acid (OA),914.0360000000001
+TN,ABP,Alachlor ethanesulfonic acid (ESA),971.68
+TN,ABQ,Alachlor oxanilic acid (OA),190.928
+TN,ACB,Imazapyr,391.695
+TN,ACC,Imazaquin,3.996
+TN,ACD,Imazethapyr,220.916
+TN,ACG,Metolachlor ethanesulfonic acid (ESA),12791.862
+TN,ACH,Metolachlor oxanilic acid (OA),3857.728
+TN,ACM,Nicosulfuron,8.0
+TN,ACZ,Imazapic,1.5
+TN,ADD,Dimethenamid,164.08100000000002
+TN,AED,Hydroxy atrazine,1672.3
+TN,B48,Azoxystrobin,3321.0
+TX,001,Aldrin,0.0019
+TX,002,Allethrin,0.346
+TX,011,Captan,233.3529
+TX,022,DDT,0.426
+TX,024,Diazinon,2.466
+TX,026,"2,4-D",1157.3120000000001
+TX,028,Dieldrin,3.0796
+TX,032,Diuron,22.6144
+TX,033,Anilazine,0.868
+TX,034,Endrin,0.07919999999999999
+TX,042,Azinphos methyl,52.6931
+TX,047,Dicofol Total,4.04
+TX,050,Lindane (BHC gamma),0.041
+TX,052,Malathion,14.8591
+TX,055,Methoxychlor Total,9.938
+TX,057,Parathion methyl,4.025
+TX,058,MGK-264,3.2278000000000002
+TX,065,Parathion ethyl,1.711
+TX,069,Mevinphos Total,0.55
+TX,070,Piperonyl butoxide,44.9169
+TX,083,O-Phenylphenol,113.2364
+TX,087,DDD (TDE),0.005
+TX,090,Toxaphene,1.5798
+TX,102,Carbaryl,132.8651
+TX,104,Dodine,0.0491
+TX,107,Ethion,1.2807
+TX,111,Ethoxyquin,14.6195
+TX,114,Chlorpropham,1585.9219
+TX,115,Endosulfans Total,11.369
+TX,124,Coumaphos,0.0507
+TX,125,Diphenylamine (DPA),432.3399
+TX,126,Folpet,1.137
+TX,129,Linuron,14.6953
+TX,130,Trichlorfon,0.021
+TX,134,DCPA,17.9672
+TX,143,Heptachlor epoxide,0.0703
+TX,144,Dicloran,249.0839
+TX,147,Tecnazene,0.016
+TX,148,Phorate,0.003
+TX,149,Simazine,989.4958
+TX,151,Trifluralin,11.6402
+TX,153,Bromacil,10.008000000000001
+TX,156,Ametryn,0.0038
+TX,157,Thiabendazole,889.6835
+TX,159,Methomyl,81.9422
+TX,160,Chlorpyrifos,29.1035
+TX,164,Chlorothalonil,34.7748
+TX,165,Phosmet,69.7471
+TX,166,Phosalone,0.037000000000000005
+TX,168,Aldicarb sulfone,0.2237
+TX,169,Aldicarb sulfoxide,0.9242
+TX,170,Methamidophos,65.3432
+TX,171,Dimethoate,33.6822
+TX,172,Chlordane trans,0.0454
+TX,173,Chlordane cis,0.11270000000000001
+TX,175,Ethoprop,0.036300000000000006
+TX,176,Tetrachlorvinphos,0.026
+TX,178,Omethoate,17.235
+TX,180,Carbofuran,0.8344
+TX,181,Metribuzin,0.5685
+TX,189,Phorate sulfone,0.133
+TX,190,Phorate sulfoxide,0.15469999999999998
+TX,192,Benomyl,43.8239
+TX,197,Methidathion,0.121
+TX,200,EPTC,0.2777
+TX,203,Phosphamidon,0.158
+TX,204,Acephate,130.7104
+TX,206,Nonachlor trans,0.0021000000000000003
+TX,207,Nonachlor cis,0.0014
+TX,208,Malathion oxygen analog,0.2147
+TX,216,Disulfoton sulfone,0.008
+TX,217,DEF (Tribufos),0.0095
+TX,219,Oxydemeton methyl,0.9289
+TX,222,Permethrin cis,161.0637
+TX,223,Permethrin trans,182.6716
+TX,224,Profenofos,0.032
+TX,227,Alachlor,366.0
+TX,230,Pendimethalin,9.0306
+TX,231,Iprodione metabolite isomer,29.197
+TX,232,Cycloate,0.004
+TX,235,Chlorpyrifos methyl,0.3686
+TX,237,Phosmet oxygen analog,0.2635
+TX,239,Bensulide,0.0076
+TX,245,Oxydemeton methyl sulfone,0.13290000000000002
+TX,249,Prometryn,0.914
+TX,253,"Dicofol o,p'",0.9354
+TX,254,"Dicofol p,p'",16.3867
+TX,255,Cyromazine,5.0568
+TX,264,Propiconazole,59.5995
+TX,271,Fenarimol,0.362
+TX,272,"2,6-dichlorobenzamide",0.02
+TX,275,"Methoxychlor p,p'",0.17750000000000002
+TX,276,Methoxychlor olefin,0.0050999999999999995
+TX,283,Metolachlor,868.1518
+TX,292,Fluazifop butyl,0.01
+TX,297,Fluvalinate,0.0796
+TX,300,DDE,6.072
+TX,304,Quintozene (PCNB),0.9233
+TX,305,Atrazine,11328.349400000001
+TX,318,MCPA,1.299
+TX,321,Hexachlorobenzene (HCB),0.0492
+TX,324,Dichlobenil,55.959799999999994
+TX,329,Picloram,77.0
+TX,338,Dichlorvos (DDVP),2.5744
+TX,343,Monocrotophos,2.1004
+TX,351,Pentachloroaniline (PCA),0.48819999999999997
+TX,370,Parathion oxygen analog,0.034
+TX,382,1-Naphthol,18.786
+TX,387,Pentachlorobenzene (PCB),0.2294
+TX,388,Pentachlorophenyl methyl sulfide,0.0059
+TX,512,3-Hydroxycarbofuran,0.1855
+TX,529,Vinclozolin,24.1207
+TX,536,Triazophos,0.0054
+TX,537,Oxamyl,15.2036
+TX,539,Permethrin Total,1213.9843
+TX,540,Pronamide,0.1033
+TX,546,Fenvalerate,1.607
+TX,556,Resmethrin,0.081
+TX,562,Pirimiphos methyl,0.011
+TX,580,Pirimicarb,0.035
+TX,594,Napropamide,0.002
+TX,597,Cypermethrin,311.8093
+TX,604,Imazalil,140.7119
+TX,607,Metalaxyl/Mefenoxam,25.0049
+TX,608,Triadimefon,0.33030000000000004
+TX,611,Thiophanate methyl,1.8881999999999999
+TX,612,Deltamethrin  (includes parent Tralomethrin),2.867
+TX,621,Tri Allate,0.005
+TX,623,Propargite,66.9013
+TX,624,Tetrahydrophthalimide (THPI),96.1327
+TX,626,Iprodione,960.8272
+TX,638,Triadimenol,0.7827999999999999
+TX,639,Fenbutatin oxide,4.1794
+TX,651,Diflubenzuron,15.3957
+TX,658,Bendiocarb,0.068
+TX,666,Carbendazim (MBC),32.897
+TX,679,Myclobutanil,40.3591
+TX,699,Clofentezine,0.2272
+TX,713,Oxyfluorfen,0.026099999999999998
+TX,714,Esfenvalerate,2.273
+TX,719,Clomazone,0.0064
+TX,720,Norflurazon desmethyl,0.0214
+TX,722,Etridiazole,0.0078
+TX,723,Formetanate hydrochloride,15.0906
+TX,726,Thiobencarb,0.0017
+TX,730,Ethephon,13.073
+TX,731,Triclopyr,161.992
+TX,736,Fluridone,0.0143
+TX,740,Bensulide oxygen analog,0.0395
+TX,745,Fenamiphos sulfone,0.0944
+TX,746,Fenamiphos sulfoxide,0.378
+TX,769,Azinphos methyl oxygen analog,0.01
+TX,772,Chlorpyrifos oxygen analog,0.005
+TX,779,Parathion methyl oxygen analog,0.005
+TX,780,Tebuthiuron,82.45
+TX,781,Cyfluthrin,46.3517
+TX,785,Desisopropyl atrazine,307.462
+TX,786,Desmedipham,0.045
+TX,804,Tricyclazole,0.1528
+TX,808,Fenpropathrin,43.456
+TX,848,Phenothrin,0.005
+TX,855,Isoprothiolane,0.26
+TX,856,Fenobucarb (BPMC),0.0054
+TX,877,Cymoxanil,0.263
+TX,886,Fenpropimorph,0.0287
+TX,900,Endosulfan I,19.3179
+TX,901,Endosulfan II,19.2714
+TX,902,Endosulfan sulfate,45.4979
+TX,906,"DDT p,p'",0.3254
+TX,907,"DDT o,p'",0.1799
+TX,908,"DDD p,p'",1.015
+TX,909,"DDD o,p'",0.1413
+TX,910,"DDE p,p'",14.7055
+TX,911,"DDE o,p'",0.0129
+TX,930,Bifenthrin,41.1064
+TX,942,Prometon,969.523
+TX,943,Thiodicarb,0.005
+TX,948,Abamectin,0.244
+TX,956,Penconazole,0.0539
+TX,964,Desethyl atrazine,2275.516
+TX,967,Imidacloprid,112.639
+TX,A22,Cyproconazole,0.0063999999999999994
+TX,A30,Fenbuconazole,8.225
+TX,A42,Mecoprop (MCPP),4.5
+TX,A46,Oxadixyl,0.033
+TX,A47,Oxamyl oxime,18.6369
+TX,A58,Tebuconazole,105.7743
+TX,A61,Triflumizole,4.8763
+TX,A82,Fipronil,0.11249999999999999
+TX,A84,Fipronil sulfone (MB46136),0.0108
+TX,AAD,SD-31723,0.036000000000000004
+TX,ABB,Spinosad,8.4049
+TX,ABC,Spinosad A,13.299100000000001
+TX,ABD,Spinosad D,2.3345000000000002
+TX,ABF,Pymetrozine,0.8511
+TX,ABG,Tebufenozide,8.2964
+TX,ABQ,Alachlor oxanilic acid (OA),2.5
+TX,ACB,Imazapyr,1.665
+TX,ACD,Imazethapyr,70.0
+TX,ACG,Metolachlor ethanesulfonic acid (ESA),310.597
+TX,ACH,Metolachlor oxanilic acid (OA),269.928
+TX,ACI,Metsulfuron methyl,2.498
+TX,ACP,Sulfometuron methyl,50.0
+TX,ACV,Methoprene,0.6990000000000001
+TX,ADC,Prallethrin,2.231
+TX,ADD,Dimethenamid,0.002
+TX,ADE,Esfenvalerate+Fenvalerate Total,4.2729
+TX,ADG,Indoxacarb,9.5653
+TX,ADH,Cyphenothrin,1.5
+TX,ADI,Etofenprox,0.2009
+TX,ADW,Triazole alanine (TA),3.523
+TX,ADX,Triazole acetic acid (TAA),1.0108
+TX,AED,Hydroxy atrazine,1901.868
+TX,AEL,"Cyhalothrin, Total (Cyhalothrin-L + R157836 epimer)",13.1729
+TX,AEM,"Cyhalothrin, Lambda",3.0381
+TX,AEN,"Cyhalothrin, Lambda epimer R157836",0.03
+TX,AEP,Clothianidin,14.8564
+TX,AES,Methoxyfenozide,179.9897
+TX,AEV,Sethoxydim,0.0033
+TX,AEW,Famoxadone,20.3541
+TX,AFM,Flutriafol,3.2705
+TX,AFO,Dinotefuran,15.0356
+TX,AFS,Fenpyroximate,6.3407
+TX,AFU,Propamocarb hydrochloride,93.61699999999999
+TX,AFW,Spiromesifen Total (parent + enol metabolite),0.5221
+TX,AFX,Novaluron,11.0135
+TX,AFZ,"2,6-DIPN",0.32370000000000004
+TX,AGA,Cyazofamid,23.3613
+TX,AGG,Flonicamid,59.9787
+TX,AGH,Emamectin benzoate,0.1472
+TX,AGJ,Fluoxastrobin,0.2645
+TX,AGR,"2,4-dimethylphenyl formamide (2,4-DMPF)",0.6643
+TX,AGT,Spiromesifen,3.4215
+TX,AGW,Chlorantraniliprole,101.1349
+TX,AGX,Mandipropamid,240.6443
+TX,AGY,Spinetoram,10.2607
+TX,AHF,Imidacloprid urea,0.1553
+TX,AHM,Spirotetramat,4.2635
+TX,AHS,Flubendiamide,16.4557
+TX,AHT,Fluopicolide,50.2361
+TX,AHU,Pyridalyl,0.0112
+TX,AHV,Disulfoton sulfone oxygen analog,0.002
+TX,AHW,Disulfoton sulfoxide oxygen analog,0.0357
+TX,AHX,Metconazole,0.049
+TX,AJN,Clethodim sulfone,0.07200000000000001
+TX,AJO,Clethodim sulfoxide,0.029
+TX,AJR,Sethoxydim sulfoxide,0.018
+TX,AJY,Spiroxamine,0.0293
+TX,AKC,Ametoctradin,205.8305
+TX,AKD,Penthiopyrad,55.6916
+TX,AKG,Fluopyram,14.1303
+TX,AKS,Acequinocyl,7.282
+TX,AKU,Cyflufenamid,0.7064
+TX,AKW,Fluxapyroxad,8.8292
+TX,ALG,Thymol,0.23
+TX,ALS,Sulfoxaflor,3.3709000000000002
+TX,ALV,Spiromesifen alcohol,1.424
+TX,AMB,Cyantraniliprole,10.125
+TX,AMC,Cyflumetofen,1.5564
+TX,AMG,Fenpyrazamine,0.0023
+TX,AMM,Proquinazid,0.016800000000000002
+TX,ANC,Tolfenpyrad,6.1292
+TX,AND,Propamocarb,8.47
+TX,ANE,Flupyradifurone,40.6084
+TX,ANF,Metrafenone,0.8622
+TX,ANH,Isofetamid,0.2343
+TX,AOG,Imidacloprid desnitro,0.5597
+TX,AOK,Imidacloprid olefin,0.0171
+TX,B10,Hexythiazox,2.4316
+TX,B13,Chlorfenapyr,3.9809
+TX,B16,Pyrimethanil,646.7125
+TX,B22,Cyprodinil,96.8308
+TX,B23,Fludioxonil,687.3548
+TX,B24,Pyriproxyfen,1.1843
+TX,B28,5-Hydroxythiabendazole,0.0136
+TX,B32,Forchlorfenuron,0.0371
+TX,B41,Fenhexamid,96.9055
+TX,B42,Kresoxim-methyl,0.2707
+TX,B43,Thiamethoxam,22.4165
+TX,B44,Zoxamide,0.16
+TX,B45,Benalaxyl,0.0086
+TX,B46,Clopyralid,1206.211
+TX,B48,Azoxystrobin,162.494
+TX,B52,Buprofezin,13.3528
+TX,B53,Epoxiconazole,0.0034
+TX,B56,Pyridaben,0.4372
+TX,B57,Quinoxyfen,2.7462
+TX,B58,Difenoconazole,43.8395
+TX,B61,Pyraclostrobin,129.8265
+TX,B63,Flutolanil,0.272
+TX,B64,Fenamidone,73.0481
+TX,B68,Thiacloprid,3.3348
+TX,B72,Tetraconazole,2.501
+TX,B73,Fenazaquin,0.5938
+TX,B75,Boscalid,136.9111
+TX,B77,Dimethomorph,80.089
+TX,B79,Trifloxystrobin,8.6943
+TX,B80,Acetamiprid,61.572
+TX,B82,Bifenazate,13.1576
+TX,B84,Etoxazole,1.6524
+TX,B85,Spirodiclofen,8.1496
+TX,C90,Ethaboxam,0.039
+TX,F12,Pyriofenone,0.31670000000000004
+TX,F56,Oxathiapiprolin,0.0397
+TX,F87,Afidopyropen ,0.0017
+TX,G03,Pydiflumetofen,0.8527
+TX,G21,Mefentrifluconazole,0.0034
+UT,024,Diazinon,0.003
+UT,028,Dieldrin,0.0159
+UT,143,Heptachlor epoxide,0.0013
+UT,305,Atrazine,68.0
+UT,902,Endosulfan sulfate,0.0183
+UT,906,"DDT p,p'",0.0043
+UT,910,"DDE p,p'",0.2438
+UT,964,Desethyl atrazine,68.0
+UT,ABP,Alachlor ethanesulfonic acid (ESA),677.0
+UT,ACG,Metolachlor ethanesulfonic acid (ESA),10.0
+UT,ACP,Sulfometuron methyl,45.88
+UT,AEL,"Cyhalothrin, Total (Cyhalothrin-L + R157836 epimer)",0.008
+VA,024,Diazinon,100.0
+VA,026,"2,4-D",11147.092
+VA,032,Diuron,2072.956
+VA,058,MGK-264,0.133
+VA,070,Piperonyl butoxide,0.12
+VA,075,Pyrethrins,0.1
+VA,102,Carbaryl,40.098600000000005
+VA,129,Linuron,19.0
+VA,148,Phorate,62.0
+VA,149,Simazine,7698.89
+VA,153,Bromacil,103.162
+VA,227,Alachlor,76.6
+VA,228,Cyanazine,239.0
+VA,264,Propiconazole,461.6
+VA,283,Metolachlor,5850.0
+VA,305,Atrazine,22583.598
+VA,318,MCPA,356.84
+VA,333,Propazine,37.5
+VA,382,1-Naphthol,0.188
+VA,607,Metalaxyl/Mefenoxam,322.9
+VA,608,Triadimefon,77.328
+VA,625,Oxadiazon,275.0
+VA,638,Triadimenol,337.6
+VA,666,Carbendazim (MBC),746.0
+VA,679,Myclobutanil,4.828
+VA,731,Triclopyr,7598.0
+VA,758,Bentazon,7.99
+VA,780,Tebuthiuron,590.9
+VA,784,Desethyl-desisopropyl atrazine,1673.5
+VA,785,Desisopropyl atrazine,5711.248
+VA,807,Acetochlor,123.4
+VA,910,"DDE p,p'",0.0015
+VA,942,Prometon,1528.14
+VA,964,Desethyl atrazine,9409.779999999999
+VA,967,Imidacloprid,1392.023
+VA,A25,Dichlorprop,38.0
+VA,A42,Mecoprop (MCPP),318.082
+VA,A58,Tebuconazole,156.828
+VA,A82,Fipronil,16.383
+VA,ABN,Acetochlor ethanesulfonic acid (ESA),173.0
+VA,ABO,Acetochlor oxanilic acid (OA),165.0
+VA,ABP,Alachlor ethanesulfonic acid (ESA),1192.2
+VA,ACB,Imazapyr,546.665
+VA,ACG,Metolachlor ethanesulfonic acid (ESA),27779.594
+VA,ACH,Metolachlor oxanilic acid (OA),5406.628
+VA,ACP,Sulfometuron methyl,99.0
+VA,ACT,Siduron,331.5
+VA,ACZ,Imazapic,23.0
+VA,ADR,Triticonazole,832.0
+VA,AED,Hydroxy atrazine,199.62
+VA,AGW,Chlorantraniliprole,109.19500000000001
+VA,B48,Azoxystrobin,672.0
+WA,002,Allethrin,0.093
+WA,011,Captan,168.8683
+WA,022,DDT,0.262
+WA,024,Diazinon,1.5992
+WA,026,"2,4-D",468.89300000000003
+WA,028,Dieldrin,2.1292
+WA,032,Diuron,21.5774
+WA,033,Anilazine,0.23500000000000001
+WA,034,Endrin,0.053
+WA,042,Azinphos methyl,30.663
+WA,047,Dicofol Total,1.3699999999999999
+WA,050,Lindane (BHC gamma),0.0173
+WA,052,Malathion,9.1417
+WA,055,Methoxychlor Total,3.3970000000000002
+WA,057,Parathion methyl,0.988
+WA,058,MGK-264,0.18280000000000002
+WA,065,Parathion ethyl,0.061
+WA,069,Mevinphos Total,0.1366
+WA,070,Piperonyl butoxide,10.6609
+WA,083,O-Phenylphenol,35.0871
+WA,087,DDD (TDE),0.035
+WA,090,Toxaphene,2.2126
+WA,102,Carbaryl,61.2157
+WA,104,Dodine,0.0333
+WA,107,Ethion,0.677
+WA,111,Ethoxyquin,7.2411
+WA,114,Chlorpropham,894.8702
+WA,115,Endosulfans Total,4.501
+WA,117,Disulfoton,0.035
+WA,124,Coumaphos,0.0169
+WA,125,Diphenylamine (DPA),220.4478
+WA,126,Folpet,0.20500000000000002
+WA,129,Linuron,7.1533
+WA,134,DCPA,9.1662
+WA,143,Heptachlor epoxide,0.1429
+WA,144,Dicloran,114.4899
+WA,149,Simazine,12.0925
+WA,151,Trifluralin,6.4071
+WA,152,Terbacil,0.015
+WA,153,Bromacil,323.60200000000003
+WA,157,Thiabendazole,490.5645
+WA,159,Methomyl,35.0885
+WA,160,Chlorpyrifos,15.0925
+WA,164,Chlorothalonil,36.039500000000004
+WA,165,Phosmet,30.5491
+WA,166,Phosalone,0.072
+WA,168,Aldicarb sulfone,0.072
+WA,169,Aldicarb sulfoxide,0.33399999999999996
+WA,170,Methamidophos,14.200800000000001
+WA,171,Dimethoate,9.9415
+WA,172,Chlordane trans,0.0427
+WA,173,Chlordane cis,0.055
+WA,175,Ethoprop,0.0054
+WA,176,Tetrachlorvinphos,0.0003
+WA,178,Omethoate,8.7965
+WA,180,Carbofuran,0.1595
+WA,181,Metribuzin,0.3628
+WA,189,Phorate sulfone,0.134
+WA,190,Phorate sulfoxide,0.214
+WA,192,Benomyl,13.753400000000001
+WA,197,Methidathion,0.041
+WA,200,EPTC,0.16069999999999998
+WA,204,Acephate,34.13
+WA,208,Malathion oxygen analog,0.0631
+WA,216,Disulfoton sulfone,0.037
+WA,219,Oxydemeton methyl,0.33699999999999997
+WA,222,Permethrin cis,143.4628
+WA,223,Permethrin trans,154.4553
+WA,224,Profenofos,0.0026
+WA,226,Demeton-S sulfone,0.005
+WA,228,Cyanazine,2.8
+WA,230,Pendimethalin,0.4741
+WA,231,Iprodione metabolite isomer,18.6198
+WA,232,Cycloate,0.043300000000000005
+WA,235,Chlorpyrifos methyl,1.9143000000000001
+WA,237,Phosmet oxygen analog,1.6480000000000001
+WA,239,Bensulide,0.036000000000000004
+WA,245,Oxydemeton methyl sulfone,0.2755
+WA,249,Prometryn,3.2841
+WA,253,"Dicofol o,p'",0.2213
+WA,254,"Dicofol p,p'",6.3847000000000005
+WA,255,Cyromazine,6.0039
+WA,264,Propiconazole,17.0638
+WA,271,Fenarimol,0.048
+WA,275,"Methoxychlor p,p'",0.043
+WA,276,Methoxychlor olefin,0.002
+WA,283,Metolachlor,2.5068
+WA,297,Fluvalinate,0.0298
+WA,300,DDE,3.419
+WA,304,Quintozene (PCNB),0.1285
+WA,305,Atrazine,324.9
+WA,321,Hexachlorobenzene (HCB),0.0112
+WA,338,Dichlorvos (DDVP),0.8693
+WA,341,Propanil,0.11460000000000001
+WA,349,Oxychlordane,0.0026
+WA,351,Pentachloroaniline (PCA),0.16620000000000001
+WA,352,Mirex,0.002
+WA,382,1-Naphthol,6.2246
+WA,387,Pentachlorobenzene (PCB),0.0648
+WA,388,Pentachlorophenyl methyl sulfide,0.0038
+WA,512,3-Hydroxycarbofuran,0.060200000000000004
+WA,529,Vinclozolin,7.8166
+WA,536,Triazophos,0.0082
+WA,537,Oxamyl,7.9782
+WA,539,Permethrin Total,448.5492
+WA,540,Pronamide,0.0617
+WA,546,Fenvalerate,0.244
+WA,556,Resmethrin,0.034
+WA,562,Pirimiphos methyl,0.027899999999999998
+WA,597,Cypermethrin,108.6614
+WA,604,Imazalil,68.9278
+WA,607,Metalaxyl/Mefenoxam,26.4522
+WA,608,Triadimefon,0.0726
+WA,611,Thiophanate methyl,0.7586
+WA,612,Deltamethrin  (includes parent Tralomethrin),0.7263000000000001
+WA,623,Propargite,18.5877
+WA,624,Tetrahydrophthalimide (THPI),53.6349
+WA,626,Iprodione,337.4339
+WA,633,Hexazinone,11.1
+WA,638,Triadimenol,0.231
+WA,639,Fenbutatin oxide,4.529
+WA,651,Diflubenzuron,0.45699999999999996
+WA,658,Bendiocarb,0.034
+WA,666,Carbendazim (MBC),17.3491
+WA,675,Propachlor,4.9
+WA,679,Myclobutanil,19.0988
+WA,699,Clofentezine,0.0561
+WA,706,Disulfoton sulfoxide,0.005
+WA,713,Oxyfluorfen,0.0201
+WA,714,Esfenvalerate,0.2772
+WA,719,Clomazone,0.0038
+WA,720,Norflurazon desmethyl,0.022699999999999998
+WA,723,Formetanate hydrochloride,2.4704
+WA,730,Ethephon,6.5520000000000005
+WA,736,Fluridone,0.0098
+WA,737,Oryzalin,0.0167
+WA,740,Bensulide oxygen analog,0.036000000000000004
+WA,745,Fenamiphos sulfone,0.013
+WA,746,Fenamiphos sulfoxide,0.0171
+WA,758,Bentazon,62.75
+WA,772,Chlorpyrifos oxygen analog,0.0031
+WA,778,Molinate,0.0013
+WA,779,Parathion methyl oxygen analog,0.03
+WA,780,Tebuthiuron,47.69
+WA,781,Cyfluthrin,7.3334
+WA,784,Desethyl-desisopropyl atrazine,133.5
+WA,785,Desisopropyl atrazine,9.0
+WA,804,Tricyclazole,0.051000000000000004
+WA,808,Fenpropathrin,13.5994
+WA,855,Isoprothiolane,0.0052
+WA,877,Cymoxanil,0.165
+WA,886,Fenpropimorph,0.045
+WA,900,Endosulfan I,8.9147
+WA,901,Endosulfan II,7.3198
+WA,902,Endosulfan sulfate,22.6276
+WA,903,BHC alpha,0.0012
+WA,906,"DDT p,p'",0.1439
+WA,907,"DDT o,p'",0.1103
+WA,908,"DDD p,p'",1.2148
+WA,909,"DDD o,p'",0.09949999999999999
+WA,910,"DDE p,p'",7.9689
+WA,911,"DDE o,p'",0.0144
+WA,930,Bifenthrin,10.381
+WA,942,Prometon,98.11
+WA,948,Abamectin,0.0067
+WA,954,Hexaconazole,0.0063
+WA,964,Desethyl atrazine,472.48
+WA,967,Imidacloprid,72.34870000000001
+WA,A30,Fenbuconazole,2.4915
+WA,A46,Oxadixyl,0.116
+WA,A47,Oxamyl oxime,7.4030000000000005
+WA,A58,Tebuconazole,22.8308
+WA,A61,Triflumizole,1.7382
+WA,A68,"1,2,4-Triazole",0.065
+WA,A82,Fipronil,0.0258
+WA,AAD,SD-31723,0.012
+WA,ABB,Spinosad,4.828
+WA,ABC,Spinosad A,3.8812
+WA,ABD,Spinosad D,0.8008
+WA,ABF,Pymetrozine,0.25329999999999997
+WA,ABG,Tebufenozide,0.5086
+WA,ABN,Acetochlor ethanesulfonic acid (ESA),12.600000000000001
+WA,ABO,Acetochlor oxanilic acid (OA),5.859999999999999
+WA,ABP,Alachlor ethanesulfonic acid (ESA),966.7
+WA,ABQ,Alachlor oxanilic acid (OA),2.04
+WA,ACB,Imazapyr,285.0
+WA,ACC,Imazaquin,19.0
+WA,ACD,Imazethapyr,18.0
+WA,ACG,Metolachlor ethanesulfonic acid (ESA),363.7
+WA,ACH,Metolachlor oxanilic acid (OA),5.3
+WA,ACM,Nicosulfuron,9.7
+WA,ACV,Methoprene,0.132
+WA,ADC,Prallethrin,0.6819999999999999
+WA,ADE,Esfenvalerate+Fenvalerate Total,0.9601
+WA,ADG,Indoxacarb,4.082
+WA,ADI,Etofenprox,0.11
+WA,ADP,Triasulfuron,12.0
+WA,ADW,Triazole alanine (TA),2.4156999999999997
+WA,ADX,Triazole acetic acid (TAA),0.7582
+WA,AED,Hydroxy atrazine,30.0
+WA,AEL,"Cyhalothrin, Total (Cyhalothrin-L + R157836 epimer)",8.1499
+WA,AEM,"Cyhalothrin, Lambda",0.5168
+WA,AEP,Clothianidin,5.3293
+WA,AES,Methoxyfenozide,67.4937
+WA,AEW,Famoxadone,7.1357
+WA,AFM,Flutriafol,3.169
+WA,AFO,Dinotefuran,4.7292000000000005
+WA,AFS,Fenpyroximate,3.0275
+WA,AFU,Propamocarb hydrochloride,80.5185
+WA,AFW,Spiromesifen Total (parent + enol metabolite),0.020800000000000003
+WA,AFX,Novaluron,3.8267
+WA,AGA,Cyazofamid,6.441999999999999
+WA,AGG,Flonicamid,25.549
+WA,AGH,Emamectin benzoate,0.0207
+WA,AGJ,Fluoxastrobin,0.0273
+WA,AGR,"2,4-dimethylphenyl formamide (2,4-DMPF)",0.4032
+WA,AGT,Spiromesifen,0.5578
+WA,AGW,Chlorantraniliprole,27.5019
+WA,AGX,Mandipropamid,118.0007
+WA,AGY,Spinetoram,6.1477
+WA,AHB,Azadirachtin A,0.028999999999999998
+WA,AHF,Imidacloprid urea,0.0318
+WA,AHM,Spirotetramat,6.8801000000000005
+WA,AHS,Flubendiamide,3.454
+WA,AHT,Fluopicolide,21.8203
+WA,AHW,Disulfoton sulfoxide oxygen analog,0.018099999999999998
+WA,AJJ,Uniconazole,0.0033
+WA,AJY,Spiroxamine,0.0044
+WA,AKC,Ametoctradin,24.6505
+WA,AKD,Penthiopyrad,11.9437
+WA,AKG,Fluopyram,10.5656
+WA,AKS,Acequinocyl,0.611
+WA,AKU,Cyflufenamid,0.3641
+WA,AKW,Fluxapyroxad,4.7516
+WA,ALG,Thymol,0.03
+WA,ALS,Sulfoxaflor,1.0027
+WA,ALV,Spiromesifen alcohol,0.3233
+WA,AMB,Cyantraniliprole,6.9349
+WA,AMC,Cyflumetofen,0.8206
+WA,AMF,Fenpropidin,0.0017
+WA,AMM,Proquinazid,0.0022
+WA,ANC,Tolfenpyrad,1.5058
+WA,AND,Propamocarb,4.6738
+WA,ANE,Flupyradifurone,5.9439
+WA,ANF,Metrafenone,1.5563
+WA,ANH,Isofetamid,0.31020000000000003
+WA,AOG,Imidacloprid desnitro,0.0588
+WA,B10,Hexythiazox,3.0768
+WA,B13,Chlorfenapyr,1.2102
+WA,B16,Pyrimethanil,307.3304
+WA,B21,Carfentrazone ethyl,0.015
+WA,B22,Cyprodinil,48.9959
+WA,B23,Fludioxonil,297.624
+WA,B24,Pyriproxyfen,0.4062
+WA,B32,Forchlorfenuron,0.0152
+WA,B41,Fenhexamid,43.7197
+WA,B42,Kresoxim-methyl,0.2227
+WA,B43,Thiamethoxam,7.1537
+WA,B44,Zoxamide,0.067
+WA,B46,Clopyralid,283.423
+WA,B48,Azoxystrobin,72.1461
+WA,B52,Buprofezin,8.8452
+WA,B56,Pyridaben,0.5206000000000001
+WA,B57,Quinoxyfen,2.3682
+WA,B58,Difenoconazole,7.8747
+WA,B61,Pyraclostrobin,57.4587
+WA,B63,Flutolanil,0.053
+WA,B64,Fenamidone,43.7728
+WA,B68,Thiacloprid,1.6339
+WA,B72,Tetraconazole,1.016
+WA,B73,Fenazaquin,0.021400000000000002
+WA,B75,Boscalid,83.0218
+WA,B77,Dimethomorph,52.3752
+WA,B79,Trifloxystrobin,4.116
+WA,B80,Acetamiprid,25.5581
+WA,B82,Bifenazate,3.0276
+WA,B84,Etoxazole,0.9217
+WA,B85,Spirodiclofen,4.3142
+WA,F12,Pyriofenone,0.2453
+WA,G03,Pydiflumetofen,0.2387
+WI,011,Captan,83.0085
+WI,014,Chlordanes Total,0.053
+WI,024,Diazinon,0.4851
+WI,026,"2,4-D",0.235
+WI,028,Dieldrin,2.1449
+WI,031,Dinoseb,11.0
+WI,032,Diuron,0.0476
+WI,034,Endrin,0.050699999999999995
+WI,042,Azinphos methyl,11.4981
+WI,050,Lindane (BHC gamma),0.0058
+WI,052,Malathion,2.0092
+WI,057,Parathion methyl,0.13599999999999998
+WI,058,MGK-264,0.09670000000000001
+WI,065,Parathion ethyl,0.05
+WI,070,Piperonyl butoxide,22.770500000000002
+WI,083,O-Phenylphenol,11.084
+WI,102,Carbaryl,11.2144
+WI,107,Ethion,0.005
+WI,114,Chlorpropham,213.304
+WI,124,Coumaphos,0.008199999999999999
+WI,125,Diphenylamine (DPA),54.2083
+WI,129,Linuron,1.4873
+WI,134,DCPA,0.8992
+WI,143,Heptachlor epoxide,0.0311
+WI,144,Dicloran,41.9083
+WI,149,Simazine,5.946
+WI,151,Trifluralin,1.6228
+WI,157,Thiabendazole,131.1652
+WI,159,Methomyl,11.7698
+WI,160,Chlorpyrifos,9.2054
+WI,164,Chlorothalonil,5.3824000000000005
+WI,165,Phosmet,9.3624
+WI,166,Phosalone,0.008
+WI,168,Aldicarb sulfone,0.014
+WI,169,Aldicarb sulfoxide,0.104
+WI,170,Methamidophos,13.0259
+WI,171,Dimethoate,2.7004
+WI,172,Chlordane trans,0.0113
+WI,173,Chlordane cis,0.0098
+WI,175,Ethoprop,0.0408
+WI,178,Omethoate,2.6058
+WI,180,Carbofuran,1.375
+WI,181,Metribuzin,0.0825
+WI,192,Benomyl,5.3805000000000005
+WI,204,Acephate,34.8313
+WI,208,Malathion oxygen analog,0.0156
+WI,219,Oxydemeton methyl,0.078
+WI,222,Permethrin cis,45.147400000000005
+WI,223,Permethrin trans,45.7333
+WI,224,Profenofos,0.056
+WI,230,Pendimethalin,0.041999999999999996
+WI,231,Iprodione metabolite isomer,12.283000000000001
+WI,232,Cycloate,0.003
+WI,235,Chlorpyrifos methyl,0.032
+WI,237,Phosmet oxygen analog,0.218
+WI,245,Oxydemeton methyl sulfone,0.027000000000000003
+WI,249,Prometryn,0.029199999999999997
+WI,253,"Dicofol o,p'",0.168
+WI,254,"Dicofol p,p'",2.9798999999999998
+WI,255,Cyromazine,0.7605999999999999
+WI,264,Propiconazole,3.1783
+WI,271,Fenarimol,0.21600000000000003
+WI,275,"Methoxychlor p,p'",0.008
+WI,283,Metolachlor,130.002
+WI,297,Fluvalinate,0.0014
+WI,300,DDE,0.129
+WI,304,Quintozene (PCNB),0.2539
+WI,305,Atrazine,587.299
+WI,321,Hexachlorobenzene (HCB),0.0059
+WI,329,Picloram,20.8
+WI,338,Dichlorvos (DDVP),0.2561
+WI,349,Oxychlordane,0.0023
+WI,351,Pentachloroaniline (PCA),0.1464
+WI,382,1-Naphthol,1.946
+WI,387,Pentachlorobenzene (PCB),0.1471
+WI,388,Pentachlorophenyl methyl sulfide,0.0346
+WI,512,3-Hydroxycarbofuran,0.18
+WI,529,Vinclozolin,1.332
+WI,537,Oxamyl,4.3162
+WI,539,Permethrin Total,165.5525
+WI,540,Pronamide,0.006
+WI,546,Fenvalerate,0.415
+WI,562,Pirimiphos methyl,0.005
+WI,597,Cypermethrin,24.3018
+WI,604,Imazalil,15.9284
+WI,607,Metalaxyl/Mefenoxam,2.4544
+WI,608,Triadimefon,0.1163
+WI,611,Thiophanate methyl,0.31
+WI,612,Deltamethrin  (includes parent Tralomethrin),0.10500000000000001
+WI,623,Propargite,4.012
+WI,624,Tetrahydrophthalimide (THPI),9.9331
+WI,626,Iprodione,182.5302
+WI,633,Hexazinone,4.996
+WI,638,Triadimenol,0.126
+WI,651,Diflubenzuron,0.0332
+WI,666,Carbendazim (MBC),3.5187
+WI,679,Myclobutanil,6.2383
+WI,699,Clofentezine,0.02
+WI,714,Esfenvalerate,0.095
+WI,723,Formetanate hydrochloride,0.9652000000000001
+WI,730,Ethephon,0.9349999999999999
+WI,779,Parathion methyl oxygen analog,0.01
+WI,781,Cyfluthrin,1.731
+WI,784,Desethyl-desisopropyl atrazine,2947.4
+WI,785,Desisopropyl atrazine,425.324
+WI,808,Fenpropathrin,2.505
+WI,833,Prochloraz,0.013
+WI,900,Endosulfan I,4.0254
+WI,901,Endosulfan II,3.6936
+WI,902,Endosulfan sulfate,9.951
+WI,906,"DDT p,p'",0.019
+WI,907,"DDT o,p'",0.0262
+WI,908,"DDD p,p'",0.1236
+WI,909,"DDD o,p'",0.0049
+WI,910,"DDE p,p'",1.8647
+WI,930,Bifenthrin,2.9349
+WI,942,Prometon,78.866
+WI,964,Desethyl atrazine,1331.216
+WI,967,Imidacloprid,8.4919
+WI,A30,Fenbuconazole,0.32130000000000003
+WI,A47,Oxamyl oxime,1.76
+WI,A58,Tebuconazole,3.0032
+WI,A61,Triflumizole,0.2206
+WI,A66,Vinclozolin metabolite E,0.006
+WI,AAF,Lambda cyhalothrin R ester,0.017
+WI,ABB,Spinosad,0.4318
+WI,ABC,Spinosad A,1.4001000000000001
+WI,ABD,Spinosad D,0.2247
+WI,ABF,Pymetrozine,0.07529999999999999
+WI,ABG,Tebufenozide,0.761
+WI,ABN,Acetochlor ethanesulfonic acid (ESA),155.364
+WI,ABO,Acetochlor oxanilic acid (OA),17.0
+WI,ABP,Alachlor ethanesulfonic acid (ESA),6234.9800000000005
+WI,ABQ,Alachlor oxanilic acid (OA),76.21600000000001
+WI,ACB,Imazapyr,1.665
+WI,ACG,Metolachlor ethanesulfonic acid (ESA),6620.099
+WI,ACH,Metolachlor oxanilic acid (OA),1305.2559999999999
+WI,ADC,Prallethrin,0.288
+WI,ADE,Esfenvalerate+Fenvalerate Total,0.3645
+WI,ADG,Indoxacarb,3.9046999999999996
+WI,ADW,Triazole alanine (TA),0.6411
+WI,ADX,Triazole acetic acid (TAA),0.3711
+WI,AED,Hydroxy atrazine,242.56799999999998
+WI,AEL,"Cyhalothrin, Total (Cyhalothrin-L + R157836 epimer)",1.5722
+WI,AEM,"Cyhalothrin, Lambda",0.1422
+WI,AEP,Clothianidin,0.4581
+WI,AES,Methoxyfenozide,3.2381
+WI,AEW,Famoxadone,0.35300000000000004
+WI,AFB,Dimethenamid ethanesulfonic acid (ESA),3.0
+WI,AFO,Dinotefuran,0.5186
+WI,AFS,Fenpyroximate,0.2463
+WI,AFU,Propamocarb hydrochloride,11.631
+WI,AFW,Spiromesifen Total (parent + enol metabolite),0.14
+WI,AFX,Novaluron,0.0074
+WI,AGA,Cyazofamid,0.044000000000000004
+WI,AGG,Flonicamid,0.7538
+WI,AGJ,Fluoxastrobin,0.002
+WI,AGR,"2,4-dimethylphenyl formamide (2,4-DMPF)",0.0062
+WI,AGW,Chlorantraniliprole,1.2597
+WI,AGX,Mandipropamid,2.1229
+WI,AGY,Spinetoram,0.1951
+WI,AHM,Spirotetramat,0.046
+WI,AHS,Flubendiamide,0.01
+WI,AHT,Fluopicolide,0.34450000000000003
+WI,AKD,Penthiopyrad,0.023100000000000002
+WI,B10,Hexythiazox,0.039
+WI,B13,Chlorfenapyr,0.227
+WI,B16,Pyrimethanil,37.9044
+WI,B22,Cyprodinil,5.9658999999999995
+WI,B23,Fludioxonil,38.6291
+WI,B24,Pyriproxyfen,0.17729999999999999
+WI,B41,Fenhexamid,9.2064
+WI,B42,Kresoxim-methyl,0.033
+WI,B43,Thiamethoxam,0.7662
+WI,B46,Clopyralid,0.025
+WI,B48,Azoxystrobin,14.6589
+WI,B52,Buprofezin,1.304
+WI,B56,Pyridaben,0.048
+WI,B57,Quinoxyfen,0.005
+WI,B58,Difenoconazole,1.1672
+WI,B61,Pyraclostrobin,10.6725
+WI,B63,Flutolanil,0.031
+WI,B64,Fenamidone,2.5888
+WI,B68,Thiacloprid,0.1612
+WI,B75,Boscalid,10.2621
+WI,B77,Dimethomorph,4.7804
+WI,B79,Trifloxystrobin,0.3321
+WI,B80,Acetamiprid,5.0998
+WI,B82,Bifenazate,0.981
+WI,B85,Spirodiclofen,0.049
+WV,102,Carbaryl,0.0005
+WY,153,Bromacil,1944.0
+WY,305,Atrazine,1.099
+WY,329,Picloram,530.0
+WY,718,Chlorsulfuron,5.6
+WY,758,Bentazon,0.5
+WY,780,Tebuthiuron,10.35
+WY,784,Desethyl-desisopropyl atrazine,50.0
+WY,942,Prometon,51.3
+WY,964,Desethyl atrazine,74.4
+WY,ACB,Imazapyr,231.2
+WY,ACG,Metolachlor ethanesulfonic acid (ESA),136.09900000000002
+WY,ACH,Metolachlor oxanilic acid (OA),21.8
+WY,ACI,Metsulfuron methyl,70.098
+WY,AEY,Dimethenamid oxanilic acid (OA),125.5
+WY,AFB,Dimethenamid ethanesulfonic acid (ESA),434.0

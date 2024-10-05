@@ -1,0 +1,183 @@
+,Date,Town,State/Province,Latitude,Longitude,Number
+1,07/28/12,Springerville,AZ,34.2,-109.4,1
+2,07/26/12,Chandler,AZ,33.3,-111.9,1
+3,07/26/12,Newport News,VA,37.1,-76.5,1
+4,07/25/12,Lakeville,NY,42.8,-77.7,2
+5,07/23/12,Pine,AZ,34.4,-111.4,1
+6,07/23/12,Manchester Township,NJ,39.9,-74.3,1
+7,07/15/12,Conestoga,PA,39.9,-76.4,15
+8,07/05/12,Atlanta,GA,33.8,-84.3,1
+9,07/01/12,Franklin,NY,42.3,-75.1,1
+10,06/30/12,Caledonia,NS,46.2,-60,1
+11,06/30/12,Menomonie,WI,44.7,-91.9,1
+12,06/18/12,McTaggart,SK,49.7,-104,3
+13,05/18/12,Crawfordville,FL,30.2,-84.4,5
+14,05/08/12,Chicago,IL,41.9,-87.6,1
+15,03/21/12,Pinellas Park,FL,27.8,-82.7,1
+16,03/19/12,Lakeland,FL,28,-81.9,1
+17,03/18/12,Crawfordville,FL,30.2,-84.4,2
+18,03/16/12,New Orleans,LA,30,-90.1,1
+19,03/15/12,Fort Myers,FL,26.6,-81.9,1
+20,03/10/12,"San Antonio, Texas, USA 78209",TX,29.7,-98.6,1
+21,03/03/12,The Woodlands,TX,30.2,-95.5,1
+22,03/03/12,Houston,TX,29.8,-95.4,1
+23,03/03/12,"San Antonio, Texas, USA 78209",TX,29.7,-98.6,1
+24,03/02/12,Diamond Bar,CA,34,-117.8,1
+25,03/01/12,corpus christi,TX,27.8,-97.4,1
+26,02/27/12,Jersey Village,TX,29.9,-95.6,1
+27,02/26/12,"San Antonio, Texas, USA 78209",TX,29.7,-98.6,1
+28,02/26/12,Sebastian,FL,27.8,-80.5,1
+29,02/25/12,"San Antonio, Texas, USA 78209",TX,29.7,-98.6,1
+30,02/25/12,Bagaces,Guanacaste Province,10.4,-85.4,1
+31,02/24/12,MÃ©xico D.F.,CMX,19.4,-99.1,1
+32,02/24/12,Tarpon Springs,FL,28.1,-82.7,1
+33,02/21/12,Sugar Land,TX,29.6,-95.6,1
+34,02/18/12,Fountain Hills,AZ,33.6,-111.7,1
+35,02/18/12,Superior,AZ,33.3,-111.2,1
+36,02/18/12,Port Charlotte,FL,27,-82.1,1
+37,02/18/12,"San Antonio, Texas, USA 78209",TX,29.7,-98.6,1
+38,02/17/12,Beaufort,NC,34.9,-76.6,1
+39,02/17/12,Leesburg,FL,28.8,-81.9,1
+40,02/12/12,Grand Isle,LA,29.2,-90,1
+41,02/12/12,Punta Gorda,FL,27,-82.2,1
+42,02/11/12,"San Antonio, Texas, USA 78209",TX,29.7,-98.6,1
+43,02/11/12,"San Antonio, Texas, USA 78209",TX,29.7,-98.6,1
+44,02/11/12,Irapuato,GUA,20.7,-101.4,10
+45,02/10/12,Ventura,CA,34.3,-119.3,1
+46,02/09/12,Sugar Land,TX,29.6,-95.6,1
+47,02/09/12,Manhattan Beach,CA,33.9,-118.4,1
+48,02/08/12,Katy,TX,29.8,-95.7,1
+49,02/08/12,Port Lavaca,TX,28.5,-96.7,1
+50,02/08/12,Friendswood,TX,29.5,-95.2,1
+51,02/07/12,Ventura,CA,34.3,-119.3,1
+52,02/04/12,"San Antonio, Texas, USA 78209",TX,29.7,-98.6,1
+53,02/03/12,Guy,TX,29.3,-95.8,1
+54,02/03/12,San Luis Obispo,CA,35.2,-120.6,1
+55,02/02/12,Ft. Walton Beach,FL,30.4,-86.6,1
+56,02/02/12,Diamond Bar,CA,34,-117.8,1
+57,02/02/12,Yuma,AZ,32.7,-114.7,1
+58,02/02/12,El Segundo,CA,33.9,-118.4,1
+59,02/02/12,Houston,TX,29.7,-95.4,1
+60,02/02/12,New Orleans,LA,30,-90.1,1
+61,02/01/12,Lakeland,FL,28,-81.9,1
+62,02/01/12,Richmond,TX,29.6,-95.7,1
+63,02/01/12,The Woodlands,TX,30.2,-95.5,1
+64,02/01/12,Oak Island,NC,33.9,-78.1,1
+65,01/31/12,Tucson,AZ,32.2,-111,1
+66,01/31/12,Morgan City,LA,29.8,-91.2,1
+67,01/31/12,Wickenburg,AZ,33.8,-112.9,1
+68,01/31/12,Kenner,LA,30,-90.3,1
+69,01/30/12,Oceanside,CA,33.2,-117.4,1
+70,01/30/12,safety harbor,FL,28,-82.7,1
+71,01/30/12,Patriots Point,SC,32.8,-79.9,1
+72,01/30/12,Chandler,AZ,33.3,-111.9,1
+73,01/30/12,The Villages,FL,28.9,-82,1
+74,01/30/12,New Orleans,LA,30,-90.1,1
+75,01/29/12,Jersey Village,TX,29.9,-95.6,1
+76,01/29/12,Houston,TX,29.7,-95.5,1
+77,01/28/12,Bluffton,SC,32.2,-80.9,1
+78,01/28/12,Fort Moultrie,SC,32.8,-79.9,1
+79,01/28/12,Ocala,FL,29.2,-82.1,1
+80,01/28/12,San Antonio,TX,29.4,-98.5,1
+81,01/27/12,Weslaco,TX,26.2,-98,1
+82,01/27/12,Weslaco,TX,26.2,-98,1
+83,01/27/12,Los Angeles,CA,34,-118.2,1
+84,01/27/12,Webster,TX,29.5,-95.1,1
+85,01/27/12,Spring,TX,30.1,-95.4,1
+86,01/26/12,Richmond,TX,29.6,-95.7,1
+87,01/26/12,Diamond Bar,CA,34,-117.8,1
+88,01/25/12,Richmond,TX,29.6,-95.7,1
+89,01/24/12,Sugar Land,TX,29.6,-95.6,1
+90,01/24/12,Mount Pleasant,SC,32.8,-79.8,1
+91,01/24/12,Ponte Vedra,FL,30.2,-81.4,1
+92,01/23/12,Cutler Bay,FL,25.6,-80.3,1
+93,01/22/12,"Gulf Shores, AL",AL,30.2,-88,1
+94,01/22/12,Mabank,TX,32.3,-96.1,1
+95,01/22/12,ADEL,GA,31.1,-83.4,1
+96,01/21/12,League City,TX,29.5,-95.1,1
+97,01/21/12,Richmond,TX,29.6,-95.7,1
+98,01/21/12,San Antonio,TX,29.4,-98.5,1
+99,01/21/12,Baton Rouge,LA,30.4,-91.2,1
+100,01/20/12,League City,TX,29.5,-95.1,1
+101,01/20/12,Richmond,TX,29.6,-95.7,1
+102,01/20/12,Mount Pleasant,SC,32.8,-79.8,1
+103,01/20/12,Gretna,LA,29.9,-90,1
+104,01/20/12,Rockport,TX,28.2,-97,1
+105,01/20/12,San Antonio,TX,29.5,-98.5,1
+106,01/20/12,Winter Park,FL,28.6,-81.4,1
+107,01/20/12,Jacksonville,FL,30.4,-81.6,1
+108,01/20/12,Carteret County,NC,34.8,-76.7,1
+109,01/19/12,Ventura,CA,34.3,-119.3,1
+110,01/19/12,Jacksonville,FL,30.3,-81.8,1
+111,01/19/12,Kingwood,TX,30,-95.3,1
+112,01/19/12,Lakeland,FL,28,-81.9,1
+113,01/19/12,Saint Augustine,FL,29.8,-81.3,1
+114,01/18/12,Houston,TX,29.8,-95.4,1
+115,01/17/12,Lake Mary,FL,28.8,-81.4,1
+116,01/17/12,Friendswood,TX,29.5,-95.2,1
+117,01/17/12,Scottsdale,AZ,33.5,-111.9,1
+118,01/16/12,Sugar Land,TX,29.6,-95.6,1
+119,01/16/12,the woodlands,TX,30.2,-95.5,1
+120,01/15/12,Walnut Springs,TX,32.1,-97.8,1
+121,01/15/12,Palm Coast,FL,29.5,-81.2,1
+122,01/15/12,port st lucie,FL,27.3,-80.4,1
+123,01/15/12,Bradenton,FL,27.4,-82.5,1
+124,01/14/12,Fort Morgan,AL,30.2,-88,1
+125,01/13/12,Jersey Village,TX,29.9,-95.6,1
+126,01/12/12,Katy,TX,29.8,-95.7,1
+127,01/12/12,Davenport,FL,28.2,-81.6,1
+128,01/12/12,Haslet,TX,33,-97.4,1
+129,01/11/12,Santa Ana NWR,TX,26.1,-98.1,1
+130,01/10/12,Sebastian,FL,27.8,-80.5,1
+131,01/09/12,Welton,AZ,32.7,-114.1,1
+132,01/09/12,Richmond,TX,29.6,-95.7,1
+133,01/08/12,Northhampton County,VA,37.3,-76,1
+134,01/08/12,Richmond,TX,29.6,-95.7,1
+135,01/08/12,Punta Gorda,FL,27,-82.2,1
+136,01/08/12,St. Marks National Wildlife Refuge,FL,30.5,-84.3,1
+137,01/07/12,Jupiter,FL,26.9,-80.1,1
+138,01/07/12,Tallahassee,FL,30.4,-84.3,3
+139,01/07/12,Needville,TX,29.4,-95.8,7
+140,01/07/12,Needville,TX,29.4,-95.8,3
+141,01/07/12,Phoenix,AZ,33.5,-112.1,1
+142,01/07/12,Saint James Island,SC,32.7,-79.9,1
+143,01/06/12,malibu,CA,34.1,-118.8,1
+144,01/06/12,Theodore,AL,30.5,-88.2,10
+145,01/05/12,Houston,TX,29.7,-95.6,2
+146,01/05/12,Eastpoint,FL,29.9,-84.9,24
+147,01/04/12,houston,TX,29.8,-95.4,1
+148,01/04/12,Ventura,CA,34.3,-119.3,2000
+149,01/04/12,Chandler,AZ,33.3,-111.9,1
+150,01/04/12,Anthem,AZ,33.9,-112.1,1
+151,01/03/12,Katy,TX,29.8,-95.7,1
+152,01/03/12,Richmond,TX,29.6,-95.7,1
+153,01/03/12,Texas City,TX,29.4,-94.9,6
+154,01/03/12,Galveston,TX,29.3,-94.8,5
+155,01/01/12,Sierra Chincua Sanctuary,MIC,19.7,-100.3,1
+156,01/01/12,El Rosario Sanctuary,MIC,19.6,-100.3,1
+157,01/01/12,Palmetto,FL,27.5,-82.6,1
+158,01/01/12,Richmond,TX,29.6,-95.7,1
+159,01/01/12,Houston,TX,29.8,-95.4,1
+160,01/01/12,Southport,NC,34.1,-78,1
+161,01/01/12,West Cape May,NJ,38.9,-74.9,1
+162,01/01/12,Fremont,CA,37.6,-122,1
+163,01/01/12,Richmond,CA,38,-122.4,1
+164,01/01/12,Fremont,CA,37.5,-122,1
+165,01/01/12,Big Sur,CA,36.3,-121.8,1
+166,01/01/12,Pacific Grove,CA,36.6,-121.9,1
+167,01/01/12,Paskett Creek,CA,36.3,-121.8,1
+168,01/01/12,Carmel Bay,CA,36.5,-121.9,1
+169,01/01/12,Big Sur,CA,36.1,-121.6,1
+170,01/01/12,Santa Barbara,CA,34.4,-119.7,1
+171,01/01/12,Oceano,CA,35.1,-120.6,1
+172,01/01/12,Kenner,LA,30,-90.3,1
+173,01/01/12,Goleta,CA,34.4,-119.9,1
+174,01/01/12,Pismo Beach,CA,35.1,-120.6,1
+175,01/01/12,Ventura,CA,34.3,-119.3,1
+176,01/01/12,Ventura,CA,34.3,-119.2,1
+177,01/01/12,Oceano,CA,35.1,-120.6,1
+178,01/01/12,Goleta,CA,34.4,-119.9,1
+179,01/01/12,Moro Bay,CA,35.4,-120.8,1
+180,01/01/12,Santa Barbara,CA,34.4,-119.7,1
+181,01/01/12,Cambria,CA,35.6,-121.1,1
+182,01/01/12,Vandenburg AFB,CA,34.7,-120.6,1

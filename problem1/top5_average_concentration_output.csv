@@ -1,0 +1,220 @@
+STATE,Pesticide Code,Pesticide Name,Average_Concentration
+AL,155,Dicamba,68.0
+AL,329,Picloram,37.0
+AL,318,MCPA,31.39
+AL,305,Atrazine,28.09981132075472
+AL,153,Bromacil,23.746511627906976
+AR,058,MGK-264,0.005
+AR,028,Dieldrin,0.0048
+AR,382,1-Naphthol,0.0025
+AR,102,Carbaryl,0.001375
+AZ,ACH,Metolachlor oxanilic acid (OA),100.0
+AZ,596,Norflurazon,66.12857142857142
+AZ,200,EPTC,56.0
+AZ,717,Chlorimuron ethyl,50.0
+AZ,032,Diuron,30.27586206896552
+CA,784,Desethyl-desisopropyl atrazine,600.3227272727273
+CA,785,Desisopropyl atrazine,244.9111111111111
+CA,153,Bromacil,168.725
+CA,596,Norflurazon,73.93515000000001
+CA,341,Propanil,49.58958333333334
+CO,AED,Hydroxy atrazine,72.7
+CO,964,Desethyl atrazine,50.0
+CO,324,Dichlobenil,11.2
+CO,046,Monuron,7.492
+CO,305,Atrazine,6.60098
+CT,967,Imidacloprid,10.0
+CT,ACB,Imazapyr,4.2
+DC,ACG,Metolachlor ethanesulfonic acid (ESA),186.41304347826087
+DC,964,Desethyl atrazine,77.66333333333333
+DC,305,Atrazine,73.6532967032967
+DC,026,"2,4-D",54.58857142857143
+DC,318,MCPA,39.48333333333333
+DE,ACG,Metolachlor ethanesulfonic acid (ESA),26.3
+DE,964,Desethyl atrazine,17.0
+DE,ACB,Imazapyr,4.2
+DE,165,Phosmet,0.0807
+DE,AAX,Ethion mono oxon,0.0072
+FL,153,Bromacil,786.5053684210526
+FL,ABP,Alachlor ethanesulfonic acid (ESA),459.1620689655173
+FL,ABQ,Alachlor oxanilic acid (OA),252.35933333333332
+FL,ACH,Metolachlor oxanilic acid (OA),107.7
+FL,ACB,Imazapyr,67.7874193548387
+GA,ABP,Alachlor ethanesulfonic acid (ESA),479.4
+GA,ACH,Metolachlor oxanilic acid (OA),223.4333333333333
+GA,ABQ,Alachlor oxanilic acid (OA),167.505
+GA,227,Alachlor,161.0
+GA,B23,Fludioxonil,62.4
+HI,964,Desethyl atrazine,28.0
+HI,305,Atrazine,6.0
+IA,032,Diuron,183.0
+IA,807,Acetochlor,160.84542857142856
+IA,ACG,Metolachlor ethanesulfonic acid (ESA),94.5695238095238
+IA,305,Atrazine,85.12329126213592
+IA,ABN,Acetochlor ethanesulfonic acid (ESA),54.02268493150685
+ID,153,Bromacil,367.5
+ID,ACG,Metolachlor ethanesulfonic acid (ESA),45.1165
+ID,ACB,Imazapyr,33.94416666666667
+ID,967,Imidacloprid,31.0
+ID,784,Desethyl-desisopropyl atrazine,25.0
+IL,ACG,Metolachlor ethanesulfonic acid (ESA),389.9633507853403
+IL,ABO,Acetochlor oxanilic acid (OA),357.3821989528796
+IL,ABN,Acetochlor ethanesulfonic acid (ESA),336.9685863874345
+IL,305,Atrazine,256.8434554973822
+IL,A58,Tebuconazole,150.0
+IN,ACG,Metolachlor ethanesulfonic acid (ESA),460.451
+IN,052,Malathion,331.0
+IN,675,Propachlor,287.0
+IN,ACH,Metolachlor oxanilic acid (OA),272.09375
+IN,305,Atrazine,260.5
+KS,305,Atrazine,282.9811881188119
+KS,964,Desethyl atrazine,117.5111581920904
+KS,155,Dicamba,111.555
+KS,AED,Hydroxy atrazine,84.699
+KS,026,"2,4-D",57.990893203883495
+KY,305,Atrazine,148.32413793103447
+KY,785,Desisopropyl atrazine,83.0
+KY,731,Triclopyr,72.77000000000001
+KY,026,"2,4-D",60.041964285714286
+KY,964,Desethyl atrazine,58.66896551724138
+LA,181,Metribuzin,1879.8032352941173
+LA,305,Atrazine,438.2379421221865
+LA,AED,Hydroxy atrazine,194.92
+LA,964,Desethyl atrazine,144.91354385964914
+LA,ACG,Metolachlor ethanesulfonic acid (ESA),129.38845637583893
+MA,964,Desethyl atrazine,2.5
+MA,633,Hexazinone,2.498
+MA,ACG,Metolachlor ethanesulfonic acid (ESA),0.599
+MD,807,Acetochlor,635.0
+MD,ACG,Metolachlor ethanesulfonic acid (ESA),586.8726054054055
+MD,ACH,Metolachlor oxanilic acid (OA),126.43622435897436
+MD,155,Dicamba,92.5
+MD,ABP,Alachlor ethanesulfonic acid (ESA),83.02508333333334
+ME,ACG,Metolachlor ethanesulfonic acid (ESA),84.0
+ME,964,Desethyl atrazine,41.3
+ME,ABP,Alachlor ethanesulfonic acid (ESA),22.0
+ME,607,Metalaxyl/Mefenoxam,18.45
+ME,ACB,Imazapyr,15.0
+MI,305,Atrazine,163.30571484716157
+MI,ABN,Acetochlor ethanesulfonic acid (ESA),156.24128
+MI,ACG,Metolachlor ethanesulfonic acid (ESA),142.49751999999998
+MI,ABO,Acetochlor oxanilic acid (OA),133.74588811188812
+MI,807,Acetochlor,127.21612903225804
+MN,784,Desethyl-desisopropyl atrazine,174.0
+MN,807,Acetochlor,80.47142857142858
+MN,ACG,Metolachlor ethanesulfonic acid (ESA),64.36466666666666
+MN,024,Diazinon,59.0
+MN,ABO,Acetochlor oxanilic acid (OA),58.83827906976744
+MO,AED,Hydroxy atrazine,596.6867469879518
+MO,ACH,Metolachlor oxanilic acid (OA),448.1220930232558
+MO,ACG,Metolachlor ethanesulfonic acid (ESA),343.9011627906977
+MO,ABO,Acetochlor oxanilic acid (OA),335.54491017964074
+MO,305,Atrazine,327.6415633802817
+MS,ACG,Metolachlor ethanesulfonic acid (ESA),5.0
+MS,ACH,Metolachlor oxanilic acid (OA),5.0
+MS,758,Bentazon,4.35
+MS,075,Pyrethrins,0.1
+MS,058,MGK-264,0.06582
+MT,329,Picloram,36.94714285714286
+MT,B46,Clopyralid,12.947727272727272
+MT,B53,Epoxiconazole,11.5
+MT,967,Imidacloprid,10.323
+MT,026,"2,4-D",7.153757142857143
+NC,726,Thiobencarb,190.0
+NC,341,Propanil,170.0
+NC,ACG,Metolachlor ethanesulfonic acid (ESA),110.37992378752888
+NC,227,Alachlor,109.329
+NC,031,Dinoseb,104.0
+ND,807,Acetochlor,73.30967741935484
+ND,222,Permethrin cis,68.0
+ND,729,Bromoxynil,65.0
+ND,102,Carbaryl,38.0
+ND,B53,Epoxiconazole,33.0
+NE,ACG,Metolachlor ethanesulfonic acid (ESA),1547.495945945946
+NE,ABP,Alachlor ethanesulfonic acid (ESA),315.5678899082569
+NE,784,Desethyl-desisopropyl atrazine,221.1517857142857
+NE,ACH,Metolachlor oxanilic acid (OA),214.13591428571428
+NE,283,Metolachlor,197.67381818181815
+NH,ACB,Imazapyr,882.0
+NH,305,Atrazine,203.55
+NH,032,Diuron,134.0
+NH,967,Imidacloprid,124.0
+NH,ABP,Alachlor ethanesulfonic acid (ESA),119.5
+NJ,848,Phenothrin,45.0
+NJ,ACG,Metolachlor ethanesulfonic acid (ESA),41.50086206896552
+NJ,026,"2,4-D",33.20986666666666
+NJ,807,Acetochlor,29.2
+NJ,305,Atrazine,19.98990825688073
+NY,ACG,Metolachlor ethanesulfonic acid (ESA),227.2752975517891
+NY,ABP,Alachlor ethanesulfonic acid (ESA),152.90747465437786
+NY,ABQ,Alachlor oxanilic acid (OA),134.1321791044776
+NY,ACH,Metolachlor oxanilic acid (OA),117.50077909738718
+NY,964,Desethyl atrazine,61.28105582524272
+OH,ABO,Acetochlor oxanilic acid (OA),407.00264900662256
+OH,ABN,Acetochlor ethanesulfonic acid (ESA),396.17434873949577
+OH,305,Atrazine,388.4776537864078
+OH,ACG,Metolachlor ethanesulfonic acid (ESA),359.17395130434784
+OH,ACH,Metolachlor oxanilic acid (OA),219.6121762523191
+OK,329,Picloram,20.8
+OK,026,"2,4-D",10.05
+OK,032,Diuron,7.0
+OK,070,Piperonyl butoxide,0.0401636363636363
+OK,058,MGK-264,0.03192
+OR,758,Bentazon,290.0
+OR,ACG,Metolachlor ethanesulfonic acid (ESA),165.96999999999997
+OR,784,Desethyl-desisopropyl atrazine,135.0
+OR,153,Bromacil,92.8
+OR,964,Desethyl atrazine,66.9225
+PA,ACG,Metolachlor ethanesulfonic acid (ESA),1249.2367924528303
+PA,ACH,Metolachlor oxanilic acid (OA),208.6331914893617
+PA,964,Desethyl atrazine,129.55099401197606
+PA,305,Atrazine,102.59283928571428
+PA,283,Metolachlor,75.87513402061856
+RI,967,Imidacloprid,25.0
+RI,ACG,Metolachlor ethanesulfonic acid (ESA),5.0
+SC,ABP,Alachlor ethanesulfonic acid (ESA),915.2857142857144
+SC,ACH,Metolachlor oxanilic acid (OA),805.1875
+SC,ABQ,Alachlor oxanilic acid (OA),543.25
+SC,ACG,Metolachlor ethanesulfonic acid (ESA),434.4323529411765
+SC,129,Linuron,315.0
+SD,ABP,Alachlor ethanesulfonic acid (ESA),295.6
+SD,ABN,Acetochlor ethanesulfonic acid (ESA),144.66666666666666
+SD,ACG,Metolachlor ethanesulfonic acid (ESA),41.4
+SD,784,Desethyl-desisopropyl atrazine,25.0
+SD,ABO,Acetochlor oxanilic acid (OA),17.0
+TN,305,Atrazine,260.63299492385784
+TN,807,Acetochlor,112.2590909090909
+TN,964,Desethyl atrazine,111.09055670103092
+TN,329,Picloram,110.0
+TN,B48,Azoxystrobin,107.12903225806453
+TX,227,Alachlor,122.0
+TX,ACD,Imazethapyr,70.0
+TX,B46,Clopyralid,63.48478947368421
+TX,305,Atrazine,46.61872181069959
+TX,329,Picloram,38.5
+UT,ABP,Alachlor ethanesulfonic acid (ESA),169.25
+UT,305,Atrazine,17.0
+UT,964,Desethyl atrazine,17.0
+UT,ACP,Sulfometuron methyl,11.47
+UT,ACG,Metolachlor ethanesulfonic acid (ESA),5.0
+VA,ADR,Triticonazole,832.0
+VA,228,Cyanazine,239.0
+VA,B48,Azoxystrobin,224.0
+VA,784,Desethyl-desisopropyl atrazine,152.13636363636363
+VA,ACG,Metolachlor ethanesulfonic acid (ESA),112.46799190283402
+WA,784,Desethyl-desisopropyl atrazine,44.5
+WA,ACC,Imazaquin,19.0
+WA,ACD,Imazethapyr,18.0
+WA,ABP,Alachlor ethanesulfonic acid (ESA),16.667241379310347
+WA,B46,Clopyralid,13.496333333333334
+WI,ABP,Alachlor ethanesulfonic acid (ESA),214.9993103448276
+WI,ACG,Metolachlor ethanesulfonic acid (ESA),189.1456857142857
+WI,784,Desethyl-desisopropyl atrazine,184.2125
+WI,ACH,Metolachlor oxanilic acid (OA),68.6976842105263
+WI,785,Desisopropyl atrazine,60.76057142857143
+WV,102,Carbaryl,0.0005
+WY,153,Bromacil,972.0
+WY,329,Picloram,265.0
+WY,AFB,Dimethenamid ethanesulfonic acid (ESA),108.5
+WY,ACB,Imazapyr,46.24
+WY,AEY,Dimethenamid oxanilic acid (OA),31.375

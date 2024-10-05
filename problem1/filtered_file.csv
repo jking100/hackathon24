@@ -1,0 +1,48 @@
+STATE,Pesticide Code,Pesticide Name,Average_Concentration
+AL,155,Dicamba,68.0
+AR,058,MGK-264,0.005
+AZ,ACH,Metolachlor oxanilic acid (OA),100.0
+CA,784,Desethyl-desisopropyl atrazine,600.3227272727273
+CO,AED,Hydroxy atrazine,72.7
+CT,967,Imidacloprid,10.0
+DC,ACG,Metolachlor ethanesulfonic acid (ESA),186.41304347826087
+DE,ACG,Metolachlor ethanesulfonic acid (ESA),26.3
+FL,153,Bromacil,786.5053684210526
+GA,ABP,Alachlor ethanesulfonic acid (ESA),479.4
+HI,964,Desethyl atrazine,28.0
+IA,032,Diuron,183.0
+ID,153,Bromacil,367.5
+IL,ACG,Metolachlor ethanesulfonic acid (ESA),389.9633507853403
+IN,ACG,Metolachlor ethanesulfonic acid (ESA),460.451
+KS,305,Atrazine,282.9811881188119
+KY,305,Atrazine,148.32413793103447
+LA,181,Metribuzin,1879.8032352941173
+MA,964,Desethyl atrazine,2.5
+MD,807,Acetochlor,635.0
+ME,ACG,Metolachlor ethanesulfonic acid (ESA),84.0
+MI,305,Atrazine,163.30571484716157
+MN,784,Desethyl-desisopropyl atrazine,174.0
+MO,AED,Hydroxy atrazine,596.6867469879518
+MS,ACG,Metolachlor ethanesulfonic acid (ESA),5.0
+MT,329,Picloram,36.94714285714286
+NC,726,Thiobencarb,190.0
+ND,807,Acetochlor,73.30967741935484
+NE,ACG,Metolachlor ethanesulfonic acid (ESA),1547.495945945946
+NH,ACB,Imazapyr,882.0
+NJ,848,Phenothrin,45.0
+NY,ACG,Metolachlor ethanesulfonic acid (ESA),227.2752975517891
+OH,ABO,Acetochlor oxanilic acid (OA),407.00264900662256
+OK,329,Picloram,20.8
+OR,758,Bentazon,290.0
+PA,ACG,Metolachlor ethanesulfonic acid (ESA),1249.2367924528303
+RI,967,Imidacloprid,25.0
+SC,ABP,Alachlor ethanesulfonic acid (ESA),915.2857142857144
+SD,ABP,Alachlor ethanesulfonic acid (ESA),295.6
+TN,305,Atrazine,260.63299492385784
+TX,227,Alachlor,122.0
+UT,ABP,Alachlor ethanesulfonic acid (ESA),169.25
+VA,ADR,Triticonazole,832.0
+WA,784,Desethyl-desisopropyl atrazine,44.5
+WI,ABP,Alachlor ethanesulfonic acid (ESA),214.9993103448276
+WV,102,Carbaryl,0.0005
+WY,153,Bromacil,972.0
