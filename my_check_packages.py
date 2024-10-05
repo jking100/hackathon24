@@ -57,6 +57,7 @@ import matplotlib # matplotlib==3.9.2
 import pandas as pd # pandas==2.2.3
 import torch # torch==2.4.1
 import tensorflow # tensorflow==2.17.0
+import geopandas as gpd
 
 def check_package_versions(verbose=True):
     #use by importing into main script, then call it and use its return status to determine if program should abort
@@ -74,14 +75,16 @@ def check_package_versions(verbose=True):
             "pandas": "2.2.3",
             "matplotlib": "3.9.2",
             "torch": "2.4.1+cu121",
-            "tensorflow": "2.17.0"
+            "tensorflow": "2.17.0",
+            "geopandas": "1.0.1"
         }
     packages_to_check = {
             "numpy": np,
             "pandas": pd,
             "matplotlib": matplotlib,
             "torch": torch,
-            "tensorflow": tensorflow
+            "tensorflow": tensorflow,
+            "geopandas": gpd
         }
     results = []
     

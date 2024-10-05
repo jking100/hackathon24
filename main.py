@@ -6,6 +6,7 @@ import matplotlib # type: ignore # matplotlib==3.9.2
 import pandas as pd # pandas==2.2.3
 import torch # torch==2.4.1
 import tensorflow # tensorflow==2.17.0
+import geopandas as gpd
 from my_check_packages import check_package_versions
 
 def main():
