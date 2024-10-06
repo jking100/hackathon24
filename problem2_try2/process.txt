@@ -1,0 +1,17 @@
+1. run advanced_year_download -> generates monarch_data/monarch_data_all.csv and monarch_data_us.csv and unique_town_state_us.csv
+
+wc -l monarch_data/*
+    150855 monarch_data/monarch_data_all.csv
+    137662 monarch_data/monarch_data_us.csv
+    13595 monarch_data/unique_town_state_us.csv - case 
+2. run llm_guess_county_concurrent.py -> unique_town_state_us.csv >> updated_towns_with_counties.csv
+grep ',NULL$' updated_towns_with_counties.csv | wc -l
+    342
+    342/13595 = 2.51% miss rate (does not include chat gpt dummy errors, only NULL)
+    from a random sample of 200 chatgpt estimates 5% error rate
+3. run combine_counties_and_monarch_us -> joins updated_towns_with_counties.csv + monarch_data_us.csv >> monarch_data_us_with_counties.csv
+grep ',NULL$' monarch_data/monarch_data_us_with_counties.csv | wc -l
+    1907
+    1907/137662 = 1.38% miss rate (does not include chat gpt dummy errors, only NULL)
+4. run check_correctness_sample.py against monarch_data_us_with_counties.csv
+    from a random sample of 200 chatgpt estimates Error rate: 1.00%

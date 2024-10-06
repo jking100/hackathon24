@@ -1,0 +1,18 @@
+1. run advanced_year_download.py -> monarch_data/monarch_data_all.csv contains all monarch data from journey 1997-2024
+2. run get_unique_towns.py -> monarch_data/monarch_data_all.csv >> monarch_data/unique_towns_us.csv contains only us data and unique city,state combos from monarch_data_all.csv
+3. download simplemaps data "uscities.csv" containing city,state,county,lat,long from https://simplemaps.com/data/us-cities
+4. run filter_simplemaps_data.py -> uscities.csv >> monarch_data/county_data.csv filters the simple maps data down into "city_ascii,state_id,county_name,lat,lng"
+5. run join_counties.py -> monarch_data/unique_towns_us.csv + monarch_data/county_data.csv >> monarch_data/updated_unique_towns_us_with_counties.csv this combines our filtered county data from simple maps with our unique city state combos from monarch_data_all.csv, filling in the couty where possible, otherwise NULL
+6. run combine_counties_and_monarch_all.csv -> 'monarch_data/monarch_data_all.csv' + 'monarch_data/updated_unique_towns_us_with_counties.csv' >> 'monarch_data/monarch_data_all_with_counties.csv' this combines our city,state,county with monarch_data_all.csv creating a new csv with a county column added in
+
+notes:
+wc -l monarch_data/*
+31121 county_data.csv
+150855 monarch_data_all.csv
+137662 monarch_data_all_with_counties.csv
+13595 unique_towns_us.csv
+13595 updated_unique_towns_us_with_counties.csv
+
+grep ',NULL$' monarch_data_all_with_counties.csv | wc -l #this counts rows with County==NULL in our final csv file with counties
+37017
+so in the end we filtered down worldwide monarch data for ~25 years, to only US entires, and then a 73% match rate of getting the county without using gpt or paid apis. could certainly be improved with usage of an API or LLM credits
