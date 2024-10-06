@@ -16,7 +16,7 @@ def download_data(year, season):
     return soup
 
 def main():
-    '''
+    
     if not os.path.exists('monarch_data'):
         os.makedirs('monarch_data')
     
@@ -43,7 +43,7 @@ def main():
                 writer.writerow(row_data)
 
             print(f"Data for {season} {year} has been saved to '{filename}'")
-    '''
+    
     #f"monarch_data/{filename} contains all monarch data, now we filter down only to US data
     # List of valid US state abbreviations
     us_states = [

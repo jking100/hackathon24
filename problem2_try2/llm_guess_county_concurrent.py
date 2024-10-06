@@ -33,7 +33,6 @@ def update_row(row):
     county = get_county_from_gpt(town, state)
     return county
 
-
 # Function to parallelize GPT requests and update the DataFrame
 def parallel_update(df):
     with ThreadPoolExecutor(max_workers=10) as executor:  # Use 10 threads (adjust if needed)
@@ -49,9 +48,10 @@ def parallel_update(df):
             except Exception as e:
                 print(f"Error at row {index}: {e}")
 
-
 # Read the CSV file
 df = pd.read_csv("monarch_data/unique_town_state_us.csv")
+if(not df):
+    exit(f"monarch_data/unique_town_state_us.csv: not found")
 # for testing
 #df = pd.read_csv("monarch_data/top200.csv")
 
